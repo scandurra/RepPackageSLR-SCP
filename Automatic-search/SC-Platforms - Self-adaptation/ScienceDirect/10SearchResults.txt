@@ -1,0 +1,128 @@
+C. Dobre, F. Xhafa,
+Intelligent services for Big Data science,
+Future Generation Computer Systems,
+Volume 37,
+2014,
+Pages 267-281,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2013.07.014.
+(https://www.sciencedirect.com/science/article/pii/S0167739X13001593)
+Abstract: Cities are areas where Big Data is having a real impact. Town planners and administration bodies just need the right tools at their fingertips to consume all the data points that a town or city generates and then be able to turn that into actions that improve peoples’ lives. In this case, Big Data is definitely a phenomenon that has a direct impact on the quality of life for those of us that choose to live in a town or city. Smart Cities of tomorrow will rely not only on sensors within the city infrastructure, but also on a large number of devices that will willingly sense and integrate their data into technological platforms used for introspection into the habits and situations of individuals and city-large communities. Predictions say that cities will generate over 4.1 terabytes per day per square kilometer of urbanized land area by 2016. Handling efficiently such amounts of data is already a challenge. In this paper we present our solutions designed to support next-generation Big Data applications. We first present CAPIM, a platform designed to automate the process of collecting and aggregating context information on a large scale. It integrates services designed to collect context data (location, user’s profile and characteristics, as well as the environment). Later on, we present a concrete implementation of an Intelligent Transportation System designed on top of CAPIM. The application is designed to assist users and city officials better understand traffic problems in large cities. Finally, we present a solution to handle efficient storage of context data on a large scale. The combination of these services provides support for intelligent Smart City applications, for actively and autonomously adaptation and smart provision of services and content, using the advantages of contextual information.
+Keywords: Intelligent services; Big Data; Context; Context-aware services; Mobile computing; Smart City applications; Intelligent Transport Systems
+
+Yunliang Chen, Junqing Fan, Ze Deng, Bo Du, Xiaohui Huang, Qirui Gui,
+PR-KELM: Icing level prediction for transmission lines in smart grid,
+Future Generation Computer Systems,
+Volume 102,
+2020,
+Pages 75-83,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2019.08.002.
+(https://www.sciencedirect.com/science/article/pii/S0167739X17323993)
+Abstract: As a hot spot, the diffusion of the smart city has been more and more popular and widespread all over the world. The concept of smart city has supported a higher quality of urban spaces and a better offering of public services. Smart grid is an important component and the energy supply of smart city. The health of the smart grid will directly affect the health of the smart city. Efficient and accurate prediction about icing level of transmission lines provides a reliable basis for anti-icing and deicing of power grids. The prediction can not only significantly enhance the reliability, safety and stability of transmission networks, but also timely provide the state monitoring of ice on wires to the workers to make proper decisions and to prevent freezing disasters so as to effectively protect people’s safety and build a stable and friendly society. To reduce catastrophic damages caused by the iced transmission lines of the grid, this paper proposed a novel hybrid model called PR-KELM, an integration of Principal Component Analysis, ReliefF and Kernel based ELM (Extreme Learning Machine) method to predict the icing level of transmission lines. This hybrid model covered two stages including: 1) structured and unstructured data feature extraction by local binary patterns, principal component analysis and ReliefF; 2) radial basis function Kernel based ELM predicting the processed data. The experimental data adopted in this paper were from the online monitoring system of South China State Grid Online Monitoring System by terminal CC0289 between December 1, 2011 and March 1, 2016. Experimental results indicated: compared with Elman neural network model, random forest model, support vector machine model and Bayesian networks model, PR-KELM approach demonstrated high accuracy and lower prediction error in terms of RMSE (Root Mean Square Error), MAE (Mean Absolute Error), MAPE (Mean Absolute Percentage Error), and R (Coefficient of Correlation) while applied to predicting in real datasets.
+Keywords: Smart city; Smart grid; Icing level prediction; Feature extraction; Image processing
+
+Maria Spichkova, Milan Simic, Heinrich Schmidt, Jian Cheng, Xuening Dong, Yuxi Gui, Yin Liang, Peng Ling, Zixiong Yin,
+Formal Models for Intelligent Speed Validation and Adaptation,
+Procedia Computer Science,
+Volume 96,
+2016,
+Pages 1609-1618,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2016.08.208.
+(https://www.sciencedirect.com/science/article/pii/S187705091632018X)
+Abstract: This paper presents an approach for an intelligent speed validation and adaptation. The approach focuses on formal modelling of the corresponding smart vehicle units, to increase the road safety as well as to allow formal analysis of the smart vehicle behaviour. We suggest a number of models for speed check/limitation units, which reflect differences in the speed limits in several countries. We also present our results from the case studies, based on two implementations of the model as an iOS and an Android app for Intelligent Speed Adaptation.
+Keywords: Road Safety; Intelligent Vehicle; Transport system; Smart City
+
+Shaojie Kang, Wen Ji, Seungmin Rho, Varshinee Anu Padigala, Yiqiang Chen,
+Cooperative mobile video transmission for traffic surveillance in smart cities,
+Computers & Electrical Engineering,
+Volume 54,
+2016,
+Pages 16-25,
+ISSN 0045-7906,
+https://doi.org/10.1016/j.compeleceng.2016.06.013.
+(https://www.sciencedirect.com/science/article/pii/S0045790616301689)
+Abstract: Cooperation transmission among mobile devices is critical for video streaming systems. Conventional systems usually require huge storage space and bandwidth, subsequently causing a bottleneck for the development of streaming systems. To resolve such problems, this study proposes a cooperative mechanism for mobiles that can make full use of local storage space and uploading bandwidth to relieve the computational load for streaming servers. Firstly, a statistical distribution of the life cycle of devices is dynamically established based on the analysis of random arrival and departure of mobile users. Secondly, an adaptive sliding-window technology based on Scalable Video Coding (SVC) is proposed in this study to change the size of windows in real time. Thirdly, an adaptive streaming solution is introduced in the OPNET environment, which cooperatively integrates the strategies of overlay formation, quality adaptation, and data scheduling. Simulation results showed that the proposed mechanism saved power consumption of devices and ensured the video quality for networks with limited resources.
+Keywords: Cooperative transmission; Quality bottleneck; Data scheduling; Opnet
+
+Javier Ferrer, Manuel López-Ibáñez, Enrique Alba,
+Reliable simulation-optimization of traffic lights in a real-world city,
+Applied Soft Computing,
+Volume 78,
+2019,
+Pages 697-711,
+ISSN 1568-4946,
+https://doi.org/10.1016/j.asoc.2019.03.016.
+(https://www.sciencedirect.com/science/article/pii/S1568494619301346)
+Abstract: In smart cities, when the real-time control of traffic lights is not possible, the global optimization of traffic-light programs (TLPs) requires the simulation of a traffic scenario (traffic flows across the whole city) that is estimated after collecting data from sensors at the street level. However, the highly dynamic traffic of a city means that no single traffic scenario is a precise representation of the real system, and the fitness of any candidate solution (traffic-light program) will vary when deployed on the city. Thus, ideal TLPs should not only have an optimized fitness, but also a high reliability, i.e., low fitness variance, against the uncertainties of the real-world. Earlier traffic-light optimization methods, e.g., based on genetic algorithms, often simulate a single traffic scenario, which neglects variance in the real-world, leading to TLPs not optimized for reliability. Our main contributions in this work are the following: (a) the analysis of the importance of reliable solutions for TLP optimization, even when all traffic scenarios are consistent with the real-world data and highly correlated; (b) the adaptation of irace, an iterated racing algorithm that is able to dynamically adjust the number of traffic scenarios required to evaluate the fitness of TLPs and their reliability; (c) the use of a large real-world case study for which real-time control is not possible and where data was obtained from sensors at the street level; and (d) a thorough analysis of solutions generated by means of irace, a Genetic Algorithm, a Differential Evolution, a Particle Swarm Optimization and a Random Search. This analysis shows that simple strategies that simulate multiple traffic scenarios are able to obtain optimized solutions with improved reliability; however, the best results are obtained by irace, among the algorithms evaluated.
+Keywords: Simulation; Optimization; Metaheuristics; Uncertainty; Traffic-light planning
+
+George Kousiouris, Adnan Akbar, Juan Sancho, Paula Ta-shma, Alexandros Psychas, Dimosthenis Kyriazis, Theodora Varvarigou,
+An integrated information lifecycle management framework for exploiting social network data to identify dynamic large crowd concentration events in smart cities applications,
+Future Generation Computer Systems,
+Volume 78, Part 2,
+2018,
+Pages 516-530,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2017.07.026.
+(https://www.sciencedirect.com/science/article/pii/S0167739X17300055)
+Abstract: With the current availability of an extreme diversity of data sources and services, emerging from the Internet of Things and Cloud domains, the challenge is shifted towards identifying intelligent, abstracted and adaptive ways of correlating and combining the various levels of information. The purpose of this work is to demonstrate such a combination, on one hand at the service level, through integrating smart cities platforms for user level data, and on the other hand at Complex Event Processing, Storage and Analytics capabilities together with Twitter data. The final goal is to identify events of interest to the user such as Large Crowd Concentration (LCC) in a given area, in order to enrich application level information with related event identification that can enable more sophisticated actions on behalf of that user. The identification is based on observation of Twitter activity peaks compared to historical data on a dynamic time and location of interest. The approach is validated through a two-month experiment in the city of Madrid, identifying LCCs in sporting events around two sports venues and analyzing various approaches with relation to the needed thresholds definition.
+Keywords: Internet of things; Social networks; Analytics; Cloud computing; Event identification; Smart cities
+
+Gabriel S. Rodrigues, Felipe P. Guimarães, Genaína N. Rodrigues, Alessia Knauss, João Paulo C. de Araújo, Hugo Andrade, Raian Ali,
+GoalD: A Goal-Driven deployment framework for dynamic and heterogeneous computing environments,
+Information and Software Technology,
+Volume 111,
+2019,
+Pages 159-176,
+ISSN 0950-5849,
+https://doi.org/10.1016/j.infsof.2019.04.003.
+(https://www.sciencedirect.com/science/article/pii/S0950584918301344)
+Abstract: Context
+Emerging paradigms like Internet of Things and Smart Cities utilize advanced sensing and communication infrastructures, where heterogeneity is an inherited feature. Applications targeting such environments require adaptability and context-sensitivity to uncertain availability and failures in resources and their ad-hoc networks. Such heterogeneity is often hard to predict, making the deployment process a challenging task.
+Objective
+This paper proposes GoalD as a goal-driven framework to support autonomous deployment of heterogeneous computational resources to fulfill requirements, seen as goals, and their correlated components on one hand, and the variability space of the hosting computing and sensing environment on the other hand.
+Method
+GoalD comprises an offline and an online stage to fulfill autonomous deployment by leveraging the use of goals. Deployment configuration strategies arise from the variability structure of the Contextual Goal Model as an underlying structure to guide autonomous planning by selecting available as well as suitable resources at runtime.
+Results
+We evaluate GoalD on an existing exemplar from the self-adaptive systems community – the Tele Assistance Service provided by Weyns and Calinescu [1]. Furthermore, we evaluate the scalability of GoalD on a repository consisting of 430,500 artifacts. The evaluation results demonstrate the usefulness and scalability of GoalD in planning the deployment of a system with thousands of components in a few milliseconds.
+Conclusion
+GoalD is a framework to systematically tackle autonomous deployment in highly heterogeneous computing environments, partially unknown at design-time following a goal-oriented approach to achieve the user goals in a target environment. GoalD has demonstrated itself able to scale for deployment planning dealing with thousands of components in a few milliseconds.
+Keywords: Autonomous deployment; Contextual goal modelling; Heterogeneous computational resources; Deployment planning
+
+Jó Ueyama, Bruno S. Faiçal, Leandro Y. Mano, Guilherme Bayer, Gustavo Pessin, Pedro H. Gomes,
+Enhancing reliability in Wireless Sensor Networks for adaptive river monitoring systems: Reflections on their long-term deployment in Brazil,
+Computers, Environment and Urban Systems,
+Volume 65,
+2017,
+Pages 41-52,
+ISSN 0198-9715,
+https://doi.org/10.1016/j.compenvurbsys.2017.05.001.
+(https://www.sciencedirect.com/science/article/pii/S0198971516301351)
+Abstract: Several adaptive systems have been proposed that are based on the concepts of smart cities, which can be successfully adapted to natural disasters or other public safety concerns. Since these systems are embedded in a critical and dynamic environment, it is really important to have an infrastructure that is capable of providing real-time environmental information. This paper discusses two research questions that arise from adaptive ubicomp systems: (i) what are the key requirements to provide a reliable WSN-based system (e.g. a river monitoring system)? and (ii) how can an adaptable and reliable WSN-based system be developed? This paper seeks to respond to the former question with the aid of the RESS standard platform. The latter question is answered by employing a generic approach for adaptation. The term “critical systems”, means that any error may result in the loss of human life. We devised the RESS standard after deploying the WSN-based river monitoring system in Brazil for five years. Our prototype underwent several trials, sometimes leading to failure or damage, before we came up with a more reliable solution, which is outlined in this article. Finally, while our RESS platform is policy-free, it is extensible/adaptable and hence can naturally be adapted to new policies.
+Keywords: Wireless Sensor Network; Smart cities; Sensing critical environments; Public safety; Disaster resilience; Communications networks
+
+Carlos Oberdan Rolim, Anubis G. Rossetto, Valderi R.Q. Leithardt, Guilherme A. Borges, Cláudio F.R. Geyer, Tatiana F.M. dos Santos, Adriano M. Souza,
+Situation awareness and computational intelligence in opportunistic networks to support the data transmission of urban sensing applications,
+Computer Networks,
+Volume 111,
+2016,
+Pages 55-70,
+ISSN 1389-1286,
+https://doi.org/10.1016/j.comnet.2016.07.014.
+(https://www.sciencedirect.com/science/article/pii/S1389128616302420)
+Abstract: Smart cities can be seen as large-scale Cyber-Physical Systems with sensors monitoring cyber and physical indicators and with actuators dynamically changing the complex urban environment in some way. In this context, urban sensing is a new paradigm that exploits human-carried or vehicle-mounted sensors to ubiquitously collect data to provide a holistic view of the city. A challenge in this scenario is the transmission of sensed data in situations where the networking infrastructure is intermittent or unavailable. This paper outlines our research into an engine that uses opportunistic networks to support the data transmission of urban sensing applications. It applies situation awareness and computational intelligence approaches to perform routing, adaptation, and decision-making procedures. We carried out simulations within a simulated environment that showed our engine had 12% less overhead than other compared approaches.
+Keywords: Smart cities; Urban sensing; Opportunistic networks; Situation awareness; Computational intelligence
+
+Mauro Tortonesi, Marco Govoni, Alessandro Morelli, Giulio Riberto, Cesare Stefanelli, Niranjan Suri,
+Taming the IoT data deluge: An innovative information-centric service model for fog computing applications,
+Future Generation Computer Systems,
+Volume 93,
+2019,
+Pages 888-902,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2018.06.009.
+(https://www.sciencedirect.com/science/article/pii/S0167739X17306702)
+Abstract: Fog Computing is a new computation paradigm, recently emerged from the convergence of IoT, WSN, mobile computing, edge computing, and Cloud Computing, which is particularly well suited for Smart City environments. Fog Computing aims at supporting the development of time-sensitive, location-, social-, and context-aware applications by using computational resources in close proximity of information producers and consumers, such as increasingly common cheap and powerful modern hardware platforms. However, realizing Fog Computing solutions for Smart Cities represents a very challenging task, because of the massive amount of data to process, the strict resource and time constraints, and the significant dynamicity and heterogeneity of computation and network resources. These formidable challenges suggest taking into consideration new information and service model solutions that explore several trade-offs between processing speed and accuracy. Along these guidelines, we designed the SPF Fog-as-a-Service platform, which proposes a new information-centric and utility-based service model and allows the definition of self-adaptive and composition-friendly services, which can execute either on edge devices or in the Cloud. In numerous evaluations, SPF proved to be a very effective platform for running Fog services on heterogeneous devices with significantly different computational capabilities while also demonstrating remarkable ease of development and management characteristics.
+Keywords: Fog computing; Smart cities; Information-centric networking; Internet-of-Things; Value of information

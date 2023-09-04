@@ -1,0 +1,64 @@
+31 Results for: [Full Text: "smart city"] AND [[Full Text: application] OR [Full Text: service]] AND [[Full Text: "urban data analytic"] OR [Full Text: "big data analytic"] OR [Full Text: "machine learning"]] AND [E-Publication Date: (01/01/2010 TO 01/31/2020)]
+
+M. Mazhar Rathore, Anand Paul, Awais Ahmad, Marco Anisetti, and Gwanggil Jeon. 2017. Hadoop-Based Intelligent Care System (HICS): Analytical Approach for Big Data in IoT. ACM Trans. Internet Technol. 18, 1, Article 8 (February 2018), 24 pages. https://doi.org/10.1145/3108936
+
+Meiyi Ma, Sarah M. Preum, Mohsin Y. Ahmed, William Tärneberg, Abdeltawab Hendawi, and John A. Stankovic. 2019. Data Sets, Modeling, and Decision Making in Smart Cities: A Survey. ACM Trans. Cyber-Phys. Syst. 4, 2, Article 14 (April 2020), 28 pages. https://doi.org/10.1145/3355283
+
+Min Chen, Wei Li, Giancarlo Fortino, Yixue Hao, Long Hu, and Iztok Humar. 2019. A Dynamic Service Migration Mechanism in Edge Cognitive Computing. ACM Trans. Internet Technol. 19, 2, Article 30 (May 2019), 15 pages. https://doi.org/10.1145/3239565
+
+Catia Prandi, Silvia Mirri, Stefano Ferretti, and Paola Salomoni. 2017. On the Need of Trustworthy Sensing and Crowdsourcing for Urban Accessibility in Smart City. ACM Trans. Internet Technol. 18, 1, Article 4 (February 2018), 21 pages. https://doi.org/10.1145/3133327
+
+Shuochao Yao, Yiran Zhao, Huajie Shao, Aston Zhang, Chao Zhang, Shen Li, and Tarek Abdelzaher. 2018. RDeepSense: Reliable Deep Mobile Computing Models with Uncertainty Estimations. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 1, 4, Article 173 (December 2017), 26 pages. https://doi.org/10.1145/3161181
+
+Iman Azimi, Arman Anzanpour, Amir M. Rahmani, Tapio Pahikkala, Marco Levorato, Pasi Liljeberg, and Nikil Dutt. 2017. HiCH: Hierarchical Fog-Assisted Computing Architecture for Healthcare IoT. ACM Trans. Embed. Comput. Syst. 16, 5s, Article 174 (October 2017), 20 pages. https://doi.org/10.1145/3126501
+
+Chao Huang, Dong Wang, and Jun Tao. 2017. An Unsupervised Approach to Inferring the Localness of People Using Incomplete Geotemporal Online Check-In Data. ACM Trans. Intell. Syst. Technol. 8, 6, Article 80 (November 2017), 18 pages. https://doi.org/10.1145/3022471
+
+Chuanqi Tan, Furu Wei, Qingyu Zhou, Nan Yang, Bowen Du, Weifeng Lv, and Ming Zhou. 2018. Context-Aware Answer Sentence Selection With Hierarchical Gated Recurrent Neural Networks. IEEE/ACM Trans. Audio, Speech and Lang. Proc. 26, 3 (March 2018), 540–549. https://doi.org/10.1109/TASLP.2017.2785283
+
+Junhao Zhou, Hong-Ning Dai, and Hao Wang. 2019. Lightweight Convolution Neural Networks for Mobile Edge Computing in Transportation Cyber Physical Systems. ACM Trans. Intell. Syst. Technol. 10, 6, Article 67 (November 2019), 20 pages. https://doi.org/10.1145/3339308
+
+Min Kyung Lee, Anuraag Jain, Hea Jin Cha, Shashank Ojha, and Daniel Kusbit. 2019. Procedural Justice in Algorithmic Fairness: Leveraging Transparency and Outcome Control for Fair Algorithmic Mediation. Proc. ACM Hum.-Comput. Interact. 3, CSCW, Article 182 (November 2019), 26 pages. https://doi.org/10.1145/3359284
+
+Carlo Puliafito, Enzo Mingozzi, Francesco Longo, Antonio Puliafito, and Omer Rana. 2019. Fog Computing for the Internet of Things: A Survey. ACM Trans. Internet Technol. 19, 2, Article 18 (May 2019), 41 pages. https://doi.org/10.1145/3301443
+
+Federico Concone, Giuseppe Lo Re, and Marco Morana. 2019. A Fog-Based Application for Human Activity Recognition Using Personal Smart Devices. ACM Trans. Internet Technol. 19, 2, Article 20 (May 2019), 20 pages. https://doi.org/10.1145/3266142
+
+Lucas Mentch and Siyu Zhou. 2020. Randomization as regularization: a degrees of freedom explanation for random forest success. J. Mach. Learn. Res. 21, 1, Article 171 (January 2020), 36 pages.
+
+Alex Poms, Will Crichton, Pat Hanrahan, and Kayvon Fatahalian. 2018. Scanner: efficient video analysis at scale. ACM Trans. Graph. 37, 4, Article 138 (August 2018), 13 pages. https://doi.org/10.1145/3197517.3201394
+
+Loris Nanni, Sheryl Brahnam, Stefano Ghidoni, and Alessandra Lumini. 2019. Bioimage Classification with Handcrafted and Learned Features. IEEE/ACM Trans. Comput. Biol. Bioinformatics 16, 3 (May 2019), 874–885. https://doi.org/10.1109/TCBB.2018.2821127
+
+Qingchen Zhang, Laurence T. Yang, Zhikui Chen, and Peng Li. 2018. Dependable Deep Computation Model for Feature Learning on Big Data in Cyber-Physical Systems. ACM Trans. Cyber-Phys. Syst. 3, 1, Article 11 (January 2019), 17 pages. https://doi.org/10.1145/3110218
+
+Zipei Fan, Xuan Song, Tianqi Xia, Renhe Jiang, Ryosuke Shibasaki, and Ritsu Sakuramachi. 2018. Online Deep Ensemble Learning for Predicting Citywide Human Mobility. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 3, Article 105 (September 2018), 21 pages. https://doi.org/10.1145/3264915
+
+Xuebo Liu, Derek F. Wong, Lidia S. Chao, and Yang Liu. 2019. Latent Attribute Based Hierarchical Decoder for Neural Machine Translation. IEEE/ACM Trans. Audio, Speech and Lang. Proc. 27, 12 (Dec. 2019), 2103–2112. https://doi.org/10.1109/TASLP.2019.2941587
+
+Bowen Du, Yifeng Cui, Yanjie Fu, Runxing Zhong, and Hui Xiong. 2018. SmartTransfer: Modeling the Spatiotemporal Dynamics of Passenger Transfers for Crowdedness-Aware Route Recommendations. ACM Trans. Intell. Syst. Technol. 9, 6, Article 70 (November 2018), 26 pages. https://doi.org/10.1145/3232229
+
+Dheeraj Kumar, Sutharshan Rajasegarar, and Marimuthu Palaniswami. 2015. Geospatial Estimation-Based Auto Drift Correction in Wireless Sensor Networks. ACM Trans. Sen. Netw. 11, 3, Article 50 (May 2015), 39 pages. https://doi.org/10.1145/2736697
+
+Evangelos Pournaras, Peter Pilgerstorfer, and Thomas Asikis. 2018. Decentralized Collective Learning for Self-managed Sharing Economies. ACM Trans. Auton. Adapt. Syst. 13, 2, Article 10 (June 2018), 33 pages. https://doi.org/10.1145/3277668
+
+Pramod Anantharam, Payam Barnaghi, Krishnaprasad Thirunarayan, and Amit Sheth. 2015. Extracting City Traffic Events from Social Streams. ACM Trans. Intell. Syst. Technol. 6, 4, Article 43 (August 2015), 27 pages. https://doi.org/10.1145/2717317
+
+Giovanni Merlino, Rustem Dautov, Salvatore Distefano, and Dario Bruneo. 2019. Enabling Workload Engineering in Edge, Fog, and Cloud Computing through OpenStack-based Middleware. ACM Trans. Internet Technol. 19, 2, Article 28 (May 2019), 22 pages. https://doi.org/10.1145/3309705
+
+Haiqin Wu, Liangmin Wang, Guoliang Xue, Jian Tang, and Dejun Yang. 2019. Enabling Data Trustworthiness and User Privacy in Mobile Crowdsensing. IEEE/ACM Trans. Netw. 27, 6 (Dec. 2019), 2294–2307. https://doi.org/10.1109/TNET.2019.2944984
+
+Di Wu, Qiang Liu, Yong Li, Julie A. McCann, Amelia C. Regan, and Nalini Venkatasubramanian. 2016. Adaptive Lookup of Open WiFi Using Crowdsensing. IEEE/ACM Trans. Netw. 24, 6 (December 2016), 3634–3647. https://doi.org/10.1109/TNET.2016.2533399
+
+Michael Steptoe, Robert Krüger, Rolando Garcia, Xing Liang, and Ross Maciejewski. 2018. A Visual Analytics Framework for Exploring Theme Park Dynamics. ACM Trans. Interact. Intell. Syst. 8, 1, Article 4 (March 2018), 27 pages. https://doi.org/10.1145/3162076
+
+Ruilin Liu, Yu Yang, Daehan Kwak, Desheng Zhang, Liviu Iftode, and Badri Nath. 2017. Your Search Path Tells Others Where to Park: Towards Fine-Grained Parking Availability Crowdsourcing Using Parking Decision Models. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 1, 3, Article 78 (September 2017), 27 pages. https://doi.org/10.1145/3130942
+
+Simone Silvestri, Rahul Urgaonkar, Murtaza Zafer, and Bong Jun Ko. 2018. A Framework for the Inference of Sensing Measurements Based on Correlation. ACM Trans. Sen. Netw. 15, 1, Article 4 (February 2019), 28 pages. https://doi.org/10.1145/3272035
+
+Xiaoyu Ji, Xinyan Zhou, Miao Xu, Wenyuan Xu, and Yabo Dong. 2020. OPCIO: Optimizing Power Consumption for Embedded Devices via GPIO Configuration. ACM Trans. Sen. Netw. 16, 2, Article 16 (May 2020), 28 pages. https://doi.org/10.1145/3373417
+
+Daniele Midi, Salmin Sultana, and Elisa Bertino. 2016. A System for Response and Prevention of Security Incidents in Wireless Sensor Networks. ACM Trans. Sen. Netw. 13, 1, Article 1 (February 2017), 38 pages. https://doi.org/10.1145/2996195
+
+Amitangshu Pal and Krishna Kant. 2019. Water Flow Driven Sensor Networks for Leakage and Contamination Monitoring in Distribution Pipelines. ACM Trans. Sen. Netw. 15, 4, Article 37 (November 2019), 43 pages. https://doi.org/10.1145/3342513
+

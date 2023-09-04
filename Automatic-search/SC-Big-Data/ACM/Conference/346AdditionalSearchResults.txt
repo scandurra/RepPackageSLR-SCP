@@ -1,0 +1,694 @@
+346 Results for: [Full Text: "smart city"] AND [[Full Text: application] OR [Full Text: service]] AND [[Full Text: "urban data analytic"] OR [Full Text: "big data analytic"] OR [Full Text: "machine learning"]] AND [E-Publication Date: (02/01/2020 TO 08/31/2023)]
+
+Hezron Hezron, Virginia Lalujan, and Ghandy Ghandy. 2022. IoT Learning for Electrical Engineering. In Proceedings of the 4th Asia Pacific Conference on Research in Industrial and Systems Engineering (APCORISE '21). Association for Computing Machinery, New York, NY, USA, 645–648. https://doi.org/10.1145/3468013.3468671
+
+Jing Wang, Mo Wang, and Yulun Song. 2022. A study on smart city research activity using bibliometric and natural language processing methods. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 346–352. https://doi.org/10.1145/3512576.3512638
+
+Pramath Joshi, Mindula Liyange Don, Sidney Guildford Chikodi, Austin Bitanga, Mourita Chowdhury, Yixin Mu, Vivienne Farrell, Richard Burton Watson, and Peter John Ryan. 2021. Web-enabled Smart City Applications for Urban Transport and Parking Operations. In Proceedings of the 2021 4th International Conference on Software Engineering and Information Management (ICSIM '21). Association for Computing Machinery, New York, NY, USA, 56–62. https://doi.org/10.1145/3451471.3451481
+
+Morteza Boroun and Afrooz Jalilzadeh. 2022. Inexact-proximal accelerated gradient method for stochastic nonconvex constrained optimization problems. In Proceedings of the Winter Simulation Conference (WSC '21). IEEE Press, Article 246, 1–12.
+
+Gabriela Viale Pereira, Maria Wimmer, and Alexander Ronzhyn. 2020. Research needs for disruptive technologies in smart cities. In Proceedings of the 13th International Conference on Theory and Practice of Electronic Governance (ICEGOV '20). Association for Computing Machinery, New York, NY, USA, 620–627. https://doi.org/10.1145/3428502.3428594
+
+Vai-Kei Ian, Rita Tse, Su-Kit Tang, and Giovanni Pau. 2023. Transforming from Mathematical Model to ML Model for Meteorology in Macao's Smart City Planning. In Proceedings of the 2023 7th International Conference on E-Commerce, E-Business and E-Government (ICEEG '23). Association for Computing Machinery, New York, NY, USA, 72–78. https://doi.org/10.1145/3599609.3599620
+
+Carlos Iván Chesñevar, María Paula González, Ana Maguitman, and Elsa Estevez. 2020. A first approach towards integrating computational argumentation in cognitive cities. In Proceedings of the 13th International Conference on Theory and Practice of Electronic Governance (ICEGOV '20). Association for Computing Machinery, New York, NY, USA, 25–32. https://doi.org/10.1145/3428502.3428506
+
+Gerasimos Vonitsanos, Theodor Panagiotakopoulos, Andreas Kanavos, and Achilles Kameas. 2022. An Apache Spark Framework for IoT-enabled Waste Management in Smart Cities. In Proceedings of the 12th Hellenic Conference on Artificial Intelligence (SETN '22). Association for Computing Machinery, New York, NY, USA, Article 23, 1–7. https://doi.org/10.1145/3549737.3549764
+
+Helen K. Liu, Yu-Wei Guo, and Liang-Yu Chen. 2023. Crowdsourcing Smart City: SmartTaipei Project. In Proceedings of the 24th Annual International Conference on Digital Government Research (DGO '23). Association for Computing Machinery, New York, NY, USA, 44–54. https://doi.org/10.1145/3598469.3598474
+
+Dapeng Lan, Yu Liu, Amir Taherkordi, Frank Eliassen, Stéphane Delbruel, and Liu Lei. 2021. A federated fog-cloud framework for data processing and orchestration: a case study in smart cities. In Proceedings of the 36th Annual ACM Symposium on Applied Computing (SAC '21). Association for Computing Machinery, New York, NY, USA, 729–736. https://doi.org/10.1145/3412841.3444962
+
+Vasiliy Krundyshev. 2021. Neural network approach to assessing cybersecurity risks in large-scale dynamic networks. In 13th International Conference on Security of Information and Networks (SIN 2020). Association for Computing Machinery, New York, NY, USA, Article 32, 1–8. https://doi.org/10.1145/3433174.3433603
+
+Jinghao Cao. 2021. Smart Application of 5G Mobile Edge Computing with IoT: Future Insight of Autonomous Driving Technologies. In 2021 the 3rd International Conference on Big Data Engineering and Technology (BDET) (BDET 2021). Association for Computing Machinery, New York, NY, USA, 99–104. https://doi.org/10.1145/3474944.3474961
+
+Shama Siddiqui, Anwar Ahmed Khan, Kapal Dev, and Indrakshi Dey. 2021. Integrating federated learning with IoMT for managing obesity in smart city. In Proceedings of the 1st Workshop on Artificial Intelligence and Blockchain Technologies for Smart Cities with 6G (6G-ABS '21). Association for Computing Machinery, New York, NY, USA, 7–12. https://doi.org/10.1145/3477084.3484950
+
+Gabriele Guerrini, Luca Romeo, Davide Alessandrini, and Emanuele Frontoni. 2021. Analysis, Design and Implementation of a Forecasting System for Parking Lots Occupation. In Proceedings of the Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS'21). Association for Computing Machinery, New York, NY, USA, 12–16. https://doi.org/10.1145/3459609.3460525
+
+Shurong Liang, Xiaolan Xie, Xiaochun Cheng, and Xiaohua Tao. 2021. Random Forest Parameter Optimization Method Based on Fireworks Algorithm. In Proceedings of the 2020 3rd International Conference on E-Business, Information Management and Computer Science (EBIMCS '20). Association for Computing Machinery, New York, NY, USA, 597–603. https://doi.org/10.1145/3453187.3453401
+
+Dae-Young Park and In-Young Ko. 2021. Auto-labeling of sensor data using social media messages: a case study for a smart city. In Proceedings of the 36th Annual ACM Symposium on Applied Computing (SAC '21). Association for Computing Machinery, New York, NY, USA, 752–760. https://doi.org/10.1145/3412841.3441952
+
+Lu Zhang, Yu Lei, and Jintong Feng. 2022. Research on Spatial Data Resource Sharing of Digital City Based on Random Forest Algorithm. In 2021 International Conference on Aviation Safety and Information Technology (ICASIT 2021). Association for Computing Machinery, New York, NY, USA, 895–899. https://doi.org/10.1145/3510858.3511418
+
+Yiqi Zhao, Ziyan An, Xuqing Gao, Ayan Mukhopadhyay, and Meiyi Ma. 2023. Fairguard: Harness Logic-based Fairness Rules in Smart Cities. In Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI '23). Association for Computing Machinery, New York, NY, USA, 105–116. https://doi.org/10.1145/3576842.3582371
+
+Talal Ashraf Butt. 2022. Future Smart Cities: Vision, Challenges and Technology Trends. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 353–359. https://doi.org/10.1145/3512576.3512639
+
+Abdalrahman Hwoij, As'har Khamaiseh, and Mohammad Ababneh. 2021. SIEM Architecture for the Internet of Things and Smart City. In International Conference on Data Science, E-learning and Information Systems 2021 (DATA'21). Association for Computing Machinery, New York, NY, USA, 147–152. https://doi.org/10.1145/3460620.3460747
+
+Yuping Lian. 2022. Smart Education: Education Reform in the Age of Intelligence. In Proceedings of the 2021 5th International Conference on Education and E-Learning (ICEEL '21). Association for Computing Machinery, New York, NY, USA, 41–45. https://doi.org/10.1145/3502434.3502478
+
+Thomas Sandholm and Sayandev Mukherjee. 2021. SCNO: smart city network operator. In Proceedings of the 1st Workshop on Artificial Intelligence and Blockchain Technologies for Smart Cities with 6G (6G-ABS '21). Association for Computing Machinery, New York, NY, USA, 1–6. https://doi.org/10.1145/3477084.3484949
+
+A.K. Kritzinger, A.P. Calitz, and L. Westraadt. 2020. Data Wrangling for South African Smart City Crime Data. In Conference of the South African Institute of Computer Scientists and Information Technologists 2020 (SAICSIT '20). Association for Computing Machinery, New York, NY, USA, 198–209. https://doi.org/10.1145/3410886.3410913
+
+Henrique Sousa, Pedro Figueiredo, Daniel Francisco, Miguel Monteiro, Renato Dias, Ana Almeida, Pedro Rito, and Susana Sargento. 2023. Safe Roads: an Integration between Twitter and City Sensing. In Proceedings of the 12th International Conference on the Internet of Things (IoT '22). Association for Computing Machinery, New York, NY, USA, 211–218. https://doi.org/10.1145/3567445.3571110
+
+Connor Daniel Flick, Courtney J Harris, Nikolas T Yonkers, Nahal Norouzi, Austin Erickson, Zubin Choudhary, Matt Gottsacker, Gerd Bruder, and Greg Welch. 2021. Trade-offs in Augmented Reality User Interfaces for Controlling a Smart Environment. In Proceedings of the 2021 ACM Symposium on Spatial User Interaction (SUI '21). Association for Computing Machinery, New York, NY, USA, Article 17, 1–11. https://doi.org/10.1145/3485279.3485288
+
+Vasja Roblek and Maja Meško. 2020. Smart city knowledge management: Holistic review and the analysis of the urban knowledge management. In The 21st Annual International Conference on Digital Government Research (dg.o '20). Association for Computing Machinery, New York, NY, USA, 52–60. https://doi.org/10.1145/3396956.3398263
+
+Tiejun Pan, Leina Zheng, and Ren Zhu. 2022. Research on Key Technologies of Real Scene 3D Cloud Service Platform for Digital Twin Cities. In Proceedings of the 2022 International Conference on E-business and Mobile Commerce (ICEMC '22). Association for Computing Machinery, New York, NY, USA, 59–63. https://doi.org/10.1145/3543106.3543116
+
+Hina Sharma. 2020. Smart cities with smart AI to fight back Covid19: how smart cities used smart AI to fight back the pandemic. In Proceedings of the 30th Annual International Conference on Computer Science and Software Engineering (CASCON '20). IBM Corp., USA, 272–274.
+
+Mei Xue Li, Hao Chang, Chao Rui Wei, Shi Shen Huang, Zhang Shao Chen, and Chen Zhao. 2023. Innovative design of a whole-process smart platform for new energy vehicle safety. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 262–267. https://doi.org/10.1145/3582197.3582241
+
+Usman Khalil, Owais Ahmed Malik, Ong Wee Hong, and Mueen Uddin. 2022. Decentralized Smart City of Things: A Blockchain Tokenization-enabled Architecture for Digitization and Authentication of Assets in Smart Cities. In Proceedings of the 2022 7th International Conference on Cloud Computing and Internet of Things (CCIOT '22). Association for Computing Machinery, New York, NY, USA, 38–47. https://doi.org/10.1145/3569507.3569513
+
+Egor Prokhin. 2022. The Concept of "Smart City" as a Main Element for Improving the Efficiency of Urban Infrastructure. In 2022 13th International Conference on E-business, Management and Economics (ICEME 2022). Association for Computing Machinery, New York, NY, USA, 617–626. https://doi.org/10.1145/3556089.3556185
+
+Muhammad Muneeb, Su-Chong Joo, Gyu-Sung Ham, and Kwang-Man Ko. 2021. An Elastic Blockchain IoT-based Intelligent Edge-Fog Collaboration Computing Platform. In 2021 International Symposium on Electrical, Electronics and Information Engineering (ISEEIE 2021). Association for Computing Machinery, New York, NY, USA, 447–451. https://doi.org/10.1145/3459104.3459178
+
+Aouatif Arqane, Omar Boutkhoum, Hicham Boukhriss, and Abdelmajid El Moutaouakkil. 2021. A Review of Intrusion Detection Systems: Datasets and machine learning methods. In Proceedings of the 4th International Conference on Networking, Information Systems &amp; Security (NISS2021). Association for Computing Machinery, New York, NY, USA, Article 7, 1–6. https://doi.org/10.1145/3454127.3456576
+
+Jeongeun Song, Songling Gao, and Zhiyong Fu. 2020. Design Smart Living Scenario Through Future Sensitive Attached-It Tools. In The eighth International Workshop of Chinese CHI (Chinese CHI 2020). Association for Computing Machinery, New York, NY, USA, 32–39. https://doi.org/10.1145/3403676.3403680
+
+Luiza Schuch de Azambuja, Gabriela Viale Pereira, and Robert Krimmer. 2020. Clearing the existing fog over the smart sustainable city concept: highlighting the importance of governance. In Proceedings of the 13th International Conference on Theory and Practice of Electronic Governance (ICEGOV '20). Association for Computing Machinery, New York, NY, USA, 628–637. https://doi.org/10.1145/3428502.3428595
+
+Juan Ramón Santana, Pablo Sotres, Jesús Pérez, Luis Sánchez, Jorge Lanza, and Luis Muñoz. 2022. LoRaWAN-based Smart Parking Service: Deployment and Performance Evaluation. In Proceedings of the 19th ACM International Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, &amp; Ubiquitous Networks (PE-WASUN '22). Association for Computing Machinery, New York, NY, USA, 107–114. https://doi.org/10.1145/3551663.3558685
+
+Yana Testina, Artur Kuchumov, Julia Boykova, and Marina Voloshinova. 2022. SMART CITIES as Drivers of Digitalization and Environmentalization of the Arctic. In Proceedings of the 3rd International Scientific Conference on Innovations in Digital Economy (SPBPU IDE '21). Association for Computing Machinery, New York, NY, USA, 220–227. https://doi.org/10.1145/3527049.3527133
+
+Neha Chaudhuri and Indranil Bose. 2020. Application of Image Data Analytics for Immediate Disaster Response. In Proceedings of the 21st International Conference on Distributed Computing and Networking (ICDCN '20). Association for Computing Machinery, New York, NY, USA, Article 32, 1–5. https://doi.org/10.1145/3369740.3372729
+
+Atiya Usmani, M. Jaleed Khan, John G. Breslin, and Edward Curry. 2023. Towards Multimodal Knowledge Graphs for Data Spaces. In Companion Proceedings of the ACM Web Conference 2023 (WWW '23 Companion). Association for Computing Machinery, New York, NY, USA, 1494–1499. https://doi.org/10.1145/3543873.3587665
+
+Nelly Murawiowa, Elena Mudrova, and Viktoria Degtereva. 2022. Smart Housing and Utilities: A Causal Diagram. In Proceedings of the 3rd International Scientific Conference on Innovations in Digital Economy (SPBPU IDE '21). Association for Computing Machinery, New York, NY, USA, 245–252. https://doi.org/10.1145/3527049.3527134
+
+Helen K. Liu, Muhchyun Tang, and Kuang-Hua Chen. 2020. Public Decision Making: Connecting Artificial Intelligence and Crowds. In The 21st Annual International Conference on Digital Government Research (dg.o '20). Association for Computing Machinery, New York, NY, USA, 214–222. https://doi.org/10.1145/3396956.3396965
+
+Leodivino Lawas, Ken Dalino Gorro, Elmo Ranolo, and Anthony Ilano. 2022. Exploring and Analyzing Facebook as crowdsourcing platform for traffic updates using Selenium Support Vector Machine and Non-parametric LDA. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 226–230. https://doi.org/10.1145/3512576.3512617
+
+Yanhui Xu and Dan Wang. 2022. Understanding the willingness to share building data by a social study based on privacy calculus theory. In Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '22). Association for Computing Machinery, New York, NY, USA, 59–68. https://doi.org/10.1145/3563357.3564059
+
+Luis Teran, Jhonny Pincay, Ivo Wallimann-Helmer, and Edy Portmann. 2022. A Literature Review on Digital Ethics from a Humanistic and Sustainable Perspective. In Proceedings of the 14th International Conference on Theory and Practice of Electronic Governance (ICEGOV '21). Association for Computing Machinery, New York, NY, USA, 57–64. https://doi.org/10.1145/3494193.3494295
+
+Chinmaya Kumar Dehury and Satish Narayana Srirama. 2020. Personalized Service Delivery using Reinforcement Learning in Fog and Cloud Environment. In Proceedings of the 21st International Conference on Information Integration and Web-based Applications &amp; Services (iiWAS2019). Association for Computing Machinery, New York, NY, USA, 522–529. https://doi.org/10.1145/3366030.3366055
+
+Narongrit Waraporn, Vajirasak Vanijja, Montri Supattatham, Olarn Rojanapornpun, Nannapat Termsak, and Piraporn Sirisawatvatana. 2021. Urban Flood Management: Bangkok Survey. In The 12th International Conference on Advances in Information Technology (IAIT2021). Association for Computing Machinery, New York, NY, USA, Article 10, 1–8. https://doi.org/10.1145/3468784.3468888
+
+Marco Anisetti, Claudio A. Ardagna, Chiara Braghin, Ernesto Damiani, Antongiacomo Polimeno, and Alessandro Balestrucci. 2021. Dynamic and Scalable Enforcement of Access Control Policies for Big Data. In Proceedings of the 13th International Conference on Management of Digital EcoSystems (MEDES '21). Association for Computing Machinery, New York, NY, USA, 71–78. https://doi.org/10.1145/3444757.3485107
+
+Antonis Protopsaltis, Panagiotis Sarigiannidis, Dimitrios Margounakis, and Anastasios Lytos. 2020. Data visualization in internet of things: tools, methodologies, and challenges. In Proceedings of the 15th International Conference on Availability, Reliability and Security (ARES '20). Association for Computing Machinery, New York, NY, USA, Article 110, 1–11. https://doi.org/10.1145/3407023.3409228
+
+Jesús Aguilar-Armijo. 2021. Multi-access Edge Computing for Adaptive Bitrate Video Streaming. In Proceedings of the 12th ACM Multimedia Systems Conference (MMSys '21). Association for Computing Machinery, New York, NY, USA, 378–382. https://doi.org/10.1145/3458305.3478460
+
+Margaret L. Loper. 2020. Simulation trust and the internet of things. In Proceedings of the Winter Simulation Conference (WSC '19). IEEE Press, 2–16.
+
+Muhammad Hamza, Haibo Hu, Muhammad Azeem Akbar, Faisal Mehmood, Yasir Hussain, and Ali Mahmoud Baddour. 2020. SIOT-RIMM: Towards Secure IOT-Requirement Implementation Maturity Model. In Proceedings of the 24th International Conference on Evaluation and Assessment in Software Engineering (EASE '20). Association for Computing Machinery, New York, NY, USA, 463–468. https://doi.org/10.1145/3383219.3383286
+
+Alfredo Cuzzocrea. 2020. Uncertainty and Imprecision in Big Data Management: Models, Issues, Paradigms, and Future Research Directions. In Proceedings of the 2020 4th International Conference on Cloud and Big Data Computing (ICCBDC '20). Association for Computing Machinery, New York, NY, USA, 6–9. https://doi.org/10.1145/3416921.3416943
+
+Auriol Degbelo. 2020. Open Data User Needs: A Preliminary Synthesis. In Companion Proceedings of the Web Conference 2020 (WWW '20). Association for Computing Machinery, New York, NY, USA, 834–839. https://doi.org/10.1145/3366424.3386586
+
+Hamza Ngadi, Ahcene Bounceur, Mohammad Hammoudeh, Samir Ouchani, Madani Bezoui, Reinhardt Euler, and Abdelkader Laouid. 2023. From Simulation to Digital Twins, the Case of Internet of Things Research and Tools. In Proceedings of the 6th International Conference on Future Networks &amp; Distributed Systems (ICFNDS '22). Association for Computing Machinery, New York, NY, USA, 657–666. https://doi.org/10.1145/3584202.3584302
+
+Rohit Rastogi, Yash Rastogi, and Saransh Chauhan. 2022. Block Chain Application for E-Voting Process Using ML for South Asian Continent. In Proceedings of the 2022 Fourteenth International Conference on Contemporary Computing (IC3-2022). Association for Computing Machinery, New York, NY, USA, 509–513. https://doi.org/10.1145/3549206.3549292
+
+Rony Medaglia, Gianluca Misuraca, and Vincenzo Aquaro. 2021. Digital Government and the United Nations’ Sustainable Development Goals: Towards an analytical framework. In DG.O2021: The 22nd Annual International Conference on Digital Government Research (DG.O'21). Association for Computing Machinery, New York, NY, USA, 473–478. https://doi.org/10.1145/3463677.3463736
+
+Qiang He, Zeqian Dong, Feifei Chen, Shuiguang Deng, Weifa Liang, and Yun Yang. 2022. Pyramid: Enabling Hierarchical Neural Networks with Edge Computing. In Proceedings of the ACM Web Conference 2022 (WWW '22). Association for Computing Machinery, New York, NY, USA, 1860–1870. https://doi.org/10.1145/3485447.3511990
+
+Peter J. Ryan and Richard B. Watson. 2023. Sentiment Analysis of Social Media: Techniques, Applications, and Reliability. In Proceedings of the 2023 6th International Conference on Software Engineering and Information Management (ICSIM '23). Association for Computing Machinery, New York, NY, USA, 274–279. https://doi.org/10.1145/3584871.3584911
+
+Serge Volkov. 2020. City Services Management Methodology Based on Socio-Cyber-Physical Approach. In Proceedings of the 2019 7th International Conference on Information Technology: IoT and Smart City (ICIT '19). Association for Computing Machinery, New York, NY, USA, 373–376. https://doi.org/10.1145/3377170.3377261
+
+Nina Rizun, Aleksandra Revina, and Noella Edelmann. 2023. Application of Text Analytics in Public Service Co-Creation: Literature Review and Research Framework. In Proceedings of the 24th Annual International Conference on Digital Government Research (DGO '23). Association for Computing Machinery, New York, NY, USA, 12–22. https://doi.org/10.1145/3598469.3598471
+
+Xiyu Pan, Neda Mohammadi, and John E. Taylor. 2023. Smart City Digital Twins for Public Safety: A Deep Learning and Simulation Based Method for Dynamic Sensing and Decision-Making. In Proceedings of the Winter Simulation Conference (WSC '22). IEEE Press, 808–818.
+
+Yang Zhang, Sven Mayer, Jesse T. Gonzalez, and Chris Harrison. 2021. Vibrosight++: City-Scale Sensing Using Existing Retroreflective Signs and Markers. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 410, 1–14. https://doi.org/10.1145/3411764.3445054
+
+Tianyi Li, John Cullom, and Raphael Stern. 2021. Leveraging video data to better understand driver-pedestrian interactions in a smart city environment. In Proceedings of the Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS'21). Association for Computing Machinery, New York, NY, USA, 6–11. https://doi.org/10.1145/3459609.3460524
+
+Muddsair Sharif, Mayur Hotwani, Huseyin Seker, and Gero Luckemeyer. 2022. IMobilAkou: The Role of Machine Listening to Detect Vehicle using Sound Acoustics. In Proceedings of the 5th International Conference on Advances in Artificial Intelligence (ICAAI '21). Association for Computing Machinery, New York, NY, USA, 194–199. https://doi.org/10.1145/3505711.3505744
+
+Dhinesh Kumar R, Suresh Chavhan, Deepak Gupta, Ashish Khanna, and Joel J. P. C. Rodrigues. 2021. An intelligent self-learning drone assistance approach towards V2V communication in smart city. In Proceedings of the 4th ACM MobiCom Workshop on Drone Assisted Wireless Communications for 5G and Beyond (DroneCom '21). Association for Computing Machinery, New York, NY, USA, 19–24. https://doi.org/10.1145/3477090.3481050
+
+Zakia Zaman, Wanli Xue, Praveen Gauravaram, Wen Hu, and Sanjay Jha. 2022. BloomXNOR-Net: privacy-preserving machine learning in IoT. In Proceedings of the 13th ACM Wireless of the Students, by the Students, and for the Students Workshop (S3 '22). Association for Computing Machinery, New York, NY, USA, 1–3. https://doi.org/10.1145/3556563.3558534
+
+Zhongxu Dong, Amir M. Abdulghani, Muhammad A. Imran, and Qammer H. Abbasi. 2020. Artificial Intelligence Enabled Smart Refrigeration Management System Using Internet of Things Framework. In Proceedings of the 2020 International Conference on Computing, Networks and Internet of Things (CNIOT '20). Association for Computing Machinery, New York, NY, USA, 65–70. https://doi.org/10.1145/3398329.3398338
+
+Junjie Zhao, Shaofu Lin, Xiliang Liu, Jinhai Chen, Yumin Zhang, and Qiang Mei. 2021. ST-CCN-PM2.5: fine-grained PM2.5 concentration prediction via spatial-temporal causal convolution network. In Proceedings of the 4th ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities (ARIC '21). Association for Computing Machinery, New York, NY, USA, 48–55. https://doi.org/10.1145/3486626.3493433
+
+Zipei Fan, Xiaojie Yang, Wei Yuan, Renhe Jiang, Quanjun Chen, Xuan Song, and Ryosuke Shibasaki. 2022. Online trajectory prediction for metropolitan scale mobility digital twin. In Proceedings of the 30th International Conference on Advances in Geographic Information Systems (SIGSPATIAL '22). Association for Computing Machinery, New York, NY, USA, Article 103, 1–12. https://doi.org/10.1145/3557915.3561040
+
+Jingnan Wu and Shifeng Wu. 2022. Research on Smart Exhibition Based on Mobile Internet Perspective. In Proceedings of the 2022 4th Blockchain and Internet of Things Conference (BIOTC '22). Association for Computing Machinery, New York, NY, USA, 121–127. https://doi.org/10.1145/3559795.3559812
+
+Ning Li, Xue Liu, Ziyan Liu, Lin Mao, Lina Zhao, and Xie Wang. 2022. Anomaly Detection in Power Grid IoT System based on Isolated Forest. In IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT '21). Association for Computing Machinery, New York, NY, USA, 9–12. https://doi.org/10.1145/3498851.3498922
+
+Yuma Kokubo and Toshiyuki Amagasa. 2023. Dynamic Load Balancing of RDF Reasoning in Fog-Computing Environments. In Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing (SAC '23). Association for Computing Machinery, New York, NY, USA, 683–690. https://doi.org/10.1145/3555776.3577724
+
+Theodoros Xanthopoulos, Theodoros Anagnostopoulos, Christos Kytagias, and Yannis Psaromiligkos. 2021. A smartphone-enabled crowdsensing and crowdsourcing system for predicting municipality resource allocation stochastic requirements. In Proceedings of the 24th Pan-Hellenic Conference on Informatics (PCI '20). Association for Computing Machinery, New York, NY, USA, 305–310. https://doi.org/10.1145/3437120.3437330
+
+Wei Zhou, Man Liu, and Yi Lu. 2021. A Retrospective Analysis of Social Media Bibliometrics in the era of Big Data. In The 2021 3rd International Conference on Big Data Engineering (BDE 2021). Association for Computing Machinery, New York, NY, USA, 15–24. https://doi.org/10.1145/3468920.3468923
+
+Lukman Heryawan and Arif Bukhori. 2023. Comparison of Machine Learning and Deep Learning model for Medical Subject Headings Indexation. In Proceedings of the 2022 International Conference on Computer, Control, Informatics and Its Applications (IC3INA '22). Association for Computing Machinery, New York, NY, USA, 292–295. https://doi.org/10.1145/3575882.3575938
+
+Abdul Hanan K. Mohammed, Hrag Jebamikyous, Dina Nawara, and Rasha Kashef. 2021. IoT Cyber-Attack Detection: A Comparative Analysis. In International Conference on Data Science, E-learning and Information Systems 2021 (DATA'21). Association for Computing Machinery, New York, NY, USA, 117–123. https://doi.org/10.1145/3460620.3460742
+
+Honglu Gan, Haoran Du, and Yulu Cao. 2023. Structure Design of Log Management Platform That Supports Smooth Expansion of Anomaly Detection Capability. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 36–40. https://doi.org/10.1145/3582197.3582203
+
+Qinying Sun and Haiqun Ma. 2022. The intelligent decision-making process construction of emergency intelligence based on the big data: -taking the epidemic prevention and control of COVID-19 as an example. In Proceedings of the 5th International Conference on Information Management and Management Science (IMMS '22). Association for Computing Machinery, New York, NY, USA, 39–45. https://doi.org/10.1145/3564858.3564865
+
+Zhuo Li and Guo-Qun Deng. 2023. Simulation Of Urban Carbon Emission Model Based On Big Data Fusion Machine Learning Algorithm. In Proceedings of the 2023 4th International Conference on Computing, Networks and Internet of Things (CNIOT '23). Association for Computing Machinery, New York, NY, USA, 235–239. https://doi.org/10.1145/3603781.3603821
+
+Pijitra Jomsri. 2020. An Optimal Travel Route Recommender System for Tourists in Om Non Canal, Thailand. In Proceedings of the 2019 3rd International Symposium on Computer Science and Intelligent Control (ISCSIC 2019). Association for Computing Machinery, New York, NY, USA, Article 36, 1–5. https://doi.org/10.1145/3386164.3389103
+
+Chiara Ceccarini, Giovanni Delnevo, and Catia Prandi. 2020. FruGar: Exploiting Deep Learning and Crowdsourcing for Frugal Gardening. In Proceedings of the 1st Workshop on Experiences with the Design and Implementation of Frugal Smart Objects (FRUGALTHINGS'20). Association for Computing Machinery, New York, NY, USA, 7–11. https://doi.org/10.1145/3410670.3410862
+
+Yue Gao, Chunjie Zhao, and Jing Zhang. 2023. Environmental Regulation, Smart Meter Adoption, and Carbon Emission: An Interpretable Machine Learning Approach. In Proceedings of the 24th Annual International Conference on Digital Government Research (DGO '23). Association for Computing Machinery, New York, NY, USA, 556–563. https://doi.org/10.1145/3598469.3598531
+
+Guozheng Feng, Jianbo Xu, Wei Jian, and Zhang Liu. 2023. Load prediction optimization based on machine learning in cloud computing environment. In Proceedings of the 4th International Conference on Advanced Information Science and System (AISS '22). Association for Computing Machinery, New York, NY, USA, Article 40, 1–5. https://doi.org/10.1145/3573834.3574511
+
+Yi Hao, Xin Zhou, and Hong Qi Gao. 2023. Design of Echelon Utilization Battery Management System based on Cloud-Edge Collaboration. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 174–178. https://doi.org/10.1145/3582197.3582227
+
+Aale Luusua and Johanna Ylipulli. 2021. Nordic Cities Meet Artificial Intelligence: City Officials’ Views on Artificial Intelligence and Citizen Data in Finland. In Proceedings of the 10th International Conference on Communities &amp; Technologies - Wicked Problems in the Age of Tech (C&amp;T '21). Association for Computing Machinery, New York, NY, USA, 51–60. https://doi.org/10.1145/3461564.3461571
+
+Yunxuan Dong and Ling Xiao. 2022. A Combination Model Based Deep Long Term Model for Tourism Demand Forecasting. In 2022 3rd Asia Service Sciences and Software Engineering Conference (ASSE' 22). Association for Computing Machinery, New York, NY, USA, 126–131. https://doi.org/10.1145/3523181.3523199
+
+Akshat Pandey and Aylin Caliskan. 2021. Disparate Impact of Artificial Intelligence Bias in Ridehailing Economy's Price Discrimination Algorithms. In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES '21). Association for Computing Machinery, New York, NY, USA, 822–833. https://doi.org/10.1145/3461702.3462561
+
+Panagiotis Gkikopoulos, Peter Kropf, Valerio Schiavoni, and Josef Spillner. 2022. AVOC: history-aware data fusion for reliable IoT analytics. In Proceedings of the 23rd International Middleware Conference Industrial Track (Middleware Industrial Track '22). Association for Computing Machinery, New York, NY, USA, 1–7. https://doi.org/10.1145/3564695.3564772
+
+Sotiris Messinis, Nicholas Protonotarios, Ioannis Tzortzis, Ioannis Rallis, Dimitrios Kalogeras, and Nikolaos Doulamis. 2023. Lightweight machine learning for privacy-preserving and secure networked medical devices: The SEPTON project use cases. In Proceedings of the 16th International Conference on PErvasive Technologies Related to Assistive Environments (PETRA '23). Association for Computing Machinery, New York, NY, USA, 638–644. https://doi.org/10.1145/3594806.3596562
+
+Xiao Wang, Weirong Ye, Zhongang Qi, Xun Zhao, Guangge Wang, Ying Shan, and Hanzi Wang. 2021. Semantic-Guided Relation Propagation Network for Few-shot Action Recognition. In Proceedings of the 29th ACM International Conference on Multimedia (MM '21). Association for Computing Machinery, New York, NY, USA, 816–825. https://doi.org/10.1145/3474085.3475253
+
+Ken D. Gorro, Glicerio A. Baguia, and Moustafa F. Ali. 2022. An analysis of Disaster Risk Suggestions using Latent Dirichlet Allocation and Hierarchical Dirichlet Process (Nonparametric LDA). In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 181–184. https://doi.org/10.1145/3512576.3512608
+
+Zhengping Luo, Shangqing Zhao, Zhuo Lu, Yalin E. Sagduyu, and Jie Xu. 2020. Adversarial machine learning based partial-model attack in IoT. In Proceedings of the 2nd ACM Workshop on Wireless Security and Machine Learning (WiseML '20). Association for Computing Machinery, New York, NY, USA, 13–18. https://doi.org/10.1145/3395352.3402619
+
+Daniel Balouek-Thomert and Manish Parashar. 2021. Platforms for Edge Computing and Internet of Things applications: A survey. In 2021 Thirteenth International Conference on Contemporary Computing (IC3-2021) (IC3 '21). Association for Computing Machinery, New York, NY, USA, 140–149. https://doi.org/10.1145/3474124.3474143
+
+Quoc-Dung Ngo, Huy-Trung Nguyen, Hoang-Anh Tran, Ngoc-Anh Pham, and Xuan-Hoang Dang. 2021. Toward an approach using graph-theoretic for IoT botnet detection. In Proceedings of the 2021 2nd International Conference on Computing, Networks and Internet of Things (CNIOT '21). Association for Computing Machinery, New York, NY, USA, Article 22, 1–6. https://doi.org/10.1145/3468691.3468714
+
+Yuer Yang, Ruotong Du, Haodong Tang, and Yanxin Zheng. 2022. SSLPNet: A financial econometric prediction model for small-sample long panel data. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 174–180. https://doi.org/10.1145/3512576.3512607
+
+Peng Liwen, Zhu Xiaolin, and Zhang Yun. 2022. Multi-label Learning By exploiting Correlations of Label Subsets. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 203–206. https://doi.org/10.1145/3512576.3512613
+
+Anderson Carvalho, Niall O' Mahony, Lenka Krpalkova, Sean Campbell, Joseph Walsh, and Pat Doody. 2021. Ideal Edge Architecture to Scale IoT Devices. In Proceedings of the 2020 4th International Symposium on Computer Science and Intelligent Control (ISCSIC 2020). Association for Computing Machinery, New York, NY, USA, Article 22, 1–6. https://doi.org/10.1145/3440084.3441198
+
+Sara Ftaimi and Tomader Mazri. 2021. Data Stream clustering for detecting misbehavior in an intelligent transportation system. In Proceedings of the 4th International Conference on Networking, Information Systems &amp; Security (NISS2021). Association for Computing Machinery, New York, NY, USA, Article 5, 1–8. https://doi.org/10.1145/3454127.3456574
+
+Huseyin Seker and Ozkan Inik. 2021. CnnSound: Convolutional Neural Networks for the Classification of Environmental Sounds. In Proceedings of the 4th International Conference on Advances in Artificial Intelligence (ICAAI '20). Association for Computing Machinery, New York, NY, USA, 79–84. https://doi.org/10.1145/3441417.3441431
+
+Akram Hakiri and Behnam Dezfouli. 2021. Towards a Blockchain-SDN Architecture for Secure and Trustworthy 5G Massive IoT Networks. In Proceedings of the 2021 ACM International Workshop on Software Defined Networks &amp; Network Function Virtualization Security (SDN-NFV Sec'21). Association for Computing Machinery, New York, NY, USA, 11–18. https://doi.org/10.1145/3445968.3452090
+
+Malik Muhammad Saad, Muhammad Toaha Raza Khan, Muhammad Ashar Tariq, and Dongkyun Kim. 2020. LSTM Enabled Artificial Intelligent Smart Gardening System. In Proceedings of the International Conference on Research in Adaptive and Convergent Systems (RACS '20). Association for Computing Machinery, New York, NY, USA, 136–141. https://doi.org/10.1145/3400286.3418260
+
+Gabriel Gomes De Oliveira, Yuzo Iano, Gabriel Caumo Vaz, Euclides Loureno Chuma, and Rangel Arthur. 2022. Intelligent Transportation: Application of Deep Learning techniques in the search for a sustainable environment. In Proceedings of the 2022 5th International Conference on Big Data and Internet of Things (BDIOT '22). Association for Computing Machinery, New York, NY, USA, 7–12. https://doi.org/10.1145/3561801.3561817
+
+Roopa M S, Puneetha, Vishwas, RajKumar Buyya, Venugopal, Iyengar, and Patnaik. 2021. Trust Management for Service-Oriented SIoT Systems. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 216–222. https://doi.org/10.1145/3446999.3447635
+
+Vikash Sathiamoorthy, Eda Koksal Ahmed, Bharadwaj Veeravalli, and Li Zengxiang. 2020. Predicting Emission Costs for Urban Transportation in Smart Cities using Machine Learning Models. In Proceedings of the 2020 4th International Conference on Big Data and Internet of Things (BDIOT '20). Association for Computing Machinery, New York, NY, USA, 74–78. https://doi.org/10.1145/3421537.3421544
+
+Li Hong Ming, Xuan Li Fu, Chang Jun Luo, Yong Yi Ma, and Hao Zhang Wang. 2023. Design and Method Research of Wind Tunnel Test Scheduling System for Multi-source Heterogeneous Data. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 357–364. https://doi.org/10.1145/3582197.3582256
+
+Zhiwei Zhang and Dong Wang. 2020. Remote Sensing and Time Series Data Fused Multimodal Prediction Model Based on Interaction Analysis. In Proceedings of the 3rd International Conference on Video and Image Processing (ICVIP '19). Association for Computing Machinery, New York, NY, USA, 190–194. https://doi.org/10.1145/3376067.3376100
+
+Dawei Tian, Zhipeng Ma, Dingxin He, and Liangliang Lu. 2021. EmbARC MLI based Design and Implementation of Real-time Keyword Spotting. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 46–50. https://doi.org/10.1145/3446999.3447008
+
+Viany Utami Tjhin and Regina Eka Riantini. 2022. A study for the implementation of Banking 4.0 in Indonesia. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 129–134. https://doi.org/10.1145/3512576.3512600
+
+Haomiao Li, Zian Jin, and Sujatha Krishnamoorthy. 2021. E-Waste Management Using Machine Learning. In Proceedings of the 6th International Conference on Big Data and Computing (ICBDC '21). Association for Computing Machinery, New York, NY, USA, 30–35. https://doi.org/10.1145/3469968.3469973
+
+Athanasia Tsakiri, Nikolaos Lampiris, John Prantalos, Phivos Mylonas, Georgia Ayfantopoulou, and Michalis Fousteris. 2022. Versatile Car Sharing Modelling for Sustainable Mobility with Embedded Intelligent Modules. In Proceedings of the 12th Hellenic Conference on Artificial Intelligence (SETN '22). Association for Computing Machinery, New York, NY, USA, Article 50, 1–7. https://doi.org/10.1145/3549737.3549791
+
+Gang Yang and Haiming Li. 2023. Prediction method of shared bicycle traffic based on Prophet-BiLSTM combined model. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 251–256. https://doi.org/10.1145/3582197.3582239
+
+Yichuan Bu, Haifeng Gan, and Yu Gan. 2020. Current Status and Perspectives of the Artificial Intelligence-Based Identification of Citrus Huanglongbing. In Proceedings of the 2020 2nd International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI '20). Association for Computing Machinery, New York, NY, USA, 175–180. https://doi.org/10.1145/3438872.3439077
+
+Viraaji Mothukuri, Reza M. Parizi, Seyedamin Pouriyeh, and Afra Mashhadi. 2022. CloudFL: A Zero-Touch Federated Learning Framework for Privacy-aware Sensor Cloud. In Proceedings of the 17th International Conference on Availability, Reliability and Security (ARES '22). Association for Computing Machinery, New York, NY, USA, Article 142, 1–8. https://doi.org/10.1145/3538969.3543783
+
+Shunyu Yao, Jian Yang, Xiangqun Lu, and Kai Shuang. 2022. Contrastive Learning for Event Extraction. In Proceedings of the 2022 6th International Conference on Machine Learning and Soft Computing (ICMLSC '22). Association for Computing Machinery, New York, NY, USA, 167–172. https://doi.org/10.1145/3523150.3523176
+
+Zhengjie Wang, Xue Li, Fei Liu, Mingjing Ma, Xiaoxue Feng, and Yinjing Guo. 2023. A Survey on Human Behavior Recognition Applications Using Frequency Modulated Continuous Wave Radar. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 133–139. https://doi.org/10.1145/3582197.3582219
+
+Ranie Baul Canlas, Keno Cruz Piad, Ace Carpio Lagman, Joseph David Espino, Jayson Marcellana Victoriano, Isagani Mirador Tano, and Nicanor San Gabriel. 2022. Predicting Faculty Research Productivity using J48 Decision Tree Algorithm. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 267–271. https://doi.org/10.1145/3512576.3512624
+
+J. González-Vergara, Nicolás Serrano, and Cristhian Iza. 2021. A Support Vector Machine Implementation for Traffic Assignment Problem. In Proceedings of the 18th ACM Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, &amp; Ubiquitous Networks (PE-WASUN '21). Association for Computing Machinery, New York, NY, USA, 41–48. https://doi.org/10.1145/3479240.3488502
+
+Angga Vidianto, Achmad Sindunata, and Novanto Yudistira. 2021. Air Pollution Particulate Matter (PM2.5) Forecasting using Long Short Term Memory Model. In Proceedings of the 6th International Conference on Sustainable Information Engineering and Technology (SIET '21). Association for Computing Machinery, New York, NY, USA, 139–145. https://doi.org/10.1145/3479645.3479662
+
+Ismi Abidi, Vireshwar Kumar, and Rijurekha Sen. 2021. Practical Attestation for Edge Devices Running Compute Heavy Machine Learning Applications. In Annual Computer Security Applications Conference (ACSAC '21). Association for Computing Machinery, New York, NY, USA, 323–336. https://doi.org/10.1145/3485832.3485909
+
+CARLO GARING INOVERO, EMER JOSEF CRUZ, MARIA ZHANNEL MONTANO, ANTHEA NAVIA, and MARION OWERA. 2021. Facial Composite Sketch Matching to Images Applying Convolutional Neural Network. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 100–104. https://doi.org/10.1145/3446999.3447018
+
+Edwin Mendoza Torralba. 2021. Sports Ed 3.5: Establishing the value of data-driven sports development programs for universities through machine learning models. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 51–57. https://doi.org/10.1145/3446999.3447009
+
+Thomas Baldi, Giovanni Delnevo, Roberto Girau, and Silvia Mirri. 2022. On the prediction of air quality within vehicles using outdoor air pollution: sensors and machine learning algorithms. In Proceedings of the ACM SIGCOMM Workshop on Networked Sensing Systems for a Sustainable Society (NET4us '22). Association for Computing Machinery, New York, NY, USA, 14–19. https://doi.org/10.1145/3538393.3544934
+
+Licheng Xu and Shuai Xie. 2023. A Systemic Big Data Framework for the Charging Pile Business. In Proceedings of the 7th International Conference on Information Systems Engineering (ICISE '22). Association for Computing Machinery, New York, NY, USA, 24–29. https://doi.org/10.1145/3573926.3573932
+
+Guozhu Yan, Jingchao Wang, Shuangyin Ren, and Chao Xue. 2023. A Review of Routing Optimization Techniques for Quality of Service Assurance in Software-Defined Networks. In Proceedings of the 2023 2nd Asia Conference on Algorithms, Computing and Machine Learning (CACML '23). Association for Computing Machinery, New York, NY, USA, 167–174. https://doi.org/10.1145/3590003.3590033
+
+Sim YeeWai, Cheah WaiShiang, and Muhammad Asyraf bin Khairuddin. 2020. Multi Agent Object Recognition: A Preliminary Study. In Proceedings of the 4th International Conference on Intelligent Information Processing (ICIIP '19). Association for Computing Machinery, New York, NY, USA, 29–35. https://doi.org/10.1145/3378065.3378071
+
+Radostina Petrova and Snezhana Sulova. 2020. AI Governor for the Quality and the Strength of Bridges. In Proceedings of the 21st International Conference on Computer Systems and Technologies (CompSysTech '20). Association for Computing Machinery, New York, NY, USA, 78–85. https://doi.org/10.1145/3407982.3408020
+
+Alfredo Cuzzocrea. 2020. OLAPing Big Social Data: Multidimensional Big Data Analytics over Big Social Data Repositories. In Proceedings of the 2020 4th International Conference on Cloud and Big Data Computing (ICCBDC '20). Association for Computing Machinery, New York, NY, USA, 15–19. https://doi.org/10.1145/3416921.3416944
+
+Dequan Gao, Ziyan Zhao, Dongxia Bai, Yin Liu, Pengkai Wang, and Yiying Zhang. 2021. A Novel Portrait Technology-Based Modeling and Alarm Tagging Method for SDH Device in Smart Grid. In Proceedings of the 3rd International Conference on Information Technologies and Electrical Engineering (ICITEE '20). Association for Computing Machinery, New York, NY, USA, 551–557. https://doi.org/10.1145/3452940.3453048
+
+Dongming Jiang, Yuan Jiang, and Jinzi Li. 2021. A novel GA-based Selection Algorithm of Cloud Services. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 1–5. https://doi.org/10.1145/3446999.3447000
+
+Aleksandr Ometov, Olga Chukhno, Nadezhda Chukhno, Jari Nurmi, and Elena Simona Lohan. 2021. When wearable technology meets computing in future networks: a road ahead. In Proceedings of the 18th ACM International Conference on Computing Frontiers (CF '21). Association for Computing Machinery, New York, NY, USA, 185–190. https://doi.org/10.1145/3457388.3458614
+
+Xiping Qing. 2023. A Comparison Study of Convolutional Neural Network and Recurrent Neural Network on Image Classification. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 112–117. https://doi.org/10.1145/3582197.3582215
+
+Md. Ashikur Rahman, Fahim Hasan, Irin Akter, Ummay Afrina Jahan Sutapa, Md. Rifat Shahriar, and K. M. Sazzad Ibne Sayed. 2022. Smart Trash Distribution, and Recycling Processes Using IoT Sensing &amp; Mobile Application. In Proceedings of the 2nd International Conference on Computing Advancements (ICCA '22). Association for Computing Machinery, New York, NY, USA, 227–232. https://doi.org/10.1145/3542954.3542988
+
+Huimin Tang, Nianming Xue, and Gaoli Wang. 2023. Differentially Private Decentralized Traffic Flow Prediction Approach based on Federated Learning. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 280–285. https://doi.org/10.1145/3582197.3582244
+
+Yan Zhao, Imen Megdiche, Franck Ravat, and Vincent-nam Dang. 2021. A Zone-Based Data Lake Architecture for IoT, Small and Big Data. In Proceedings of the 25th International Database Engineering &amp; Applications Symposium (IDEAS '21). Association for Computing Machinery, New York, NY, USA, 94–102. https://doi.org/10.1145/3472163.3472185
+
+Carlo Garing Inovero, Gil Jeremy P. Ditablan, John Ramil C. Reyes, and Renzel E. Tajanlangit. 2023. A Sentiment Analysis Classification of Product Reviews through Convolutional Neural Networks (CNN). In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 8–14. https://doi.org/10.1145/3582197.3582199
+
+Edoardo Longo, Fatih Alperen Sahin, Alessandro E. C. Redondi, Patrizia Bolzan, Massimo Bianchini, and Stefano Maffei. 2021. Take the trash out... to the edge. Creating a Smart Waste Bin based on 5G Multi-access Edge Computing. In Proceedings of the Conference on Information Technology for Social Good (GoodIT '21). Association for Computing Machinery, New York, NY, USA, 55–60. https://doi.org/10.1145/3462203.3475921
+
+Jakub Mlynar, Farzaneh Bahrami, André Ourednik, Nico Mutzner, Himanshu Verma, and Hamed Alavi. 2022. AI beyond Deus ex Machina – Reimagining Intelligence in Future Cities with Urban Experts. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). Association for Computing Machinery, New York, NY, USA, Article 370, 1–13. https://doi.org/10.1145/3491102.3517502
+
+Sara Ftaimi and Tomader Mazri. 2020. A comparative study of Machine learning algorithms for VANET networks. In Proceedings of the 3rd International Conference on Networking, Information Systems &amp; Security (NISS2020). Association for Computing Machinery, New York, NY, USA, Article 10, 1–8. https://doi.org/10.1145/3386723.3387829
+
+Peter Evgenievich Gladilin and Polina Vyacheslavovna Levina. 2021. Method for analyzing the location, assortment and success of outlets based on transactional data. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 29–34. https://doi.org/10.1145/3446999.3447005
+
+Rima Tri Wahyuningrum, Achmad Yasid, and Gijbertus Jacob Verkerke. 2021. Deep Neural Networks for Automatic Classification of Knee Osteoarthritis Severity Based on X-ray Images. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 110–114. https://doi.org/10.1145/3446999.3447020
+
+Yansheng Qu, Yunxiao Wang, Hua Sheng, Hua Huang, Jie Zhang, and Weite Liu. 2023. A Malicious Program Attack Identification Model Based on Risk Dependency Analysis. In Proceedings of the 2022 5th International Conference on Machine Learning and Machine Intelligence (MLMI '22). Association for Computing Machinery, New York, NY, USA, 175–182. https://doi.org/10.1145/3568199.3568227
+
+Qi Qian, Haifeng Yan, and Zhenghui Wang. 2020. Application Prospect of Artificial Intelligence Technology Basted on the Large Call Center. In Proceedings of the 4th International Conference on Computer Science and Application Engineering (CSAE '20). Association for Computing Machinery, New York, NY, USA, Article 34, 1–6. https://doi.org/10.1145/3424978.3425012
+
+Eduardo B. Fernandez. 2022. A pattern for a secure cloud-based IoT architecture. In Proceedings of the 27th Conference on Pattern Languages of Programs (PLoP '20). The Hillside Group, USA, Article 10, 1–9.
+
+Henri Ruotsalainen. 2022. Reactive Jamming Detection for LoRaWAN Based on Meta-Data Differencing. In Proceedings of the 17th International Conference on Availability, Reliability and Security (ARES '22). Association for Computing Machinery, New York, NY, USA, Article 98, 1–8. https://doi.org/10.1145/3538969.3543805
+
+Tom Langhorst, Simona Orzan, Teade Punter, and Bernd-Jan Witkamp. 2023. A mixed data grid approach for systemic city questions. In Proceedings of the 1st International Workshop on Advances in Environmental Sensing Systems for Smart Cities (EnvSys '23). Association for Computing Machinery, New York, NY, USA, 31–36. https://doi.org/10.1145/3597064.3597321
+
+Koki Tachibana, Yuki Matsuda, Kaito Isobe, Daiki Mayumi, Takamasa Kikuchi, Hirohiko Suwa, Keiichi Yasumoto, and Kazuya Murao. 2023. Tongaraas: Tongs for Recognizing Littering Garbage with Active Acoustic Sensing. In Proceedings of the 12th International Conference on the Internet of Things (IoT '22). Association for Computing Machinery, New York, NY, USA, 224–230. https://doi.org/10.1145/3567445.3571112
+
+Zhu Ping. 2021. Semantic Engineering Platform: Case Research on Humanoid Resolving Primary Mathematics Application Problems. In Proceedings of the 5th International Conference on Control Engineering and Artificial Intelligence (CCEAI '21). Association for Computing Machinery, New York, NY, USA, 80–85. https://doi.org/10.1145/3448218.3448239
+
+Gürkan Solmaz, Flavio Cirillo, Jonathan Fürst, Tobias Jacobs, Martin Bauer, Ernö Kovacs, Juan Ramón Santana, and Luis Sánchez. 2022. Enabling data spaces: existing developments and challenges. In Proceedings of the 1st International Workshop on Data Economy (DE '22). Association for Computing Machinery, New York, NY, USA, 42–48. https://doi.org/10.1145/3565011.3569058
+
+Phatpicha Yochum, Thanapoom Nisamaneewong, Phathaphol Karnchanapimonkul, and Bhanusich Chomanan. 2023. Automated Disease Detection Based on Clinical Text Using Topic Modeling. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 74–79. https://doi.org/10.1145/3582197.3582209
+
+Nasos Grigoropoulos and Spyros Lalis. 2021. Simulation and digital twin support for managed drone applications. In Proceedings of the IEEE/ACM 24th International Symposium on Distributed Simulation and Real Time Applications (DS-RT '20). IEEE Press, 198–205.
+
+Segundo Moisés T. Toapanta, Kevin Enrique Yagual B., and Luis Enrique Mafla Gallegos. 2020. Parameters to Determine Cyberbullying in Social Networks in the Ecuador. In Proceedings of the 2020 the 4th International Conference on Information System and Data Mining (ICISDM 2020). Association for Computing Machinery, New York, NY, USA, 144–151. https://doi.org/10.1145/3404663.3404677
+
+Kiyoshy Nakamura, Pietro Manzoni, Marco Zennaro, Juan-Carlos Cano, Carlos T. Calafate, and José M. Cecilia. 2020. FUDGE: a frugal edge node for advanced IoT solutions in contexts with limited resources. In Proceedings of the 1st Workshop on Experiences with the Design and Implementation of Frugal Smart Objects (FRUGALTHINGS'20). Association for Computing Machinery, New York, NY, USA, 30–35. https://doi.org/10.1145/3410670.3410857
+
+B. Salami, K. Parasyris, A. Cristal, O. Unsal, X. Martorell, P. Carpenter, R. De La Cruz, L. Bautista, D. Jimenez, C. Alvarez, S. Nabavi, S. Madonar, M. Pericàs, P. Trancoso, M. Abduljabbar, J. Chen, P. N. Soomro, M Manivannan, M. Berge, S. Krupop, F. Klawonn, Al Mekhlafi, S. May, T. Becker, G. Gaydadjiev, H. Salomonsson, D. Dubhashi, O. Port, Y. Etsion, Le Quoc Do, Christof Fetzer, M. Kaiser, N. Kucza, J. Hagemeyer, R. Griessl, L. Tigges, K. Mika, A. Hüffmeier, M. Pasin, V. Schiavoni, I. Rocha, C. Göttel, and P. Felber. 2020. LEGaTO: low-energy, secure, and resilient toolset for heterogeneous computing. In Proceedings of the 23rd Conference on Design, Automation and Test in Europe (DATE '20). EDA Consortium, San Jose, CA, USA, 169–174.
+
+Alexander Paulus, André Pomp, and Tobias Meisen. 2023. The PLASMA Framework: Laying the Path to Domain-Specific Semantics in Dataspaces. In Companion Proceedings of the ACM Web Conference 2023 (WWW '23 Companion). Association for Computing Machinery, New York, NY, USA, 1474–1479. https://doi.org/10.1145/3543873.3587662
+
+Yu-Wen Lin, Tsz Ling Elaine Tang, and Costas J. Spanos. 2021. Hybrid Approach for Digital Twins in the Built Environment. In Proceedings of the Twelfth ACM International Conference on Future Energy Systems (e-Energy '21). Association for Computing Machinery, New York, NY, USA, 450–457. https://doi.org/10.1145/3447555.3466585
+
+Wahyu Sardjono, Astari Retnowardhani, Robert Emil Kaburuan, and Aninda Rahmasari. 2022. Artificial intelligence and big data analysis implementation in electronic medical records. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 231–237. https://doi.org/10.1145/3512576.3512618
+
+Daichi Koike, Shigemi Ishida, and Yutaka Arakawa. 2021. Called function identification of IoT devices by network traffic analysis. In Proceedings of the 36th Annual ACM Symposium on Applied Computing (SAC '21). Association for Computing Machinery, New York, NY, USA, 737–743. https://doi.org/10.1145/3412841.3441951
+
+Ken D. Gorro, Moustafa F. Ali, Kim D. Gorro, and Jeffrey Rosario Ancheta. 2021. Exploring Natural Language Processing Techniques in Social Media Analysis during a Pandemic: Understanding a corpus of Facebook posts using Word2vec and LDA. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 69–73. https://doi.org/10.1145/3446999.3447012
+
+Miaomiao Wei, Qihong Gao, and Peixuan Shi. 2023. Design and implementation of call chain management system for microservice environment. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 300–304. https://doi.org/10.1145/3582197.3582247
+
+Jörg Christian Kirchhof, Evgeny Kusmenko, Jonas Ritz, Bernhard Rumpe, Armin Moin, Atta Badii, Stephan Günnemann, and Moharram Challenger. 2022. MDE for machine learning-enabled software systems: a case study and comparison of MontiAnna &amp; ML-Quadrat. In Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings (MODELS '22). Association for Computing Machinery, New York, NY, USA, 380–387. https://doi.org/10.1145/3550356.3561576
+
+Patricia May C. Arches, Abby R. Austero, Allysa Joy A. Diaz, Honey Joy C. Taer, and Aleta C. Fabregas. 2022. Detecting Urinary Tract Infection (UTI) thru Analytes level using Convolutional Neural Network and Support Vector Machine. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 85–92. https://doi.org/10.1145/3512576.3512591
+
+Zihao Song, Wei Cheng, Xiaobai Li, and Bingjie Zeng. 2023. A 2layer-BiLSTM-Attention-Based Method for Modulation Recognition of Communication Signals. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 146–152. https://doi.org/10.1145/3582197.3582221
+
+Colin van Noordt. 2022. Conceptual challenges of researching Artificial Intelligence in public administrations. In DG.O 2022: The 23rd Annual International Conference on Digital Government Research (dg.o 2022). Association for Computing Machinery, New York, NY, USA, 183–190. https://doi.org/10.1145/3543434.3543441
+
+Yingfei Xu, Yong Tang, and Qiang Yang. 2020. Deep Learning for IoT Intrusion Detection based on LSTMs-AE. In Proceedings of the 2nd International Conference on Artificial Intelligence and Advanced Manufacture (AIAM2020). Association for Computing Machinery, New York, NY, USA, 64–68. https://doi.org/10.1145/3421766.3421891
+
+Haicui Li, Lei Jing, and Feng Liu. 2022. A Real-Time Lightweight Method to Detect the Sixteen Brushing Regions Based on a 9-axis Inertial Sensor and Random Forest Classifier. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 24–29. https://doi.org/10.1145/3512576.3512597
+
+Yunqing Jiang, Patrick Cheong-Iao Pang, Wen Wei Ang, and Ying Lau. 2023. A Proposed Method of Literature Analysis Based on Natural Language Processing and Network Analysis. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 29–35. https://doi.org/10.1145/3582197.3582202
+
+Rima Tri Wahyuningrum, Ari Kusumaningsih, Wijanarko Putra Rajeb, and I Ketut Eddy Purnama. 2022. Classification of Corn Leaf Disease Using the Optimized DenseNet-169 Model. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 67–73. https://doi.org/10.1145/3512576.3512588
+
+Hui Huang, Hai-Jun Rong, and Zhao-Xu Yang. 2022. A Task-Parallel and Reconfigurable FPGA-Based Hardware Implementation of Extreme Learning Machine. In 2022 3rd Asia Service Sciences and Software Engineering Conference (ASSE' 22). Association for Computing Machinery, New York, NY, USA, 194–202. https://doi.org/10.1145/3523181.3523209
+
+Yong Li. 2022. Corporate Digital Transformation and Total Factor Productivity: Internal Mechanisms and External Conditions. In Proceedings of the 5th International Conference on Big Data Technologies (ICBDT '22). Association for Computing Machinery, New York, NY, USA, 436–443. https://doi.org/10.1145/3565291.3565360
+
+Wenxin Lei, Wenjing Hou, Aidong Xu, Yixin Jiang, Hong Wen, and Yunan Zhang. 2021. A Situational Awareness Model for Edge Computing Devices. In The 2nd International Conference on Computing and Data Science (CONF-CDS 2021). Association for Computing Machinery, New York, NY, USA, Article 51, 1–5. https://doi.org/10.1145/3448734.3450781
+
+Yalong Xie, Aiping Li, and Chongfu Zhong. 2022. Research on effects of pre-trained language models in medical named entity recognition. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 148–153. https://doi.org/10.1145/3512576.3512603
+
+Liu Huiyu, Owolabi Ganiyat O., and Sung-Ho Kim. 2020. Automatic Classifications and Recognition for Recycled Garbage by Utilizing Deep Learning Technology. In Proceedings of the 2019 7th International Conference on Information Technology: IoT and Smart City (ICIT '19). Association for Computing Machinery, New York, NY, USA, 1–4. https://doi.org/10.1145/3377170.3377190
+
+Shashank Bangalore Lakshman and Nasir U. Eisty. 2023. Software engineering approaches for TinyML based IoT embedded vision: a systematic literature review. In Proceedings of the 4th International Workshop on Software Engineering Research and Practice for the IoT (SERP4IoT '22). Association for Computing Machinery, New York, NY, USA, 33–40. https://doi.org/10.1145/3528227.3528569
+
+Jiqiang Zhang and Pengcheng Liu. 2022. Application of edge computing in intelligent security system. In Proceedings of the 2022 2nd International Conference on Control and Intelligent Robotics (ICCIR '22). Association for Computing Machinery, New York, NY, USA, 216–220. https://doi.org/10.1145/3548608.3559195
+
+Tuyen Phong Truong, Tu Hoang Ho, Duy Khanh Nguyen Le, and Binh Thai Duong. 2022. Design and Implementation of a LoRa-based System for Managing the Risk from Falling Trees. In Proceedings of the 10th International Conference on Computer and Communications Management (ICCCM '22). Association for Computing Machinery, New York, NY, USA, 163–168. https://doi.org/10.1145/3556223.3556248
+
+Yi Gao, Zhaokun Liu, Xinmeng Wu, Guangyuan Wu, Jiahui Zhao, and Xiaofan Zhao. 2022. Skeleton-based Human Action Recognition by the Integration of Euclidean distance. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 47–51. https://doi.org/10.1145/3512576.3512585
+
+Le Yang, Zelin Yang, Ziwei Zheng, Lijun He, Fan Li, and C. L. Philip Chen. 2023. Anomaly Detection based on Broad Leaning System for Rolling Element Bearing Fault Diagnosis. In Adjunct Proceedings of the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2022 ACM International Symposium on Wearable Computers (UbiComp/ISWC '22 Adjunct). Association for Computing Machinery, New York, NY, USA, 462–467. https://doi.org/10.1145/3544793.3560408
+
+Anatolie A. Babin, Ion v. Covalenco, Sergiu A. Tutunaru, and Ecaterina A. Babina. 2022. Some Aspects of the Formation of an Innovation Ecosystem for the Sustainable Development of Smart Villages in the Republic of Moldova. In Proceedings of the Central and Eastern European eDem and eGov Days (CEEeGov '22). Association for Computing Machinery, New York, NY, USA, 46–53. https://doi.org/10.1145/3551504.3551517
+
+Xi Zheng. 2022. Research on Sports Large-scale Display System based on Computer Intelligent Control. In Proceedings of the 7th International Conference on Cyber Security and Information Engineering (ICCSIE '22). Association for Computing Machinery, New York, NY, USA, 831–835. https://doi.org/10.1145/3558819.3565201
+
+Erik Blasch, Ronghua Xu, Seyed Yahya Nikouei, and Yu Chen. 2020. A study of lightweight DDDAS architecture for real-time public safety applications through hybrid simulation. In Proceedings of the Winter Simulation Conference (WSC '19). IEEE Press, 762–773.
+
+Maliang Zhang, Yingpeng Sang, Weizheng Li, Chaoxin Cai, and Jinghao Huang. 2022. Traffic Matrix Prediction with Attention-based Recurrent Neural Network. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 103–108. https://doi.org/10.1145/3512576.3512594
+
+Felicien Ihirwe, Davide Di Ruscio, Silvia Mazzini, Pierluigi Pierini, and Alfonso Pierantonio. 2020. Low-code engineering for internet of things: a state of research. In Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings (MODELS '20). Association for Computing Machinery, New York, NY, USA, Article 74, 1–8. https://doi.org/10.1145/3417990.3420208
+
+Srinjoy Ghosh and Ratna Mandal. 2023. Context Aware City Air Quality Monitoring Estimation. In Proceedings of the 24th International Conference on Distributed Computing and Networking (ICDCN '23). Association for Computing Machinery, New York, NY, USA, 390–395. https://doi.org/10.1145/3571306.3571441
+
+Yifei Hu and Ya Zhang. 2021. Graph Contrastive Learning with Local and Global Mutual Information Maximization. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 74–78. https://doi.org/10.1145/3446999.3447013
+
+Rohit Rastogi, Tribhuvan Mishra, and Vaishnavi Mishra. 2022. Validation Intelligently of Automobile and People for Safe and Smart Society. In Proceedings of the 2022 Fourteenth International Conference on Contemporary Computing (IC3-2022). Association for Computing Machinery, New York, NY, USA, 180–189. https://doi.org/10.1145/3549206.3549239
+
+Richard Burton Watson and Peter John Ryan. 2021. Visualization and Waste Collection Route Heuristics of Smart Bins Data using Python Big Data Analytics. In Proceedings of the 2021 4th International Conference on Software Engineering and Information Management (ICSIM '21). Association for Computing Machinery, New York, NY, USA, 124–130. https://doi.org/10.1145/3451471.3451492
+
+Qinglan Meng, Xiyu Pang, Gangwu Jiang, Yanli Zheng, and Xin Tian. 2022. Further Non-local and Multiple Granularity Network for Vehicle Re-identification. In Proceedings of the 2021 5th International Conference on Electronic Information Technology and Computer Engineering (EITCE '21). Association for Computing Machinery, New York, NY, USA, 1239–1245. https://doi.org/10.1145/3501409.3501627
+
+Qingqing Chang, Shaofu Lin, and Xiliang Liu. 2020. Stacked-SVM: A Dynamic SVM Framework for Telephone Fraud Identification from Imbalanced CDRs. In Proceedings of the 2019 2nd International Conference on Algorithms, Computing and Artificial Intelligence (ACAI '19). Association for Computing Machinery, New York, NY, USA, 112–120. https://doi.org/10.1145/3377713.3377735
+
+Nicolas Kourtellis, Herodotos Herodotou, Maciej Grzenda, Piotr Wawrzyniak, and Albert Bifet. 2021. S2CE: a hybrid cloud and edge orchestrator for mining exascale distributed streams. In Proceedings of the 15th ACM International Conference on Distributed and Event-based Systems (DEBS '21). Association for Computing Machinery, New York, NY, USA, 103–113. https://doi.org/10.1145/3465480.3466926
+
+Feng Sheng, Chun Liu, Ying Wang, and Yanjin Shen. 2023. Design of Geospatial Big Data Cloud Platform for Land Resources. In Proceedings of the 5th International Conference on Information Technologies and Electrical Engineering (ICITEE '22). Association for Computing Machinery, New York, NY, USA, 699–704. https://doi.org/10.1145/3582935.3583052
+
+Ping Zhu. 2021. Natural Language Semantic Representation Method Based on the Scene Framework. In Proceedings of the 2020 3rd International Conference on Algorithms, Computing and Artificial Intelligence (ACAI '20). Association for Computing Machinery, New York, NY, USA, Article 67, 1–4. https://doi.org/10.1145/3446132.3446394
+
+Chiara Ceccarini, Silvia Mirri, Catia Prandi, and Paola Salomoni. 2020. A data visualization exploration to facilitate a sustainable usage of premises in a Smart Campus context. In Proceedings of the 6th EAI International Conference on Smart Objects and Technologies for Social Good (GoodTechs '20). Association for Computing Machinery, New York, NY, USA, 24–29. https://doi.org/10.1145/3411170.3411241
+
+Mengmeng Liao, Xiaojin Fan, and Yan Li. 2023. Subspace learning based on label release and low-rank representation for small sample face recognition. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 127–132. https://doi.org/10.1145/3582197.3582218
+
+Swapna Thorve, Anil Vullikanti, Samarth Swarup, Henning Mortveit, and Madhav Marathe. 2023. Modular and Extensible Pipelines for Residential Energy Demand Modeling and Simulation. In Proceedings of the Winter Simulation Conference (WSC '22). IEEE Press, 855–866.
+
+Adam Ghandar, Georgios Theodoropoulos, Miner Zhong, Bowen Zhen, Shijie Chen, Yue Gong, and Ayyaz Ahmed. 2020. An agent-based modelling framework for urban agriculture. In Proceedings of the Winter Simulation Conference (WSC '19). IEEE Press, 1767–1778.
+
+Michael J. Ahn and Yu-Che Chen. 2020. Artificial Intelligence in Government: Potentials, Challenges, and the Future. In The 21st Annual International Conference on Digital Government Research (dg.o '20). Association for Computing Machinery, New York, NY, USA, 243–252. https://doi.org/10.1145/3396956.3398260
+
+TengFei Ma, QuanSheng Dou, Ping Jiang, and Huan Liu. 2021. Named entity recognition based on semi-supervised ensemble learning with the improved tri-training algorithm. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 13–18. https://doi.org/10.1145/3446999.3447002
+
+Rong-Hao Liang, Alessandro Chiumento, Marco Zuniga, Przemyslaw Pawelczak, Mathias Funk, Yaliang Chuang, and Joep Frens. 2021. CHIIoT 2: 2nd Workshop on Computer Human Interaction in IoT Applications. In Companion of the 2021 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '21). Association for Computing Machinery, New York, NY, USA, 77–80. https://doi.org/10.1145/3459926.3464759
+
+Luca Tangi, Colin van Noordt, and A. Paula Rodriguez Müller. 2023. The challenges of AI implementation in the public sector. An in-depth case studies analysis. In Proceedings of the 24th Annual International Conference on Digital Government Research (DGO '23). Association for Computing Machinery, New York, NY, USA, 414–422. https://doi.org/10.1145/3598469.3598516
+
+Yapeng Wang, Chan-Tong Lam, Ka-Cheng Choi, Benjamin Ng, Ka Meng Siu, Philip Lei, and Xu Yang. 2022. An Open Tourism Mobile Platform with Personalized Route Planning and Voice Recognition. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 337–345. https://doi.org/10.1145/3512576.3512637
+
+Carsten Felix Draschner, Claus Stadler, Farshad Bakhshandegan Moghaddam, Jens Lehmann, and Hajira Jabeen. 2021. DistRDF2ML - Scalable Distributed In-Memory Machine Learning Pipelines for RDF Knowledge Graphs. In Proceedings of the 30th ACM International Conference on Information &amp; Knowledge Management (CIKM '21). Association for Computing Machinery, New York, NY, USA, 4465–4474. https://doi.org/10.1145/3459637.3481999
+
+Rui Dai, Shenkun Xu, Qian Gu, Chenguang Ji, and Kaikui Liu. 2020. Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining (KDD '20). Association for Computing Machinery, New York, NY, USA, 3074–3082. https://doi.org/10.1145/3394486.3403358
+
+Xuebin Jia, Tong Li, Rui Zhu, Zhan Wang, Zehui Zhang, and Jiawei Wang. 2020. Traffic Flow Prediction Based on Self-attention Mechanism and Deep Packet Residual Network. In Proceedings of the 2019 7th International Conference on Information Technology: IoT and Smart City (ICIT '19). Association for Computing Machinery, New York, NY, USA, 575–580. https://doi.org/10.1145/3377170.3377257
+
+Bianca Melo, Rossana Andrade, and Ticianne Darin. 2022. Longitudinal user experience studies in the IoT domain: a brief panorama and challenges to overcome. In Proceedings of the 21st Brazilian Symposium on Human Factors in Computing Systems (IHC '22). Association for Computing Machinery, New York, NY, USA, Article 23, 1–13. https://doi.org/10.1145/3554364.3559135
+
+Raj Kumar Sharma and Manisha Jailia. 2023. Regression Analysis of Garbage Management System for Smart Cities. In Proceedings of the 4th International Conference on Information Management &amp; Machine Intelligence (ICIMMI '22). Association for Computing Machinery, New York, NY, USA, Article 73, 1–8. https://doi.org/10.1145/3590837.3590910
+
+Hua Wang, Xiaoxiao Liu, Minghua Jiang, and Changlong Zhou. 2023. Garment Metaverse: Parametric Digital Human and Dynamic Scene Try-on. In Proceedings of the 2023 2nd Asia Conference on Algorithms, Computing and Machine Learning (CACML '23). Association for Computing Machinery, New York, NY, USA, 60–65. https://doi.org/10.1145/3590003.3590014
+
+Jian Yang, Christian Poellabauer, Pramita Mitra, Abhishek Sharma, Cynthia Neubecker, and Arpita Chand. 2020. Generating contextual trajectories from user profiles. In Proceedings of the 3rd ACM SIGSPATIAL International Workshop on GeoSpatial Simulation (GeoSim '20). Association for Computing Machinery, New York, NY, USA, 38–47. https://doi.org/10.1145/3423335.3428166
+
+Chengkun Cui, Chen Wang, Cong Wen, Xiaoyin Fang, and Yuanyuan Deng. 2021. Intelligent News Recommendation System for Automobile Based on Bio-Sensing and Physiological Computing. In 2021 4th International Conference on Signal Processing and Machine Learning (SPML 2021). Association for Computing Machinery, New York, NY, USA, 107–111. https://doi.org/10.1145/3483207.3483225
+
+Muhammad Umair Raza and Zhao XuJian. 2020. A Comprehensive Overview of BIG DATA Technologies: A Survey. In Proceedings of the 5th International Conference on Big Data and Computing (ICBDC '20). Association for Computing Machinery, New York, NY, USA, 23–31. https://doi.org/10.1145/3404687.3404694
+
+Jiahui Zhu and Haiming Li. 2023. Text Sentiment Analysis Based on CNN-BiGRU Enhanced Features. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 15–21. https://doi.org/10.1145/3582197.3582200
+
+Zerong Wang. 2021. Design of ship attitude angle detection system based on STM32F103ZET6. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 262–266. https://doi.org/10.1145/3446999.3447643
+
+Anna Strzoda, Rafał Marjasz, and Krzysztof Grochla. 2022. How Accurate is LoRa Positioning in Realistic Conditions? In Proceedings of the 12th ACM International Symposium on Design and Analysis of Intelligent Vehicular Networks and Applications (DIVANet '22). Association for Computing Machinery, New York, NY, USA, 31–35. https://doi.org/10.1145/3551662.3561260
+
+Stijn Bellis and Joachim Denil. 2022. Challenges and possible approaches for sustainable digital twinning. In Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings (MODELS '22). Association for Computing Machinery, New York, NY, USA, 643–648. https://doi.org/10.1145/3550356.3561551
+
+Faisal Bin Ashraf and Rezwana Reaz. 2022. IoT-Blockchain in Remote Patient Monitoring. In The 5th International Conference on Future Networks &amp; Distributed Systems (ICFNDS 2021). Association for Computing Machinery, New York, NY, USA, 186–194. https://doi.org/10.1145/3508072.3508101
+
+Raz Yerushalmi. 2023. Enhancing Deep Reinforcement Learning with Executable Specifications. In Proceedings of the 45th International Conference on Software Engineering: Companion Proceedings (ICSE '23). IEEE Press, 213–217. https://doi.org/10.1109/ICSE-Companion58688.2023.00058
+
+Andrianto Susilo, Harjanto Prabowo, Wibowo Kosasih, Rano Kartono, and Viany Utami Tjhin. 2022. The Implementation of Robotic Process Automation for Banking Sector Case Study of A Private Bank in Indonesia. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 365–371. https://doi.org/10.1145/3512576.3512641
+
+Stefanos Peros, Emekcan Aras, Wouter Joosen, and Danny Hughes. 2021. Kairos: a self-configuring approach for short and accurate event timeouts in IoT. In MobiQuitous 2020 - 17th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous '20). Association for Computing Machinery, New York, NY, USA, 347–356. https://doi.org/10.1145/3448891.3448917
+
+Alfredo Cuzzocrea and Paolo Ciancarini. 2021. SeDaSOMA: A Framework for Supporting Serendipitous, Data-As-A-Service-Oriented, Open Big Data Management and Analytics. In Proceedings of the 2021 5th International Conference on Cloud and Big Data Computing (ICCBDC '21). Association for Computing Machinery, New York, NY, USA, 1–7. https://doi.org/10.1145/3481646.3481647
+
+Huifen Li, Jie Zhou, and Tian Yu. 2022. RTS Game AI Robots Winner Prediction Based on Replay Data by using Deep Learning. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 115–122. https://doi.org/10.1145/3512576.3512596
+
+Hannaneh Barahouei Pasandi, Asma Haqiqat, Azin Moradbeikie, Ahmad Keshavarz, Habib Rostami, Sara Paiva, and Sérgio Ivan Lopes. 2022. Low-cost traffic sensing system based on LoRaWAN for urban areas. In Proceedings of the 1st International Workshop on Emerging Topics in Wireless (EmergingWireless '22). Association for Computing Machinery, New York, NY, USA, 6–11. https://doi.org/10.1145/3565474.3569069
+
+Xing Fan, Wei Pan, and Qingqing Huang. 2023. Research on Chinese short text semantic matching based on lightweight ERNIE. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 22–28. https://doi.org/10.1145/3582197.3582201
+
+Xiaobing Wang and Gang Liu. 2020. Reinforcement Learning Based on Multi-subnet Clusters. In Proceedings of the 2019 3rd International Conference on Computer Science and Artificial Intelligence (CSAI '19). Association for Computing Machinery, New York, NY, USA, 71–76. https://doi.org/10.1145/3374587.3374595
+
+Bghiel Afrae, Ben Ahmed Mohamed, and A. Anouar Boudhir. 2020. A Question answering System with a sequence to sequence grammatical correction. In Proceedings of the 3rd International Conference on Networking, Information Systems &amp; Security (NISS2020). Association for Computing Machinery, New York, NY, USA, Article 75, 1–6. https://doi.org/10.1145/3386723.3387894
+
+Lianliang Chen. 2020. The Multi-Task Time-Series Graph Network for Traffic Congestion Prediction. In Proceedings of the 2020 3rd International Conference on Machine Learning and Machine Intelligence (MLMI '20). Association for Computing Machinery, New York, NY, USA, 19–23. https://doi.org/10.1145/3426826.3426831
+
+Abdul Jabbar Siddiqui and Azzedine Boukerche. 2020. Adversarial Patches-based Attacks on Automated Vehicle Make and Model Recognition Systems. In Proceedings of the 16th ACM Symposium on QoS and Security for Wireless and Mobile Networks (Q2SWinet '20). Association for Computing Machinery, New York, NY, USA, 115–121. https://doi.org/10.1145/3416013.3426461
+
+Vinay Kulkarni, Souvik Barat, Tony Clark, and Balbir S. Barn. 2023. Digital Twin as an Aid for Decision-Making in the Face of Uncertainty. In Proceedings of the Winter Simulation Conference (WSC '22). IEEE Press, 1371–1385.
+
+Haitao Zhang, Xinxin Feng, Lingchao He, and Haifeng Zheng. 2022. Traffic Flow Prediction Based on Stream Tensor Analysis. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 135–140. https://doi.org/10.1145/3512576.3512601
+
+Deeraj Nagothu, Ronghua Xu, Yu Chen, Erik Blasch, and Alexander Aved. 2021. Detecting Compromised Edge Smart Cameras using Lightweight Environmental Fingerprint Consensus. In Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (SenSys '21). Association for Computing Machinery, New York, NY, USA, 505–510. https://doi.org/10.1145/3485730.3493684
+
+Yuwei Hu, Xueyuan Zheng, and Ping Zong. 2023. An Active Transfer Learning Method Combining Uncertainty with Diversity for Chinese Address Resolution. In Proceedings of the 2022 11th International Conference on Computing and Pattern Recognition (ICCPR '22). Association for Computing Machinery, New York, NY, USA, 643–650. https://doi.org/10.1145/3581807.3581902
+
+Shalmoly Mondal, Alireza Hassani, Prem Prakash Jayaraman, Pari Delir Haghighi, and Dimitrios Georgakopoulos. 2022. Modelling IoT Application Requirements for Benchmarking IoT Middleware Platforms. In The 23rd International Conference on Information Integration and Web Intelligence (iiWAS2021). Association for Computing Machinery, New York, NY, USA, 553–561. https://doi.org/10.1145/3487664.3487742
+
+Ping Zhu. 2021. Several Problems of Semantic Engineering A Case Study of Humanoid Resolving the Primary Mathematics Application Problems. In 2021 International Symposium on Electrical, Electronics and Information Engineering (ISEEIE 2021). Association for Computing Machinery, New York, NY, USA, 38–44. https://doi.org/10.1145/3459104.3459113
+
+Jie Tao, Changhua Wang, Xihao Zhu, Ling Qi, and Hancheng Yu. 2022. Research and design of ETC operation status evaluation system based on SOM-MQE. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 429–436. https://doi.org/10.1145/3512576.3512652
+
+Alfredo Cuzzocrea and Edoardo Fadda. 2020. Data-Intensive Object-Oriented Adaptive Web Systems: Implementing and Experimenting the OO-XAHM Framework. In Proceedings of the 12th International Conference on Management of Digital EcoSystems (MEDES '20). Association for Computing Machinery, New York, NY, USA, 115–123. https://doi.org/10.1145/3415958.3433051
+
+Xuening Qin, Tien Huu Do, Jelle Hofman, Esther Rodrigo, Valerio La Manna Panzica, Nikos Deligiannis, and Wilfried Philips. 2021. Street-level Air Quality Inference Based on Geographically Context-aware Random Forest Using Opportunistic Mobile Sensor Network. In Proceedings of the 2021 5th International Conference on Innovation in Artificial Intelligence (ICIAI '21). Association for Computing Machinery, New York, NY, USA, 221–227. https://doi.org/10.1145/3461353.3461370
+
+Qiang Fan, Jianan Bai, Hao-Hsuan Chang, Lianjun Li, Shiya Liu, Joe Huang, John Burgess, Allan Berlinsky, Alex Pidwerbetsky, Jonathan Ashdown, Kurt Turck, and Lingjia Liu. 2020. Intelligent DSA-assisted clustered IoT networks: neuromorphic computing meets genetic algorithm. In Proceedings of the 7th ACM International Conference on Nanoscale Computing and Communication (NanoCom '20). Association for Computing Machinery, New York, NY, USA, Article 24, 1–6. https://doi.org/10.1145/3411295.3411320
+
+Daniel Habenicht, Kevin Kreutz, Soeren Becker, Jonathan Bader, Lauritz Thamsen, and Odej Kao. 2022. SyncMesh: improving data locality for function-as-a-service in meshed edge networks. In Proceedings of the 5th International Workshop on Edge Systems, Analytics and Networking (EdgeSys '22). Association for Computing Machinery, New York, NY, USA, 55–60. https://doi.org/10.1145/3517206.3526275
+
+Ariful Islam Anik and Andrea Bunt. 2021. Data-Centric Explanations: Explaining Training Data of Machine Learning Systems to Promote Transparency. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 75, 1–13. https://doi.org/10.1145/3411764.3445736
+
+Dhruv Agarwal, Srinivasan Iyengar, Manohar Swaminathan, Eash Sharma, Ashish Raj, and Aadithya Hatwar. 2020. Modulo: Drive-by Sensing at City-scale on the Cheap. In Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS '20). Association for Computing Machinery, New York, NY, USA, 187–197. https://doi.org/10.1145/3378393.3402275
+
+Shuheng Cao, Syauki Aulia Thamrin, and Arbee Chen. 2023. Improving the Quality of Public Transportation by Dynamically Adjusting the Bus Departure Time. In Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing (SAC '23). Association for Computing Machinery, New York, NY, USA, 834–843. https://doi.org/10.1145/3555776.3577596
+
+Jianli Xie and Na Li. 2023. User group interference management strategy based on clustering. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 164–168. https://doi.org/10.1145/3582197.3582225
+
+Prabhat Kumar, Rakesh Tripathi, and Govind P. Gupta. 2021. P2IDF: A Privacy-Preserving based Intrusion Detection Framework for Software Defined Internet of Things-Fog (SDIoT-Fog). In Adjunct Proceedings of the 2021 International Conference on Distributed Computing and Networking (ICDCN '21). Association for Computing Machinery, New York, NY, USA, 37–42. https://doi.org/10.1145/3427477.3429989
+
+Zutai Li, Xiaoping Liu, and Shaobo Wu. 2021. Dynamic Emergency Navigation Based on Prediction via Wireless Sensor Networks. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 210–215. https://doi.org/10.1145/3446999.3447634
+
+Nilakantha Paudel and Ram C. Neupane. 2020. A General Architecture for a Real-Time Monitoring System Based on the Internet of Things. In Proceedings of the 2019 3rd International Symposium on Computer Science and Intelligent Control (ISCSIC 2019). Association for Computing Machinery, New York, NY, USA, Article 38, 1–12. https://doi.org/10.1145/3386164.3387295
+
+Jianing Wang, Zehao Yuan, Yafei Wang, and Biyu Chen. 2021. A Multi-Center Method for Estimating Individual Activity Spaces with Visit Probability. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 19–24. https://doi.org/10.1145/3446999.3447003
+
+Sebastian Benthall and Jake Goldenfein. 2021. Artificial Intelligence and the Purpose of Social Systems. In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES '21). Association for Computing Machinery, New York, NY, USA, 3–12. https://doi.org/10.1145/3461702.3462526
+
+Yanting Xu, Zhi Li, and Xindan Wang. 2023. Specific Search Engine Identification Model Based on Improved TF-IDF and SVM. In Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City (ICIT '22). Association for Computing Machinery, New York, NY, USA, 122–126. https://doi.org/10.1145/3582197.3582217
+
+Xavier Larriva-Novo, Mario Vega-Barbas, Victor A. Villagrá, Diego Rivera, Mario Sanz, and Manuel Álvarez-Campana. 2020. Dynamic risk management architecture based on heterogeneous data sources for enhancing the cyber situational awareness in organizations. In Proceedings of the 15th International Conference on Availability, Reliability and Security (ARES '20). Association for Computing Machinery, New York, NY, USA, Article 100, 1–9. https://doi.org/10.1145/3407023.3409224
+
+Isaac Sanchez Leal, Eiraj Saqib, Irida Shallari, Axel Jantsch, Silvia Krug, and Mattias O'Nils. 2023. Waist Tightening of CNNs: A Case study on Tiny YOLOv3 for Distributed IoT Implementations. In Proceedings of Cyber-Physical Systems and Internet of Things Week 2023 (CPS-IoT Week '23). Association for Computing Machinery, New York, NY, USA, 241–246. https://doi.org/10.1145/3576914.3587518
+
+Haozhe Chen, Chuanbin Gong, and Jiangzhen Shi. 2023. New Energy License Plate Recognition Based on Image Processing Optimization. In Proceedings of the 5th International Conference on Information Technologies and Electrical Engineering (ICITEE '22). Association for Computing Machinery, New York, NY, USA, 103–109. https://doi.org/10.1145/3582935.3582954
+
+Yiwei Wang and Yongmei Ding. 2022. Application Analysis of Scientific Mapping Based on CiteSpace's Digital Economy Literature Review. In Proceedings of the 2021 4th International Conference on E-Business, Information Management and Computer Science (EBIMCS '21). Association for Computing Machinery, New York, NY, USA, 121–128. https://doi.org/10.1145/3511716.3511736
+
+Sharon Gumina and Karen Patten. 2022. Exploring the Internet of Things: Hands-On IoT Learning Mapped to the IT Pillars. In Proceedings of the 23rd Annual Conference on Information Technology Education (SIGITE '22). Association for Computing Machinery, New York, NY, USA, 46–52. https://doi.org/10.1145/3537674.3554757
+
+Le Yang, Xiaoli Gong, Zhengwei Wu, Yizeng Han, Lijun He, and Fan Li. 2021. Dark-Channel Mixed Attention Based Neural Networks for Smoke Detection in Fog Environment. In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (UbiComp '21). Association for Computing Machinery, New York, NY, USA, 691–696. https://doi.org/10.1145/3460418.3480403
+
+Daniel Happ and Suzan Bayhan. 2020. On the impact of clustering for IoT analytics and message broker placement across cloud and edge. In Proceedings of the Third ACM International Workshop on Edge Systems, Analytics and Networking (EdgeSys '20). Association for Computing Machinery, New York, NY, USA, 43–48. https://doi.org/10.1145/3378679.3394538
+
+Hristo Beloev, Angel Smrikarov, Aneliya Ivanova, Tzvetomir Vassilev, Tsvetozar Georgiev, Stoyanka Smrikarova, Galina Ivanova, Vanya Stoykova, Elitsa Ibryamova, Yuksel Aliev, and Pavel Zlatarov. 2020. A Vision of the University of the Future. In Proceedings of the 21st International Conference on Computer Systems and Technologies (CompSysTech '20). Association for Computing Machinery, New York, NY, USA, 307–312. https://doi.org/10.1145/3407982.3408027
+
+Jingjing Hou, Yuchen Jin, Yiwen Liu, Zhenhua Zhang, and Qinghua Zhao. 2023. A Recommendation Algorithm Incorporating Self-Attention Mechanism and Knowledge Graph. In Proceedings of the 2022 11th International Conference on Computing and Pattern Recognition (ICCPR '22). Association for Computing Machinery, New York, NY, USA, 355–361. https://doi.org/10.1145/3581807.3581858
+
+Kamil Malinka, Martin Peresíni, Anton Firc, Ondrej Hujnák, and Filip Janus. 2023. On the Educational Impact of ChatGPT: Is Artificial Intelligence Ready to Obtain a University Degree? In Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 (ITiCSE 2023). Association for Computing Machinery, New York, NY, USA, 47–53. https://doi.org/10.1145/3587102.3588827
+
+Anilcan Bulut, Fatmanur Ozdemir, Yavuz Selim Bostanci, and Mujdat Soyturk. 2023. Performance Evaluation of Recent Object Detection Models for Traffic Safety Applications on Edge. In Proceedings of the 2023 5th International Conference on Image Processing and Machine Vision (IPMV '23). Association for Computing Machinery, New York, NY, USA, 1–6. https://doi.org/10.1145/3582177.3582178
+
+Saurabh Tiwari, Ravi Bhandari, and Bhaskaran Raman. 2020. RoadCare: A Deep-learning Based Approach to Quantifying Road Surface Quality. In Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS '20). Association for Computing Machinery, New York, NY, USA, 231–242. https://doi.org/10.1145/3378393.3402284
+
+Weiguo Wang, Zhaoquan Gu, and Keke Tang. 2021. An Improved Algorithm for Bert. In Proceedings of the 2020 International Conference on Cyberspace Innovation of Advanced Technologies (CIAT 2020). Association for Computing Machinery, New York, NY, USA, 116–120. https://doi.org/10.1145/3444370.3444557
+
+Yoones Rezaei and Stephen Lee. 2023. Sat2pc: Generating Building Roof's Point Cloud from a Single 2D Satellite Images. In Proceedings of the ACM/IEEE 14th International Conference on Cyber-Physical Systems (with CPS-IoT Week 2023) (ICCPS '23). Association for Computing Machinery, New York, NY, USA, 221–230. https://doi.org/10.1145/3576841.3585924
+
+Ting Li, Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, and Yu Zheng. 2020. AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining (KDD '20). Association for Computing Machinery, New York, NY, USA, 794–802. https://doi.org/10.1145/3394486.3403122
+
+Tuyen Phong Truong, Khai Quang Nguyen, Dat Tan Nguyen, and Van-Muot Nguyen. 2023. Design and Implementation of a Portable Audio Signal Spectrum Analyzer for Noise Management. In Proceedings of the 2023 6th International Conference on Electronics, Communications and Control Engineering (ICECC '23). Association for Computing Machinery, New York, NY, USA, 62–67. https://doi.org/10.1145/3592307.3592317
+
+Rony Medaglia and Luca Tangi. 2022. The adoption of Artificial Intelligence in the public sector in Europe: drivers, features, and impacts. In Proceedings of the 15th International Conference on Theory and Practice of Electronic Governance (ICEGOV '22). Association for Computing Machinery, New York, NY, USA, 10–18. https://doi.org/10.1145/3560107.3560110
+
+Harindu Korala, Prem Prakash Jayaraman, Ali Yavari, and Dimitrios Georgakopoulos. 2021. APOLLO: a platform for experimental analysis of time sensitive multimedia IoT applications. In Proceedings of the 18th International Conference on Advances in Mobile Computing &amp; Multimedia (MoMM '20). Association for Computing Machinery, New York, NY, USA, 104–113. https://doi.org/10.1145/3428690.3429176
+
+Musharraf N. Alruwaill, Saraju P. Mohanty, and Elias Kougianos. 2023. HChain: Blockchain Based Healthcare Data Sharing with Enhanced Security and Privacy Location-Based-Authentication. In Proceedings of the Great Lakes Symposium on VLSI 2023 (GLSVLSI '23). Association for Computing Machinery, New York, NY, USA, 97–102. https://doi.org/10.1145/3583781.3590255
+
+Zhu Ping. 2021. Key Technologies of Designing and Implementing Thinking Machine. In 2021 International Symposium on Electrical, Electronics and Information Engineering (ISEEIE 2021). Association for Computing Machinery, New York, NY, USA, 378–383. https://doi.org/10.1145/3459104.3459166
+
+Shuang Li, Lu Wang, Ruizhi Zhang, Xiaofu Chang, Xuqin Liu, Yao Xie, Yuan Qi, and Le Song. 2020. Temporal logic point processes. In Proceedings of the 37th International Conference on Machine Learning (ICML'20), Vol. 119. JMLR.org, Article 556, 5990–6000.
+
+Warusia Mohamed Yassin, Mohd Faizal Abdollah, Zulkiflee Muslim, Rabiah Ahmad, and Anuar Ismail. 2022. An Emotion and Gender Detection Using Hybridized Convolutional 2D and Batch Norm Residual Network Learning. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 79–84. https://doi.org/10.1145/3512576.3512590
+
+Zihao Zhou, Wenqian Mu, Xiaoxia Yang, Qi Li, and Zhenzhen Chen. 2021. Joint Extraction of Entities and Relations for Chinese Text of Tea. In Proceedings of the 2020 8th International Conference on Information Technology: IoT and Smart City (ICIT '20). Association for Computing Machinery, New York, NY, USA, 146–152. https://doi.org/10.1145/3446999.3447027
+
+Souvik Barat, Vinay Kulkarni, and Kaustav Bhattacharya. 2023. Enterprise Digital Twins for Risk Free Business Experimentations. In Proceedings of the Winter Simulation Conference (WSC '22). IEEE Press, 2864–2875.
+
+Roberto Monteiro Dias, Rodrigo Oliveira Zacarias, Jorge Luis de Lima Varella, and Rodrigo Pereira dos Santos. 2022. Investigating Information Security in Systems-of-Systems. In Proceedings of the XVIII Brazilian Symposium on Information Systems (SBSI '22). Association for Computing Machinery, New York, NY, USA, Article 12, 1–8. https://doi.org/10.1145/3535511.3535523
+
+Myriam Guedey and Dieter Uckelmann. 2020. Exploring smart home and internet of things technologies for smart public buildings. In Proceedings of the 10th International Conference on the Internet of Things (IoT '20). Association for Computing Machinery, New York, NY, USA, Article 22, 1–8. https://doi.org/10.1145/3410992.3411009
+
+Bruno Pedraça Souza, Paulo Sérgio Medeiros Santos, and Guilherme Horta Travassos. 2023. On Challenges and Opportunities of Using Continuous Experimentation in the Engineering of Contemporary Software Systems. In Proceedings of the XIX Brazilian Symposium on Information Systems (SBSI '23). Association for Computing Machinery, New York, NY, USA, 372–379. https://doi.org/10.1145/3592813.3592927
+
+Zhaohui lv, Yuanyan Xie, Yang Yang, Yu Guo, and Zhenqiang Mi. 2020. Application of Model Compression and Acceleration Algorithms in Complex Task Model. In Proceedings of the 2019 8th International Conference on Computing and Pattern Recognition (ICCPR '19). Association for Computing Machinery, New York, NY, USA, 254–259. https://doi.org/10.1145/3373509.3373545
+
+Yonghan Li and Hongjiang Lv. 2021. The Dilemma of Digital Transformation of China's Hotel Industry and the Construction of Technology Platform: a survey of hotels industry in China. In Proceedings of the 4th International Conference on Information Management and Management Science (IMMS '21). Association for Computing Machinery, New York, NY, USA, 13–18. https://doi.org/10.1145/3485190.3485193
+
+Christophe Cérin, Frédéric Andres, and Danielle Geldwerth-Feniger. 2021. Towards an emulation tool based on ontologies and data life cycles for studying smart buildings. In Proceedings of the International Workshop on Big Data in Emergent Distributed Environments (BiDEDE '21). Association for Computing Machinery, New York, NY, USA, Article 8, 1–15. https://doi.org/10.1145/3460866.3461772
+
+Yuhan Luo, Mingzhe Liu, Jianping Wang, Cuixu Yuan, and Tong Liu. 2022. When Secure Data Sharing Meets Blockchain: Overview, Challenges and Future Prospects. In The 2022 4th International Conference on Blockchain Technology (ICBCT'22). Association for Computing Machinery, New York, NY, USA, 1–8. https://doi.org/10.1145/3532640.3532641
+
+David Valle-Cruz, J. Ramon Gil-Garcia, and Vanessa Fernandez-Cortez. 2020. Towards Smarter Public Budgeting? Understanding the Potential of Artificial Intelligence Techniques to Support Decision Making in Government. In The 21st Annual International Conference on Digital Government Research (dg.o '20). Association for Computing Machinery, New York, NY, USA, 232–242. https://doi.org/10.1145/3396956.3396995
+
+Yanjun Zhang, Guangdong Bai, Mahawaga Arachchige Pathum Chamikara, Mengyao Ma, Liyue Shen, Jingwei Wang, Surya Nepal, Minhui Xue, Long Wang, and Joseph Liu. 2023. AgrEvader: Poisoning Membership Inference against Byzantine-robust Federated Learning. In Proceedings of the ACM Web Conference 2023 (WWW '23). Association for Computing Machinery, New York, NY, USA, 2371–2382. https://doi.org/10.1145/3543507.3583542
+
+Xavier Calle Heredia, Pablo Barbecho Bautista, and Mónica Aguilar Igartua. 2021. Performance Evaluation of Cooperative LTE-DSRC Vehicular Network. In Proceedings of the 18th ACM Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, &amp; Ubiquitous Networks (PE-WASUN '21). Association for Computing Machinery, New York, NY, USA, 25–32. https://doi.org/10.1145/3479240.3488528
+
+Lijuan Zhou, Weicong Zhang, and Xiaojie Qian. 2022. Human Action Captioning based on a GRU+LSTM+Attention Model. In Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City (ICIT '21). Association for Computing Machinery, New York, NY, USA, 168–173. https://doi.org/10.1145/3512576.3512606
+
+Qi Li, Sander Schott, and Dong Chen. 2023. SolarDetector: Automatic Solar PV Array Identification using Big Satellite Imagery Data. In Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI '23). Association for Computing Machinery, New York, NY, USA, 117–129. https://doi.org/10.1145/3576842.3582384
+
+Zheng Wang, Jialong Wang, Yuchen Guo, and Zhiguo Gong. 2021. Zero-shot Node Classification with Decomposed Graph Prototype Network. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery &amp; Data Mining (KDD '21). Association for Computing Machinery, New York, NY, USA, 1769–1779. https://doi.org/10.1145/3447548.3467230
+
+Marco Aldinucci, Giovanni Agosta, Antonio Andreini, Claudio A. Ardagna, Andrea Bartolini, Alessandro Cilardo, Biagio Cosenza, Marco Danelutto, Roberto Esposito, William Fornaciari, Roberto Giorgi, Davide Lengani, Raffaele Montella, Mauro Olivieri, Sergio Saponara, Daniele Simoni, and Massimo Torquati. 2021. The Italian research on HPC key technologies across EuroHPC. In Proceedings of the 18th ACM International Conference on Computing Frontiers (CF '21). Association for Computing Machinery, New York, NY, USA, 178–184. https://doi.org/10.1145/3457388.3458508
+
+Sai Sree Laya Chukkapalli, Shaik Barakhat Aziz, Nouran Alotaibi, Sudip Mittal, Maanak Gupta, and Mahmoud Abdelsalam. 2021. Ontology driven AI and Access Control Systems for Smart Fisheries. In Proceedings of the 2021 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SAT-CPS '21). Association for Computing Machinery, New York, NY, USA, 59–68. https://doi.org/10.1145/3445969.3450429
+
+Michel Albonico, Adair Rohling, Juliano Santos, and Paulo Varela. 2021. Mining Evidences of Internet of Robotic Things (IoRT) Software from Open Source Projects. In 15th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS '21). Association for Computing Machinery, New York, NY, USA, 71–79. https://doi.org/10.1145/3483899.3483900
+
+Yuting Feng, Xinning Zhu, Xiaosheng Tang, and Zheng Hu. 2022. Multi-step Point-of-Interest-level Crowd Flow Prediction Based on Meta Learning. In 2022 14th International Conference on Machine Learning and Computing (ICMLC) (ICMLC 2022). Association for Computing Machinery, New York, NY, USA, 229–236. https://doi.org/10.1145/3529836.3529930
+
+Aamir Shahzad, Kaiwen Zhang, and Abdelouahed Gherbi. 2021. Privacy-preserving smart grid traceability using blockchain over IoT connectivity. In Proceedings of the 36th Annual ACM Symposium on Applied Computing (SAC '21). Association for Computing Machinery, New York, NY, USA, 699–706. https://doi.org/10.1145/3412841.3441949
+
+Gianmarco Cerutti, Renzo Andri, Lukas Cavigelli, Elisabetta Farella, Michele Magno, and Luca Benini. 2020. Sound event detection with binary neural networks on tightly power-constrained IoT devices. In Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED '20). Association for Computing Machinery, New York, NY, USA, 19–24. https://doi.org/10.1145/3370748.3406588
+
+Yue Gao and Jing Zhang. 2021. Studying the Impacts of Federal Funding on Residential Smart Meter Adoption and Utilities’ Performance in the U.S.: A Simultaneous Equation Approach. In DG.O2021: The 22nd Annual International Conference on Digital Government Research (DG.O'21). Association for Computing Machinery, New York, NY, USA, 416–423. https://doi.org/10.1145/3463677.3463739
+
+Federico Venturini, Federico Mason, Francesco Pase, Federico Chiariotti, Alberto Testolin, Andrea Zanella, and Michele Zorzi. 2020. Distributed reinforcement learning for flexible UAV swarm control with transfer learning capabilities. In Proceedings of the 6th ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet '20). Association for Computing Machinery, New York, NY, USA, Article 10, 1–6. https://doi.org/10.1145/3396864.3399701
+
+Eric Lyons, Hakan Saplakoglu, Michael Zink, Komal Thareja, Anirban Mandal, Chengyi Qu, Songjie Wang, Prasad Calyam, George Papadimitriou, Ryan Tanaka, and Ewa Deelman. 2021. FlyNet: a platform to support scientific workflows from the edge to the core for UAV applications. In Proceedings of the 14th IEEE/ACM International Conference on Utility and Cloud Computing (UCC '21). Association for Computing Machinery, New York, NY, USA, Article 12, 1–10. https://doi.org/10.1145/3468737.3494098
+
+Kaikai Liu. 2020. Deep Associated Elastic Tracker for Intelligent Traffic Intersections. In Proceedings of the 2nd International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT '20). Association for Computing Machinery, New York, NY, USA, 55–61. https://doi.org/10.1145/3417313.3429386
+
+Marcel Altendeitering, Julia Pampus, Felix Larrinaga, Jon Legaristi, and Falk Howar. 2022. Data sovereignty for AI pipelines: lessons learned from an industrial project at Mondragon corporation. In Proceedings of the 1st International Conference on AI Engineering: Software Engineering for AI (CAIN '22). Association for Computing Machinery, New York, NY, USA, 193–204. https://doi.org/10.1145/3522664.3528593
+
+Weijia Zhang, Hao Liu, Lijun Zha, Hengshu Zhu, Ji Liu, Dejing Dou, and Hui Xiong. 2021. MugRep: A Multi-Task Hierarchical Graph Representation Learning Framework for Real Estate Appraisal. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery &amp; Data Mining (KDD '21). Association for Computing Machinery, New York, NY, USA, 3937–3947. https://doi.org/10.1145/3447548.3467187
+
+Swapnil Sharma, Arpan Kumar Kar, and M.P. Gupta. 2022. Unpacking Digital Accountability: Ensuring efficient and answerable e-governance service delivery. In Proceedings of the 14th International Conference on Theory and Practice of Electronic Governance (ICEGOV '21). Association for Computing Machinery, New York, NY, USA, 260–269. https://doi.org/10.1145/3494193.3494229
+
+Bin Lu, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, and Xinbing Wang. 2022. Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '22). Association for Computing Machinery, New York, NY, USA, 1162–1172. https://doi.org/10.1145/3534678.3539281
+
+Genxuan Hong, Zhanquan Wang, Fuchen Gao, and Hengming Ji. 2021. Traffic Flow Prediction Using Spatiotemporal Analysis and Encoder-Decoder Network. In 2021 13th International Conference on Machine Learning and Computing (ICMLC 2021). Association for Computing Machinery, New York, NY, USA, 290–297. https://doi.org/10.1145/3457682.3457726
+
+Mohammad S. Aslanpour, Adel N. Toosi, Claudio Cicconetti, Bahman Javadi, Peter Sbarski, Davide Taibi, Marcos Assuncao, Sukhpal Singh Gill, Raj Gaire, and Schahram Dustdar. 2021. Serverless Edge Computing: Vision and Challenges. In Proceedings of the 2021 Australasian Computer Science Week Multiconference (ACSW '21). Association for Computing Machinery, New York, NY, USA, Article 10, 1–10. https://doi.org/10.1145/3437378.3444367
+
+Golla Uday Sai Theja, Motukoori Sai Murari, M. Franckie Singha, Ripon Patgiri, and Ananya Choudhury. 2022. A Survey on Surveillance using Drones. In Proceedings of the 2022 Fourteenth International Conference on Contemporary Computing (IC3-2022). Association for Computing Machinery, New York, NY, USA, 250–257. https://doi.org/10.1145/3549206.3549253
+
+Andreas Burgdorf, Alexander Paulus, André Pomp, and Tobias Meisen. 2022. DocSemMap 2.0: Semantic Labeling based on Textual Data Documentations Using Seq2Seq Context Learner. In Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management (CIKM '22). Association for Computing Machinery, New York, NY, USA, 98–107. https://doi.org/10.1145/3511808.3557446
+
+Muhammad Arslan and Christophe Cruz. 2023. Challenges of Spatio-Temporal Trajectory Data Use: Focus Group Findings from the 1st International Summer School on Data Science for Mobility. In Proceedings of the 27th International Database Engineered Applications Symposium (IDEAS '23). Association for Computing Machinery, New York, NY, USA, 51–58. https://doi.org/10.1145/3589462.3589478
+
+Bess Krietemeyer, Jason Dedrick, Camila Andino, and Daniela Andino. 2020. Spatial interpolation of outdoor illumination at night using geostatistical modeling. In Proceedings of the 11th Annual Symposium on Simulation for Architecture and Urban Design (SimAUD '20). Society for Computer Simulation International, San Diego, CA, USA, Article 20, 1–8.
+
+Liang Gao, Li Li, Yingwen Chen, Wenli Zheng, ChengZhong Xu, and Ming Xu. 2021. FIFL: A Fair Incentive Mechanism for Federated Learning. In Proceedings of the 50th International Conference on Parallel Processing (ICPP '21). Association for Computing Machinery, New York, NY, USA, Article 82, 1–10. https://doi.org/10.1145/3472456.3472469
+
+Xuan Rao, Lisi Chen, Yong Liu, Shuo Shang, Bin Yao, and Peng Han. 2022. Graph-Flashback Network for Next Location Recommendation. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '22). Association for Computing Machinery, New York, NY, USA, 1463–1471. https://doi.org/10.1145/3534678.3539383
+
+Benjamin S. Bucknall and Shiri Dori-Hacohen. 2022. Current and Near-Term AI as a Potential Existential Risk Factor. In Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES '22). Association for Computing Machinery, New York, NY, USA, 119–129. https://doi.org/10.1145/3514094.3534146
+
+João Pedro Dias, Tiago Boldt Sousa, André Restivo, and Hugo Sereno Ferreira. 2020. A Pattern-Language for Self-Healing Internet-of-Things Systems. In Proceedings of the European Conference on Pattern Languages of Programs 2020 (EuroPLoP '20). Association for Computing Machinery, New York, NY, USA, Article 25, 1–17. https://doi.org/10.1145/3424771.3424804
+
+Alex Yen, Zeal Shah, Benjamin Ochoa, Pat Pannuto, and Jay Taneja. 2022. EffiSenseSee: towards classifying light bulb types and energy efficiency with camera-based sensing. In Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '22). Association for Computing Machinery, New York, NY, USA, 69–78. https://doi.org/10.1145/3563357.3564062
+
+Heitor Werneck, Nícollas Silva, Matheus Carvalho Viana, Fernando Mourão, Adriano C. M. Pereira, and Leonardo Rocha. 2020. A Survey on Point-of-Interest Recommendation in Location-based Social Networks. In Proceedings of the Brazilian Symposium on Multimedia and the Web (WebMedia '20). Association for Computing Machinery, New York, NY, USA, 185–192. https://doi.org/10.1145/3428658.3430970
+
+Hazem H. Abdulmajeed, Assem Alsawy, and Hesham Ahmed Hefny. 2023. An Intelligent Approach for Solving QoS and Multicast Routing Issues. In Proceedings of the 7th International Conference on Sustainable Information Engineering and Technology (SIET '22). Association for Computing Machinery, New York, NY, USA, 79–89. https://doi.org/10.1145/3568231.3568252
+
+Bhuwan Bhattarai, Yagya Raj Pandeya, and Joonwhoan Lee. 2021. Deep Learning-based Face Mask Detection Using Automated GUI for COVID-19. In Proceedings of the 2021 6th International Conference on Machine Learning Technologies (ICMLT '21). Association for Computing Machinery, New York, NY, USA, 47–57. https://doi.org/10.1145/3468891.3468899
+
+Kai Holländer, Andy Krüger, and Andreas Butz. 2020. Save the Smombies: App-Assisted Street Crossing. In 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '20). Association for Computing Machinery, New York, NY, USA, Article 22, 1–11. https://doi.org/10.1145/3379503.3403547
+
+Thomas Samuel Wellings, Sirjoni Majumdar, Regula Haenggli Fricker, and Evangelos Pournaras. 2023. Improving City Life via Legitimate and Participatory Policy-making: A Data-driven Approach in Switzerland. In Proceedings of the 24th Annual International Conference on Digital Government Research (DGO '23). Association for Computing Machinery, New York, NY, USA, 23–35. https://doi.org/10.1145/3598469.3598472
+
+José Pablo Lapostol Piderit, Romina Garrido Iglesias, and María Paz Hermosilla Cornejo. 2023. Algorithmic Transparency from the South: Examining the state of algorithmic transparency in Chile's public administration algorithms. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). Association for Computing Machinery, New York, NY, USA, 227–235. https://doi.org/10.1145/3593013.3593991
+
+Antonio A. R. Beserra, Rodrigo M. Kishi, and Rudinei Goularte. 2020. Evaluating Early Fusion Operators at Mid-Level Feature Space. In Proceedings of the Brazilian Symposium on Multimedia and the Web (WebMedia '20). Association for Computing Machinery, New York, NY, USA, 113–120. https://doi.org/10.1145/3428658.3431079
+
+Guenter Hesse, Christoph Matthies, Michael Perscheid, Matthias Uflacker, and Hasso Plattner. 2021. ESPBench: The Enterprise Stream Processing Benchmark. In Proceedings of the ACM/SPEC International Conference on Performance Engineering (ICPE '21). Association for Computing Machinery, New York, NY, USA, 201–212. https://doi.org/10.1145/3427921.3450242
+
+Liang Zhao, Min Gao, and Zongwei Wang. 2022. ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction. In Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM '22). Association for Computing Machinery, New York, NY, USA, 1443–1451. https://doi.org/10.1145/3488560.3498444
+
+Ranjan Pal, Taoan Lu, Peihan Liu, and Xinlong Yin. 2022. Cyber (re-)insurance policy writing is NP-hard in IoT societies. In Proceedings of the Winter Simulation Conference (WSC '21). IEEE Press, Article 33, 1–12.
+
+Stefano Petrocchi, Giacomo Giorgi, and Mario G. C. A. Cimino. 2021. A Real-Time Deep Learning Approach for Real-World Video Anomaly Detection. In Proceedings of the 16th International Conference on Availability, Reliability and Security (ARES 21). Association for Computing Machinery, New York, NY, USA, Article 119, 1–9. https://doi.org/10.1145/3465481.3470099
+
+Souvik Barat, Vinay Kulkarni, Tony Clark, and Balbir Barn. 2022. Digital twin as risk-free experimentation aid for techno-socio-economic systems. In Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems (MODELS '22). Association for Computing Machinery, New York, NY, USA, 66–75. https://doi.org/10.1145/3550355.3552409
+
+Fanny Vainionpää, Marianne Kinnula, Atte Kinnula, Kari Kuutti, and Simo Hosio. 2022. HCI and Digital Twins – A Critical Look: A Literature Review. In Proceedings of the 25th International Academic Mindtrek Conference (Academic Mindtrek '22). Association for Computing Machinery, New York, NY, USA, 75–88. https://doi.org/10.1145/3569219.3569376
+
+Nithya Sambasivan, Erin Arnesen, Ben Hutchinson, Tulsee Doshi, and Vinodkumar Prabhakaran. 2021. Re-imagining Algorithmic Fairness in India and Beyond. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21). Association for Computing Machinery, New York, NY, USA, 315–328. https://doi.org/10.1145/3442188.3445896
+
+Haoxing Lin, Rufan Bai, Weijia Jia, Xinyu Yang, and Yongjian You. 2020. Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining (KDD '20). Association for Computing Machinery, New York, NY, USA, 36–46. https://doi.org/10.1145/3394486.3403046
+
+Suining He and Kang G. Shin. 2020. Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems. In Proceedings of The Web Conference 2020 (WWW '20). Association for Computing Machinery, New York, NY, USA, 88–98. https://doi.org/10.1145/3366423.3380097
+
+Chongqi Guan, Heting Liu, Guohong Cao, Sencun Zhu, and Thomas La Porta. 2023. HoneyIoT: Adaptive High-Interaction Honeypot for IoT Devices Through Reinforcement Learning. In Proceedings of the 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec '23). Association for Computing Machinery, New York, NY, USA, 49–59. https://doi.org/10.1145/3558482.3590195
+
+Nicholas Sohre and Stephen J. Guy. 2020. SPNets: Human-like Navigation Behaviors with Uncertain Goals. In Proceedings of the 13th ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG '20). Association for Computing Machinery, New York, NY, USA, Article 14, 1–11. https://doi.org/10.1145/3424636.3426911
+
+Thomas Henzinger, Mahyar Karimi, Konstantin Kueffner, and Kaushik Mallik. 2023. Runtime Monitoring of Dynamic Fairness Properties. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). Association for Computing Machinery, New York, NY, USA, 604–614. https://doi.org/10.1145/3593013.3594028
+
+Chunyang Ling, Zeqi Lin, Yanzhen Zou, and Bing Xie. 2020. Adaptive Deep Code Search. In Proceedings of the 28th International Conference on Program Comprehension (ICPC '20). Association for Computing Machinery, New York, NY, USA, 48–59. https://doi.org/10.1145/3387904.3389278
+
+Ruozhou Yu, Guoliang Xue, Yinxin Wan, Jian Tang, Dejun Yang, and Yusheng Ji. 2020. Robust resource provisioning in time-varying edge networks. In Proceedings of the Twenty-First International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (Mobihoc '20). Association for Computing Machinery, New York, NY, USA, 21–30. https://doi.org/10.1145/3397166.3409146
+
+Noman Bashir, Yasra Chandio, David Irwin, Fatima M. Anwar, Jeremy Gummeson, and Prashant Shenoy. 2023. Jointly Managing Electrical and Thermal Energy in Solar- and Battery-powered Computer Systems. In Proceedings of the 14th ACM International Conference on Future Energy Systems (e-Energy '23). Association for Computing Machinery, New York, NY, USA, 132–143. https://doi.org/10.1145/3575813.3595191
+
+Sayda Elmi and Kian-Lee Tan. 2021. DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities. In Proceedings of the Web Conference 2021 (WWW '21). Association for Computing Machinery, New York, NY, USA, 1880–1890. https://doi.org/10.1145/3442381.3449983
+
+Amir Makhshari and Ali Mesbah. 2021. IoT Bugs and Development Challenges. In Proceedings of the 43rd International Conference on Software Engineering (ICSE '21). IEEE Press, 460–472. https://doi.org/10.1109/ICSE43902.2021.00051
+
+Shameek Bhattacharjee, Praveen Madhavarapu, and Sajal K. Das. 2021. A Diversity Index based Scoring Framework for Identifying Smart Meters Launching Stealthy Data Falsification Attacks. In Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security (ASIA CCS '21). Association for Computing Machinery, New York, NY, USA, 26–39. https://doi.org/10.1145/3433210.3437527
+
+Ruihang Wang, Xin Zhou, Linsen Dong, Yonggang Wen, Rui Tan, Li Chen, Guan Wang, and Feng Zeng. 2020. Kalibre: Knowledge-based Neural Surrogate Model Calibration for Data Center Digital Twins. In Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '20). Association for Computing Machinery, New York, NY, USA, 200–209. https://doi.org/10.1145/3408308.3427982
+
+Phani Kishore Gadepalli, Sean McBride, Gregor Peach, Ludmila Cherkasova, and Gabriel Parmer. 2020. Sledge: a Serverless-first, Light-weight Wasm Runtime for the Edge. In Proceedings of the 21st International Middleware Conference (Middleware '20). Association for Computing Machinery, New York, NY, USA, 265–279. https://doi.org/10.1145/3423211.3425680
+
+Martina De Sanctis, Henry Muccini, and Karthik Vaidhyanathan. 2022. A User-driven Adaptation Approach for Microservice-based IoT Applications. In Proceedings of the 11th International Conference on the Internet of Things (IoT '21). Association for Computing Machinery, New York, NY, USA, 48–56. https://doi.org/10.1145/3494322.3494329
+
+Joseph S. Schafer, Kate Starbird, and Daniela K. Rosner. 2023. Participatory Design and Power in Misinformation, Disinformation, and Online Hate Research. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 1724–1739. https://doi.org/10.1145/3563657.3596119
+
+Liming Ge, Zizhao Wang, Wei Bao, Dong Yuan, Nguyen H. Tran, Bing B. Zhou, and Albert Y. Zomaya. 2023. Semi-Online Multi-Machine with Restart Scheduling for Integrated Edge and Cloud Computing Systems. In Proceedings of the 51st International Conference on Parallel Processing (ICPP '22). Association for Computing Machinery, New York, NY, USA, Article 70, 1–13. https://doi.org/10.1145/3545008.3545059
+
+Wei Wang, Dingsheng He, Wan Jia, Xiaojiang Chen, Tao Gu, Haiyan Liu, Xiaoyang Sun, Guannan Chen, and Fuping Wu. 2021. PRComm: Anti-Interference Cross-Technology Communication Based on Pseudo-random Sequence. In Proceedings of the 20th International Conference on Information Processing in Sensor Networks (co-located with CPS-IoT Week 2021) (IPSN '21). Association for Computing Machinery, New York, NY, USA, 163–175. https://doi.org/10.1145/3412382.3458264
+
+Joseph Noor, Mani Srivastava, and Ravi Netravali. 2021. Portkey: Adaptive Key-Value Placement over Dynamic Edge Networks. In Proceedings of the ACM Symposium on Cloud Computing (SoCC '21). Association for Computing Machinery, New York, NY, USA, 197–213. https://doi.org/10.1145/3472883.3487004
+
+Raymond Fok, Mingyuan Zhong, Anne Spencer Ross, James Fogarty, and Jacob O. Wobbrock. 2022. A Large-Scale Longitudinal Analysis of Missing Label Accessibility Failures in Android Apps. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). Association for Computing Machinery, New York, NY, USA, Article 461, 1–16. https://doi.org/10.1145/3491102.3502143
+
+Eric Corbett and Christopher Le Dantec. 2021. Designing Civic Technology with Trust. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 173, 1–17. https://doi.org/10.1145/3411764.3445341
+
+Priya C. Kumar, Fiona O'Connell, Lucy Li, Virginia L. Byrne, Marshini Chetty, Tamara L. Clegg, and Jessica Vitak. 2023. Understanding Research Related to Designing for Children's Privacy and Security: A Document Analysis. In Proceedings of the 22nd Annual ACM Interaction Design and Children Conference (IDC '23). Association for Computing Machinery, New York, NY, USA, 335–354. https://doi.org/10.1145/3585088.3589375
+
+Chenning Li, Hanqing Guo, Shuai Tong, Xiao Zeng, Zhichao Cao, Mi Zhang, Qiben Yan, Li Xiao, Jiliang Wang, and Yunhao Liu. 2021. NELoRa: Towards Ultra-low SNR LoRa Communication with Neural-enhanced Demodulation. In Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (SenSys '21). Association for Computing Machinery, New York, NY, USA, 56–68. https://doi.org/10.1145/3485730.3485928
+
+Yiming Gan, Yuxian Qiu, Lele Chen, Jingwen Leng, and Yuhao Zhu. 2020. Low-Latency Proactive Continuous Vision. In Proceedings of the ACM International Conference on Parallel Architectures and Compilation Techniques (PACT '20). Association for Computing Machinery, New York, NY, USA, 329–342. https://doi.org/10.1145/3410463.3414650
+
+Chiara Rossitto, Rob Comber, Jakob Tholander, and Mattias Jacobsson. 2022. Towards Digital Environmental Stewardship: the Work of Caring for the Environment in Waste Management. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). Association for Computing Machinery, New York, NY, USA, Article 335, 1–16. https://doi.org/10.1145/3491102.3517679
+

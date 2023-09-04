@@ -1,0 +1,1 @@
+"query": {Fulltext:(("smart city") AND (platform OR software OR system OR framework) AND (adaptation OR adaptive OR "self-adaptation" OR "self-adaptive" OR "MAPE-K"))}	"filter": {Media Format: PDF},{ACM Pub type: Journals},{Article Type: Research Article},{Publisher: Association for Computing Machinery},{E-Publication Date: (01/01/2010 TO 31/01/2020)}

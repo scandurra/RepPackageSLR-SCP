@@ -1,0 +1,10 @@
+Refined search string: ("smart city" AND (platform OR software OR system OR framework)) AND (adaptation OR "self-adaptation" OR "self-adaptive" OR "MAPE-K")
+
+Within: Title, abstract or author-specified keywords
+Article type: Research article
+Period(s): 2010-2020, 2021-2023
+Subject areas: Computer Science 
+
+Note on rules in ScienceDirect:
+Punctuation is ignored in a phrase search. The searches "heart-attack" and "heart attack" return the same results.
+Plurals and spelling variants are included: "heart attack" includes "heart attacks", "color code" includes "colour code"

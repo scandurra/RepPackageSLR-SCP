@@ -1,0 +1,7 @@
+Search string: ("smart city") AND (platform OR software OR system OR framework) AND (adaptation OR adaptive OR "self-adaptation" OR "self-adaptive" OR "MAPE-K")
+Search within: Full text
+Duration: jan 2010 to dec 2020, jan 2021 to aug 2023
+Type: research article
+media type: PDF
+publisher: ACM
+language: English

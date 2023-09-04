@@ -1,0 +1,6 @@
+Search string: "smart city" platform OR software OR system OR framework  adaptation OR adaptive OR "self-adaptation" OR "self-adaptive" OR "MAPE-K"
+ContentType: article, conf. paper
+within: English Computer Science, Computer Science, general Software Engineering 2010 - 2020 
+within: English Computer Science, Computer Science, general Software Engineering 2021- 2022 
+
+

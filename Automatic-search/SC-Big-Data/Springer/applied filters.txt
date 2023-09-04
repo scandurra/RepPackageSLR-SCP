@@ -1,0 +1,6 @@
+Search string: "smart city" application OR service "urban data analytic" OR "big data analytic" OR "machine learning"   
+ContentType: article, conf. paper
+within: English Computer Science, Computer Science, general  Software Engineering/Programming and Operating Systems  2010 - 2020 
+within: English Computer Science, Computer Science, general  Software Engineering/Programming and Operating Systems  2021- 2023
+
+

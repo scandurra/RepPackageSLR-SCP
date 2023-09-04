@@ -1,0 +1,2 @@
+ACM DL: Query Name,Search Run Date,Search Result Count,Query Syntax
+queryExp,2023-08-15 at 10:31:12 PDT,31,"query": {Fulltext:(("smart city") AND (application OR service) AND ("urban data analytic" OR "big data analytic" OR "machine learning"))}	"filter": {Media Format: PDF},{ACM Pub type: Journals},{Article Type: Research Article},{E-Publication Date: (01/01/2010 TO 01/31/2020)}

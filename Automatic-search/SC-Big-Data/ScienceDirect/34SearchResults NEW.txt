@@ -1,0 +1,299 @@
+Hadi Salehi, Subir Biswas, Rigoberto Burgueño,
+Data interpretation framework integrating machine learning and pattern recognition for self-powered data-driven damage identification with harvested energy variations,
+Engineering Applications of Artificial Intelligence,
+Volume 86,
+2019,
+Pages 136-153,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2019.08.004.
+(https://www.sciencedirect.com/science/article/pii/S0952197619301897)
+Abstract: Data mining methods have been widely used for structural health monitoring (SHM) and damage identification for analysis of continuous signals. Nonetheless, the applicability and effectiveness of these techniques cannot be guaranteed when dealing with discrete binary and incomplete/missing signals (i.e., not continuous in time). In this paper a novel data interpretation framework for SHM with noisy and incomplete signals, using a through-substrate self-powered sensing technology, is presented within the context of artificial intelligence (AI). AI methods, namely, machine learning and pattern recognition, were integrated within the data interpretation framework developed for use in a practical engineering problem: data-driven SHM of plate-like structures. Finite element simulations on an aircraft stabilizer wing and experimental vibration tests on a dynamically loaded plate were conducted to validate the proposed framework. Machine learning algorithms, including support vector machine, k-nearest neighbor, and artificial neural networks, were integrated within the developed learning framework for performance assessment of the monitored structures. Different levels of harvested energy were considered to evaluate the robustness of the SHM system with respect to such variations. Results demonstrate that the SHM methodology employing the proposed machine learning-based data interpretation framework is efficient and robust for damage detection with incomplete and sparse/missing binary signals, overcoming the notable issue of energy availability for smart damage identification platforms being used in structural/infrastructure and aerospace health monitoring. The present study aims to advance data mining and interpretation techniques in the SHM domain, promoting the practical application of machine learning and pattern recognition with incomplete and missing/sparse signals in smart cities and smart infrastructure monitoring.
+Keywords: Structural health monitoring; Machine learning; Low-rank matrix completion; Pattern recognition; Self-powered sensors; Plate-like structures; Incomplete signals; Energy harvesting
+
+Umit Deniz Ulusar, Gurkan Celik, Fadi Al-Turjman,
+Cognitive RF-based localization for mission-critical applications in smart cities: An overview,
+Computers & Electrical Engineering,
+Volume 87,
+2020,
+106780,
+ISSN 0045-7906,
+https://doi.org/10.1016/j.compeleceng.2020.106780.
+(https://www.sciencedirect.com/science/article/pii/S0045790620306352)
+Abstract: The accessibility of accurate location information for operators in mission-critical scenarios would considerably increase their mission success. In order to obtain precise location information, numerous algorithms and technologies have been suggested. These methods and systems show varying performances under different conditions, and with the help of machine learning techniques, their reliability can be enhanced dramatically. In this paper, we overview the state-of-the-art in emerging algorithms and technologies employing cognitive solutions in mission critical localization applications. We compare these algorithms in terms of different localization parameters such as scalability, power consumption, availability, service quality and accuracy. Consequently, this survey will assist researchers who are working in the area of RF-based localization to achieve better performance in mission critical scenarios that can be experienced in smart city applications.
+Keywords: Localization; Mission-critical applications; Positioning technologies; Smart cities; IoT
+
+Muhammad Babar, Fahim Arif,
+Smart urban planning using Big Data analytics to contend with the interoperability in Internet of Things,
+Future Generation Computer Systems,
+Volume 77,
+2017,
+Pages 65-76,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2017.07.029.
+(https://www.sciencedirect.com/science/article/pii/S0167739X17308993)
+Abstract: The recent growth and expansion in the field of Internet of Things (IoT) is providing a great business prospective in the direction of the new era of smart urban. The insight of the smart urban is extensively preferred, as it improves the excellence of life of citizens, connecting several regulations, that is, smart transportation, smart parking, smart environment, smart healthcare, and so forth. Continuous intensification of the multifaceted urban set-up is extensively challenged by real-time processing of data and smart decision capabilities. Consequently, in this paper, we propose a smart city architecture which is based on Big Data analytics. The proposed scheme is comprised of three modules: (1) data acquisition and aggregation module collects varied and diverse data interrelated to city services, (2) data computation and processing module performs normalization, filtration, processing and data analysis, and (3) application and decision module formulates decisions and initiates events. The proposed architecture is a generic solution for the smart urban planning and variety of datasets is analyzed to validate this architecture. In addition, we tested reliable datasets on Hadoop server to verify the threshold limit value (TLV) and the investigation demonstrates that the proposed scheme offer valuable imminent into the community development systems to get better the existing smart urban architecture. Moreover, the efficiency of proposed architecture in terms of throughput is also shown.
+Keywords: IoT; Interoperability; Big Data analytics; Smart city
+
+Luciana Bencke, Cristian Cechinel, Roberto Munoz,
+Automated classification of social network messages into Smart Cities dimensions,
+Future Generation Computer Systems,
+Volume 109,
+2020,
+Pages 218-237,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2020.03.057.
+(https://www.sciencedirect.com/science/article/pii/S0167739X19303000)
+Abstract: A Smart City can be defined as a high-tech city with several public and private services capable to strategically solve (or mitigate) problems normally generated by rapid urbanization. Different models of indicators have been developed to follow cities’ evolution to become a Smart City. An example of such model is the standard 37120 from the International Organization for Standardization (ISO) that proposes a set of dimensions and indicators (e.g. Transportation, Recreation, Solid Waste) for services and quality of life for sustainable cities and communities. It has been common to find official social network profiles of organizations and governmental entities related to the services they provide or are responsible for (water, waste, transportation, cultural events, etc.) and that are used by citizens as a gateway to directly interact and communicate their complains and problems about those services. The present paper proposes to apply machine learning algorithms over the urban data generated by social networks in order to create classifiers to automatically categorize citizens messages according to the different cities services dimensions. For that, two distinct text datasets in Portuguese were collected from two social networks: Twitter (1,950 tweets) and Colab.re (65,066 posts). The texts were mapped according to the different ISO 37120 categories, preprocessed and mined through the use of 8 algorithms implemented in Scikit-Learn. Initial results pointed out the feasibility of the proposal with models achieving average F1-measures around 55% for F1-macro and 78% for F1-micro when using Linear Vector Classification, Logistic Regression, Decision Tree and Complement Naive Bayes. However, as the datasets were highly unbalanced, the performances of the models vary significantly for each ISO category, with the best results occurring for Wastewater, Water & Sanitation, Energy and Transportation. The classifiers generated here can be integrated on a number of different city services and systems such as: governmental support decision systems, customer complain systems, communities dashboards, police offices, transportation’s companies, cultural producers, environmental agencies, and recyclers’ companies.
+Keywords: Topic Classification; Machine learning; Text Classification; Smart City services; ISO 37120
+
+T. Saranya, S. Sridevi, C. Deisy, Tran Duc Chung, M.K.A.Ahamed Khan,
+Performance Analysis of Machine Learning Algorithms in Intrusion Detection System: A Review,
+Procedia Computer Science,
+Volume 171,
+2020,
+Pages 1251-1260,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2020.04.133.
+(https://www.sciencedirect.com/science/article/pii/S1877050920311121)
+Abstract: The rapid growth of technologies not only formulates life easier but also exposes a lot of security issues. With the advancement of the Internet over years, the number of attacks over the Internet has been increased. Intrusion Detection System (IDS) is one of the supportive layers applicable to information security. IDS provide a salubrious environment for business and keeps away from suspicious network activities. Recently, Machine Learning (ML) algorithms are applied in IDS in order to identify and classify the security threats. This paper explores the comparative study of various ML algorithms used in IDS for several applications such as fog computing, Internet of Things (IoT), big data, smart city, and 5G network. In addition, this work also aims for classifying the intrusions using ML algorithms like Linear Discriminant Analysis (LDA), Classification and Regression Trees (CART) and Random Forest. The work was tested with the KDD-CUP dataset and their efficiency was measured and also compared along with the latest researches.
+Keywords: Intrusion Detection System(IDS); Machine Learning(ML) Algorithm; Classification; Random Forest; Support Vector Machine; Accuracy
+
+Emilio Serrano, Javier Bajo,
+Deep neural network architectures for social services diagnosis in smart cities,
+Future Generation Computer Systems,
+Volume 100,
+2019,
+Pages 122-131,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2019.05.034.
+(https://www.sciencedirect.com/science/article/pii/S0167739X19301918)
+Abstract: Social services intend to aid disadvantaged, distressed, or vulnerable persons or groups. Machine Learning (ML) and Deep Learning (DL), which are important technologies to leverage Internet of Things and Big Data, have not been considered to support intelligent social services in Smart Cities. Using technology to achieve more responsive, efficient, and proactive social services is a must in Smart Cities because it will lead to a more fair and egalitarian society. This research work contributes with the evaluation of a thousand Neural Networks architectures for the automatic diagnosis of chronic social exclusion. Some of them outperform previous models in quality metrics such as accuracy and F-score. Beyond the improvement in predicting this specific social condition, to the best of the authors’ knowledge, this paper open the research line of applying these methods for the general social services diagnosis in Smart Cities. Finally, the advantages of using the DL paradigm over other ML alternatives in this scope are discussed.
+Keywords: Social exclusion; Social services; Deep learning; Data analysis; Machine learning; Data mining
+
+Mandeep Kaur Saggi, Sushma Jain,
+A survey towards an integration of big data analytics to big insights for value-creation,
+Information Processing & Management,
+Volume 54, Issue 5,
+2018,
+Pages 758-790,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2018.01.010.
+(https://www.sciencedirect.com/science/article/pii/S0306457316307178)
+Abstract: Big Data Analytics (BDA) is increasingly becoming a trending practice that generates an enormous amount of data and provides a new opportunity that is helpful in relevant decision-making. The developments in Big Data Analytics provide a new paradigm and solutions for big data sources, storage, and advanced analytics. The BDA provide a nuanced view of big data development, and insights on how it can truly create value for firm and customer. This article presents a comprehensive, well-informed examination, and realistic analysis of deploying big data analytics successfully in companies. It provides an overview of the architecture of BDA including six components, namely: (i) data generation, (ii) data acquisition, (iii) data storage, (iv) advanced data analytics, (v) data visualization, and (vi) decision-making for value-creation. In this paper, seven V's characteristics of BDA namely Volume, Velocity, Variety, Valence, Veracity, Variability, and Value are explored. The various big data analytics tools, techniques and technologies have been described. Furthermore, it presents a methodical analysis for the usage of Big Data Analytics in various applications such as agriculture, healthcare, cyber security, and smart city. This paper also highlights the previous research, challenges, current status, and future directions of big data analytics for various application platforms. This overview highlights three issues, namely (i) concepts, characteristics and processing paradigms of Big Data Analytics; (ii) the state-of-the-art framework for decision-making in BDA for companies to insight value-creation; and (iii) the current challenges of Big Data Analytics as well as possible future directions.
+Keywords: Big data; Data analytics; Machine learning; Big data visualization; Decision-making; Smart agriculture; Smart city application; Value-creation; Value-discover; Value-realization
+
+Monchai Bunyakitanon, Aloizio Pereira da Silva, Xenofon Vasilakos, Reza Nejabati, Dimitra Simeonidou,
+Auto-3P: An autonomous VNF performance prediction & placement framework based on machine learning,
+Computer Networks,
+Volume 181,
+2020,
+107433,
+ISSN 1389-1286,
+https://doi.org/10.1016/j.comnet.2020.107433.
+(https://www.sciencedirect.com/science/article/pii/S1389128620311221)
+Abstract: We propose Auto-3P, an Autonomous module for Virtual Network Functions Performance Prediction and Placement at network cloud and edge facilities based on Machine Learning (ML). Auto-3P augments the autonomous placement capabilities of MANagement and Orchestration frameworks (MANOs) by considering both resource availability at hosting nodes and the implied impact of a VNF node placement decisions on the whole service level end-to-end performance. Unlike that, most existing placement methods take a rather myopic approach after manual rule-based decisions, and/or based exclusively on a host-centric view that focuses merely on node-local resource availability and network metrics. We evaluate and validate Auto-3P with real-field trials in the context of a well-defined Smart City Safety use case using a real end-to-end application over a real city-based testbed. We meticulously conduct repeated tests to assess (i) the accuracy of our adopted prediction models; and (ii) their placement performance against three other existing MANO approaches, namely, a “Traditional”, a “Latency-aware” and a “Random” one, as well as against a collection of well-known Time Series Forecasting (TSF) methods. Our results show that the accuracy of our ML models outperforms the one by TSF models, with the most prominent accuracy performances being exhibited by models such as K-Nearest Neighbors Regression (K-NNR), Decision Tree (DT), and Support Vector Regression (SVR). What is more, the resulted end-to-end service level performance of our approach outperforms “Traditional”, “Latency-aware”, and Random MANO placement. Last, Auto-3P achieves load balancing at selected VNF hosts without degrading end-to-end service level delay, and without a need for a (fixed) overload threshold check, unlike what is suggested by other works in the literature for coping with heavy system-wide load conditions.
+Keywords: Machine learning; Network function virtualization; End-to-End communication; Zero-Touch management; Cloud and edge computing
+
+Ejaz Ahmed, Ibrar Yaqoob, Ibrahim Abaker Targio Hashem, Imran Khan, Abdelmuttlib Ibrahim Abdalla Ahmed, Muhammad Imran, Athanasios V. Vasilakos,
+The role of big data analytics in Internet of Things,
+Computer Networks,
+Volume 129, Part 2,
+2017,
+Pages 459-471,
+ISSN 1389-1286,
+https://doi.org/10.1016/j.comnet.2017.06.013.
+(https://www.sciencedirect.com/science/article/pii/S1389128617302591)
+Abstract: The explosive growth in the number of devices connected to the Internet of Things (IoT) and the exponential increase in data consumption only reflect how the growth of big data perfectly overlaps with that of IoT. The management of big data in a continuously expanding network gives rise to non-trivial concerns regarding data collection efficiency, data processing, analytics, and security. To address these concerns, researchers have examined the challenges associated with the successful deployment of IoT. Despite the large number of studies on big data, analytics, and IoT, the convergence of these areas creates several opportunities for flourishing big data and analytics for IoT systems. In this paper, we explore the recent advances in big data analytics for IoT systems as well as the key requirements for managing big data and for enabling analytics in an IoT environment. We taxonomized the literature based on important parameters. We identify the opportunities resulting from the convergence of big data, analytics, and IoT as well as discuss the role of big data analytics in IoT applications. Finally, several open challenges are presented as future research directions.
+Keywords: Internet of Things; Big data; Analytics; Distributed computing; Smart city
+
+Ahmed M. Shahat Osman,
+A novel big data analytics framework for smart cities,
+Future Generation Computer Systems,
+Volume 91,
+2019,
+Pages 620-633,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2018.06.046.
+(https://www.sciencedirect.com/science/article/pii/S0167739X17307446)
+Abstract: The emergence of smart cities aims at mitigating the challenges raised due to the continuous urbanization development and increasing population density in cities. To face these challenges, governments and decision makers undertake smart city projects targeting sustainable economic growth and better quality of life for both inhabitants and visitors. Information and Communication Technology (ICT) is a key enabling technology for city smartening. However, ICT artifacts and applications yield massive volumes of data known as big data. Extracting insights and hidden correlations from big data is a growing trend in information systems to provide better services to citizens and support the decision making processes. However, to extract valuable insights for developing city level smart information services, the generated datasets from various city domains need to be integrated and analyzed. This process usually referred to as big data analytics or big data value chain. Surveying the literature reveals an increasing interest in harnessing big data analytics applications in general and in the area of smart cities in particular. Yet, comprehensive discussions on the essential characteristics of big data analytics frameworks fitting smart cities requirements are still needed. This paper presents a novel big data analytics framework for smart cities called “Smart City Data Analytics Panel — SCDAP”. The design of SCDAP is based on answering the following research questions: what are the characteristics of big data analytics frameworks applied in smart cities in literature and what are the essential design principles that should guide the design of big data analytics frameworks have to serve smart cities purposes? In answering these questions, we adopted a systematic literature review on big data analytics frameworks in smart cities. The proposed framework introduces new functionalities to big data analytics frameworks represented in data model management and aggregation. The value of the proposed framework is discussed in comparison to traditional knowledge discovery approaches.
+Keywords: Analytics framework; Apache Hadoop; Apache spark; Big data; Smart cities
+
+Aparna Kumari, Sudeep Tanwar,
+Secure data analytics for smart grid systems in a sustainable smart city: Challenges, solutions, and future directions,
+Sustainable Computing: Informatics and Systems,
+Volume 28,
+2020,
+100427,
+ISSN 2210-5379,
+https://doi.org/10.1016/j.suscom.2020.100427.
+(https://www.sciencedirect.com/science/article/pii/S2210537920301542)
+Abstract: A smart city requires an intelligent infrastructure to improve the quality of life with sustainable environment for its citizens. There is an exponential demand for efficient, secure, reliable, and uninterrupted electricity supply, so there is a need for an intelligent grid, which uses Information and Communications Technology (ICT) to optimize the generation, circulation, and ingestion of electricity. Thus, Smart Grid (SG) acts as an intelligent grid, which plays an important role in the overall growth of any smart city. Further, the Big Data (BD) generated from SG, provides noteworthy information that could significantly benefit different applications of SG, such as demand response and load profiling. However, an insecure technique for decision-making may lead to the breach of SG data where hackers gained full access to consumer data. On the contrary, a secure technique for decision-making can provide satisfaction to all the stakeholders, including consumers and utility providers. Motivated from these facts, this paper presents a comprehensive literature survey and analysis of state-of-the-art proposals for Secure Data Analytics (SDA) in the SG system. However, to achieve SDA for the SG systems is one of the critical tasks. The existing research and development endeavors not fully exploited the SDA in the SG system. In this paper, we discuss the distinctive nature of SDA and its complexity over the SG data. A detailed taxonomy abstracted into a novel process model, which highlights various research challenges such as secure data collection and preprocessing, secure load data processing and storage, load prediction, load management and analysis, data security and privacy issues, and data communication. Finally, a case study is presented to demonstrate the process model.
+Keywords: Big data; Secure data analytics; Sustainable smart city; Load forecasting; Smart meter; Data security and privacy; Machine learning
+
+Praveen Vijai, P. Bagavathi Sivakumar,
+Design of IoT Systems and Analytics in the Context of Smart City Initiatives in India,
+Procedia Computer Science,
+Volume 92,
+2016,
+Pages 583-588,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2016.07.386.
+(https://www.sciencedirect.com/science/article/pii/S1877050916316428)
+Abstract: The rapid growth of population and industrialization has paved way for the use of technologies like the Internet of Things which gave rise to the concept of smart cities. India as a developing country has a great prospect in developing technologies to make the cities smart. As urbanization occurs the demand for resources and efficient servicing will increase. To achieve this in a smart and efficient way, connected device (IoT) could be used. The possible design of an IoT system based on surveys performed on similar smart solutions implemented has been discussed in this paper. Urbanization and population growth has led to higher demand for resources like water which are of scarce. There is a keen interest from the organizations and government to make proper usage of water. The same can be achieved by proper monitoring and management of water distribution systems. The paper discusses the use of Machine learning techniques to smart city management aspects like smart water management which include water demand forecasting, water quality monitoring and anomaly detection.
+Keywords: Smart City; Internet of Things; Machine Learning; Smart Water Management; Forecasting; Anomaly Detection.
+
+Lorenzo Valerio, Marco Conti, Andrea Passarella,
+Energy efficient distributed analytics at the edge of the network for IoT environments,
+Pervasive and Mobile Computing,
+Volume 51,
+2018,
+Pages 27-42,
+ISSN 1574-1192,
+https://doi.org/10.1016/j.pmcj.2018.09.004.
+(https://www.sciencedirect.com/science/article/pii/S1574119218300932)
+Abstract: Due to the pervasive diffusion of personal mobile and IoT devices, many “smart environments” (e.g., smart cities and smart factories) will be, generators of huge amounts of data. Currently, analysis of this data is typically achieved through centralised cloud-based services. However, according to many studies, this approach may present significant issues from the standpoint of data ownership, as well as wireless network capacity. In this paper, we exploit the fog computing paradigm to move computation close to where data is produced. We exploit a well-known distributed machine learning framework (Hypothesis Transfer Learning), and perform data analytics on mobile nodes passing by IoT devices, in addition to fog gateways at the edge of the network infrastructure. We analyse the performance of different configurations of the distributed learning framework, in terms of (i) accuracy obtained in the learning task and (ii) energy spent to send data between the involved nodes. Specifically, we consider reference wireless technologies for communication between the different types of nodes we consider, e.g. LTE, Nb-IoT, 802.15.4, 802.11, etc. Our results show that collecting data through the mobile nodes and executing the distributed analytics using short-range communication technologies, such as 802.15.4 and 802.11, allows to strongly reduce the energy consumption of the system up to 94% with a loss in accuracy w.r.t. a centralised cloud solution up to 2%.
+Keywords: Iot; Big data; Smart cities; Distributed learning; Communications efficiency
+
+Bhagya Nathali Silva, Murad Khan, Kijun Han,
+Integration of Big Data analytics embedded smart city architecture with RESTful web of things for efficient service provision and energy management,
+Future Generation Computer Systems,
+Volume 107,
+2020,
+Pages 975-987,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2017.06.024.
+(https://www.sciencedirect.com/science/article/pii/S0167739X17305174)
+Abstract: Emergence of smart things has revolutionized the conventional internet into a connected network of things, maturing the concept of Internet of Things (IoT). With the evolution of IoT, many attempts were made to realize the notion of smart cities. However, demands for processing enormous amount of data and platform incompatibilities of connected smart things hindered the actual implementation of smart cities. Keeping it in view, we proposed a Big Data analytics embedded smart city architecture, which is further integrated with the web via a smart gateway. Integration with the web provides a universal communication platform to overcome the platform incompatibilities of smart things. We introduced Big Data analytics to enhance data processing speed. Further, we evaluated authentic datasets to determine the threshold values for intelligent decision-making and to present the performance improvement gained in data processing. Finally, we presented a representational state transfer (RESTful) web of things (WoT) integrated smart building architecture (smart home) to reveal the performance improvements of the proposed smart city architecture in terms of network performance and energy management of smart buildings.
+Keywords: Smart city; Big Data analytics; Smart home; Web of things; RESTful architecture
+
+Billy Pik Lik Lau, Sumudu Hasala Marakkalage, Yuren Zhou, Naveed Ul Hassan, Chau Yuen, Meng Zhang, U-Xuan Tan,
+A survey of data fusion in smart city applications,
+Information Fusion,
+Volume 52,
+2019,
+Pages 357-374,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2019.05.004.
+(https://www.sciencedirect.com/science/article/pii/S1566253519300326)
+Abstract: The advancement of various research sectors such as Internet of Things (IoT), Machine Learning, Data Mining, Big Data, and Communication Technology has shed some light in transforming an urban city integrating the aforementioned techniques to a commonly known term - Smart City. With the emergence of smart city, plethora of data sources have been made available for wide variety of applications. The common technique for handling multiple data sources is data fusion, where it improves data output quality or extracts knowledge from the raw data. In order to cater evergrowing highly complicated applications, studies in smart city have to utilize data from various sources and evaluate their performance based on multiple aspects. To this end, we introduce a multi-perspectives classification of the data fusion to evaluate the smart city applications. Moreover, we applied the proposed multi-perspectives classification to evaluate selected applications in each domain of the smart city. We conclude the paper by discussing potential future direction and challenges of data fusion integration.
+Keywords: Data fusion; Sensor fusion; Smart city; Big data; Internet of things; Multi-perspectives classification
+
+M. Mazhar Rathore, Awais Ahmad, Anand Paul, Seungmin Rho,
+Urban planning and building smart cities based on the Internet of Things using Big Data analytics,
+Computer Networks,
+Volume 101,
+2016,
+Pages 63-80,
+ISSN 1389-1286,
+https://doi.org/10.1016/j.comnet.2015.12.023.
+(https://www.sciencedirect.com/science/article/pii/S1389128616000086)
+Abstract: The rapid growth in the population density in urban cities demands that services and an infrastructure be provided to meet the needs of city inhabitants. Thus, there has been an increase in the request for embedded devices, such as sensors, actuators, and smartphones, leading to considerable business potential for the new era of the Internet of Things (IoT), in which all devices are capable of interconnecting and communicating with each other over the Internet. Thus, Internet technologies provide a way of integrating and sharing a common communication medium. With this knowledge, in this paper, we propose a combined IoT-based system for smart city development and urban planning using Big Data analytics. We propose a complete system consisting of various types of sensor deployment, including smart home sensors, vehicular networking, weather and water sensors, smart parking sensors, and surveillance objects. A four-tier architecture is proposed that includes 1) Bottom tier-1, which is responsible for IoT sources and data generation and collection, 2) Intermediate tier-1, which is responsible for all types of communication between, for instance, sensors, relays, base stations, and the Internet, 3) Intermediate tier 2, which is responsible for data management and processing using a Hadoop framework, and 4) Top tier, which is responsible for application and usage of the data analysis and the results generated. The system implementation consists of various steps that begin with data generation and move to collection, aggregation, filtration, classification, preprocessing, computing and decision making. The proposed system is implemented using Hadoop with Spark, voltDB, Storm or S4 for real time processing of the IoT data to generate results to establish the smart city. For urban planning or city future development, the offline historical data are analyzed with Hadoop using MapReduce programming. IoT datasets generated by smart homes, smart parking weather, pollution, and vehicle data sets are used for analysis and evaluation. This type of system with full functionality does not currently exist. Similarly, the results demonstrate that the proposed system is more scalable and efficient than existing systems. Moreover, system efficiency is measured in terms of throughput and processing time.
+Keywords: Big Data; Smart City; Urban Planning; IoT
+
+Moayad Aloqaily, Safa Otoum, Ismaeel Al Ridhawi, Yaser Jararweh,
+An intrusion detection system for connected vehicles in smart cities,
+Ad Hoc Networks,
+Volume 90,
+2019,
+101842,
+ISSN 1570-8705,
+https://doi.org/10.1016/j.adhoc.2019.02.001.
+(https://www.sciencedirect.com/science/article/pii/S1570870519301131)
+Abstract: In the very near future, transportation will go through a transitional period that will shape the industry beyond recognition. Smart vehicles have played a significant role in the advancement of intelligent and connected transportation systems. Continuous vehicular cloud service availability in smart cities is becoming a crucial subscriber necessity which requires improvement in the vehicular service management architecture. Moreover, as smart cities continue to deploy diversified technologies to achieve assorted and high-performance cloud services, security issues with regards to communicating entities which share personal requester information still prevails. To mitigate these concerns, we introduce an automated secure continuous cloud service availability framework for smart connected vehicles that enables an intrusion detection mechanism against security attacks and provides services that meet users’ quality of service (QoS) and quality of experience (QoE) requirements. Continuous service availability is achieved by clustering smart vehicles into service-specific clusters. Cluster heads are selected for communication purposes with trusted third-party entities (TTPs) acting as mediators between service requesters and providers. The most optimal services are then delivered from the selected service providers to the requesters. Furthermore, intrusion detection is accomplished through a three-phase data traffic analysis, reduction, and classification technique used to identify positive trusted service requests against false requests that may occur during intrusion attacks. The solution adopts deep belief and decision tree machine learning mechanisms used for data reduction and classification purposes, respectively. The framework is validated through simulations to demonstrate the effectiveness of the solution in terms of intrusion attack detection. The proposed solution achieved an overall accuracy of 99.43% with 99.92% detection rate and 0.96% false positive and false negative rate of 1.53%.
+Keywords: Smart city; Connected vehicles; Intrusion detection; Vehicular cloud computing; Smart transportation; Service-specific clusters; QoS; QoE
+
+Sandeep Saharan, Neeraj Kumar, Seema Bawa,
+An efficient smart parking pricing system for smart city environment: A machine-learning based approach,
+Future Generation Computer Systems,
+Volume 106,
+2020,
+Pages 622-640,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2020.01.031.
+(https://www.sciencedirect.com/science/article/pii/S0167739X19322496)
+Abstract: Now-a-days, with the ever increasing number of vehicles, getting parking space at right place and on time has become an inevitable necessity for all across the globe. In this context, finding an unoccupied parking slot by the interested vehicle owners with least overhead becomes an NP-Hard problem bounded by various constraints. In-advance availability of information regarding parking occupancy plays a major role in hassle free trip optimization for motorists. It also facilitates services-cum-profit management for the parking owners. It further helps in curbing congestion by reducing cruising time and hence, helps in controlling pollution of the smart cities. Thus, accurate and timely information regarding parking occupancy and availability has become the basic need in the evolution of the smart cities. Motivated by these facts, an occupancy-driven machine learning based on-street parking pricing scheme is proposed in this paper. The proposed scheme uses machine learning based approaches to predict occupancy of parking lots, which in turn is used to deduce occupancy driven prices for arriving vehicles. In order to train, test, and compare different machine learning models, on-street parking data of Seattle city has been used. To the best of our knowledge, this is the first time that parking occupancy prediction system is used to generate occupancy based parking prices for on-street parking system of the Seattle city. Results obtained using the proposed occupancy driven machine learning based on-street parking pricing scheme demonstrate its effectiveness over other existing state-of-the-art schemes.
+Keywords: Parking occupancy prediction; Dynamic parking pricing; Occupancy driven parking pricing; Time based pricing; Area based pricing; Machine learning
+
+Asharul Islam Khan, Yaseen Al-Mulla,
+Unmanned Aerial Vehicle in the Machine Learning Environment,
+Procedia Computer Science,
+Volume 160,
+2019,
+Pages 46-53,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2019.09.442.
+(https://www.sciencedirect.com/science/article/pii/S1877050919316576)
+Abstract: Unmanned Aerial Vehicles and machine learning have started gaining attentions of academic and industrial research. The Unmanned Aerial Vehicles have extended the freedom to operate and monitor the activities from remote locations. This study retrieved and synthesized research on the use of Unmanned Aerial Vehicles along with machine learning and its algorithms in different areas and regions. The objective was to synthesize the scope and importance of machine learning models in enhancing Unmanned Aerial Vehicles capabilities, solutions to problems, and numerous application areas. The machine learning implementation has reduced numbers of challenges to Unmanned Aerial Vehicles besides enhancing the capabilities and opening the door to the different sectors. The Unmanned Aerial Vehicles and machine learning association has resulted in fast and reliable outputs. The combination of Unmanned Aerial Vehicles and machine learning has helped in real time monitoring, data collection and processing, and prediction in the computer/wireless networks, smart cities, military, agriculture, and mining.
+Keywords: unmanned aerial vehicle; drone; machine learning; deep learning; object detection; pattern recognition; neural network
+
+Judy C. Guevara, Ricardo da S. Torres, Nelson L.S. da Fonseca,
+On the classification of fog computing applications: A machine learning perspective,
+Journal of Network and Computer Applications,
+Volume 159,
+2020,
+102596,
+ISSN 1084-8045,
+https://doi.org/10.1016/j.jnca.2020.102596.
+(https://www.sciencedirect.com/science/article/pii/S1084804520300709)
+Abstract: Currently, Internet applications running on mobile devices generate a massive amount of data that can be transmitted to a Cloud for processing. However, one fundamental limitation of a Cloud is the connectivity with end devices. Fog computing overcomes this limitation and supports the requirements of time-sensitive applications by distributing computation, communication, and storage services along the Cloud to Things (C2T) continuum, empowering potential new applications, such as smart cities, augmented reality (AR), and virtual reality (VR). However, the adoption of Fog-based computational resources and their integration with the Cloud introduces new challenges in resource management, which requires the implementation of new strategies to guarantee compliance with the quality of service (QoS) requirements of applications. In this context, one major question is how to map the QoS requirements of applications on Fog and Cloud resources. One possible approach is to discriminate the applications arriving at the Fog into Classes of Service (CoS). This paper thus introduces a set of CoS for Fog applications which includes, the QoS requirements that best characterize these Fog applications. Moreover, this paper proposes the implementation of a typical machine learning classification methodology to discriminate Fog computing applications as a function of their QoS requirements. Furthermore, the application of this methodology is illustrated in the assessment of classifiers in terms of efficiency, accuracy, and robustness to noise. The adoption of a methodology for machine learning-based classification constitutes a first step towards the definition of QoS provisioning mechanisms in Fog computing. Moreover, classifying Fog computing applications can facilitate the decision-making process for Fog scheduler.
+Keywords: Fog computing; Edge computing; Cloud computing; Internet of things; Scheduling; Classes of service; Quality of service; Machine learning; Feature selection; Attribute noise; Classification algorithms
+
+Zeina Rayan, Marco Alfonse, Abdel-Badeeh M. Salem,
+Machine Learning Approaches in Smart Health,
+Procedia Computer Science,
+Volume 154,
+2019,
+Pages 361-368,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2019.06.052.
+(https://www.sciencedirect.com/science/article/pii/S187705091930821X)
+Abstract: The increase of age average led to an increase in the demand of providing and improving the service of healthcare. The advancing of the information and communication technology (ICT) led to the development of smart cities which have a lot of components. One of those components is Smart Health (s-Health), which is used in improving healthcare by providing many services such as patient monitoring, early diagnosis of diseases and so on. Nowadays there are many machine learning techniques that can facilitates s-Health services. This paper reviews recent published papers in the area of smart health starting from the years 2011 to 2017, and a structured analysis for different machine learning (ML) approaches that are applied in s-Health. The results show that the ML approach is used in many s-Health applications such as Glaucoma diagnosis, Alzheimer’s disease, bacterial sepsis diagnoses, the Intensive Care Unit (ICU) readmissions, and cataract detection. The Artificial Neural Network (ANN), Support Vector Machine (SVM) algorithm and deep learning models especially the Convolutional Neural Network (CNN) are the most commonly used machine learning approaches where they proved to get high evaluation performance in most cases.
+Keywords: Smart Health; Electronic Health; Medical Informatics; Machine Learning
+
+Jingrui Ju, Luning Liu, Yuqiang Feng,
+Citizen-centered big data analysis-driven governance intelligence framework for smart cities,
+Telecommunications Policy,
+Volume 42, Issue 10,
+2018,
+Pages 881-896,
+ISSN 0308-5961,
+https://doi.org/10.1016/j.telpol.2018.01.003.
+(https://www.sciencedirect.com/science/article/pii/S0308596117301556)
+Abstract: Sensors and systems within rapidly expanding smart cities produce citizen-centered big data which have potential value to support citizen-centered urban governance decision-making. There exists a wealth of extant conceptual studies, however, further operational studies are needed to establish a specific path towards implementation of such data to governance decision-making with analytical algorithms that are appropriate for each step of the path. This paper proposes a framework for the use of citizen-centered big data analysis to drive governance intelligence in smart cities from two perspectives: urban governance issues and data-analysis algorithms. The framework consists of three layers: 1) A data-merging layer, which builds a citizen-centered panoramic data set for each citizen by merging citizen-related big data from multiple sources in collaborative urban governance via similarity calculation and conflict resolution; 2) a knowledge-discovery layer, which plots the citizen profile and citizen persona at both individual and group levels in terms of urban public service delivery and citizen participation via simple statistical analysis techniques, machine learning, and econometrics methods; and 3) a decision-making layer, which uses ontology models to standardize urban governance-related attributes, personas, and associations to support governance decision-making via data mining and Bayesian Net techniques. Finally, the proposed framework is validated in a case study on blood donation governance in China. This research highlights the value of citizen-centered big data, pushes data-to-decision research from conceptual to operational, synthesizes previously published frameworks for citizen-centered big data analysis in smart cities, and enhances the mutual supplement cross multiple disciplinaries.
+Keywords: Citizen-centered big data; Governance intelligence; Smart cities; Data-analysis algorithm; Data merging; Citizen profile; Citizen persona; Ontology model
+
+Muhammad Sajjad, Mansoor Nasir, Khan Muhammad, Siraj Khan, Zahoor Jan, Arun Kumar Sangaiah, Mohamed Elhoseny, Sung Wook Baik,
+Raspberry Pi assisted face recognition framework for enhanced law-enforcement services in smart cities,
+Future Generation Computer Systems,
+Volume 108,
+2020,
+Pages 995-1007,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2017.11.013.
+(https://www.sciencedirect.com/science/article/pii/S0167739X17309512)
+Abstract: Similar to a fingerprint search system, face recognition technology can assist law enforcement agencies in identifying suspects or finding missing persons. Face recognition technology lets the police detect a suspect’s face and compare it with image databases of known criminals and provides investigators with a match list of the most similar faces. Face recognition is a highly efficient and accurate tool in investigation processes. However, in some sensitive scenarios covert methods are required for the detection of suspects or missing persons without risking the lives of police. With the availability of the nano devices such as Raspberry Pi, law enforcement agencies such as police can be equipped with a concealed and secure face recognition system. In this paper, a Raspberry Pi and cloud assisted face recognition framework is proposed. A small-sized portable wireless camera is mounted on a police officer’s uniform to capture a video stream, which is passed to Raspberry Pi for face detection and recognition. The proposed method uses Bag of Words for extraction of oriented FAST and rotated BRIEF points from the detected face, followed by support vector machine for identification of suspects. Raspberry Pi has limited resources such as storage space, memory, and processing power, and therefore the proposed classifier is stored and trained on the cloud. The proposed method is implemented on Raspberry Pi 3 model B in Python 2.7 and is tested on various standard datasets. Experimental results validate the efficiency of the proposed method in accurate detection of faces compared to state-of-the-art face detection and recognition methods, and verify its effectiveness for enhancing law-enforcement services in smart cities.
+Keywords: IoT and smart cities; Face recognition; Video processing; Image prioritization; Machine learning; Multimedia
+
+Xiangtian Nie, Tianyu Fan, Bo Wang, Zhiyong Li, Achyut Shankar, Adhiyaman Manickam,
+Big Data analytics and IoT in Operation safety management in Under Water Management,
+Computer Communications,
+Volume 154,
+2020,
+Pages 188-196,
+ISSN 0140-3664,
+https://doi.org/10.1016/j.comcom.2020.02.052.
+(https://www.sciencedirect.com/science/article/pii/S0140366419320560)
+Abstract: The smart city is described as the place where citizens live well-organized urban lives, ensure their sustainability, and cause the least damage to the environment through information and communication technology (ICTs). Big data and the internet of things sensors and applications collect data that allows effective technology solutions. In water management, smart water meters reporting water quality and use, alerting leaks to the water company, or potential contamination. In this paper, the Supervisory controller and data acquirement (SCADA) Approach for sustainable water management in the smart city based on IoT and Big Data Analytics. Big data analysis is a new technical term for the collection from deployed IoT sensors of huge amounts of relevant data to track the physical state, use and quality of the device. The Internet of Things (IoT) software can be extended to the entire water supply system and to device product use to carry out this principle of big data analysis. The experimental results demonstrate that the implementation aims to proactively control the usage of water by both companies and customers and to achieve higher levels of sustainable water supply.
+Keywords: Big Data Analytics; Internet of Things; Water management; Sensors; WSN
+
+R. Baghezza, K. Bouchard, A. Bouzouane, C. Gouin-Vallerand,
+Activity Recognition in the City using Embedded Systems and Anonymous Sensors,
+Procedia Computer Science,
+Volume 170,
+2020,
+Pages 67-74,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2020.03.140.
+(https://www.sciencedirect.com/science/article/pii/S1877050920305962)
+Abstract: This paper presents an embedded system that performs activity recognition in the city. Arduino Due boards with infrared, distance and sound sensors are used to collect data in the city and the activity, profile, and group size recognition performance of different machine learning algorithms (RF, SVM, MLP) are compared. The features were extracted based on fixed-size windows around the observations. We show that it is possible to achieve a high accuracy for binary activity recognition with simple features, and we discuss the optimization of different parameters such as the sensors collection frequency, and the storage buffer size. We highlight the challenges of activity recognition using anonymous sensors in the environment, its possible applications and advantages compared to classical smartphone and wearable based approaches, as well as the improvements that will be made in future versions of this system. This work is a first step towards real-time online activity recognition in smart cities, with the long-term goal of monitoring and offering extended assistance for semi-autonomous people.
+Keywords: Activity Recognition; Smart City; Machine Learning; Anonymous Data; Healthcare; Embedded Systems

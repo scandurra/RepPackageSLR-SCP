@@ -1,0 +1,95 @@
+47 Results for: [Full Text: "smart city"] AND [[Full Text: platform] OR [Full Text: software] OR [Full Text: system] OR [Full Text: framework]] AND [[Full Text: adaptation] OR [Full Text: adaptive] OR [Full Text: "self-adaptation"] OR [Full Text: "self-adaptive"] OR [Full Text: "mape-k"]] AND [E-Publication Date: (01/01/2010 TO 01/31/2020)]
+
+Catia Prandi, Silvia Mirri, Stefano Ferretti, and Paola Salomoni. 2017. On the Need of Trustworthy Sensing and Crowdsourcing for Urban Accessibility in Smart City. ACM Trans. Internet Technol. 18, 1, Article 4 (February 2018), 21 pages. https://doi.org/10.1145/3133327
+
+Dheeraj Kumar, James C. Bezdek, Sutharshan Rajasegarar, Marimuthu Palaniswami, Christopher Leckie, Jeffrey Chan, and Jayavardhana Gubbi. 2016. Adaptive Cluster Tendency Visualization and Anomaly Detection for Streaming Data. ACM Trans. Knowl. Discov. Data 11, 2, Article 24 (May 2017), 40 pages. https://doi.org/10.1145/2997656
+
+Holger Schnädelbach, Nils Jäger, and Lachlan Urquhart. 2019. Adaptive Architecture and Personal Data. ACM Trans. Comput.-Hum. Interact. 26, 2, Article 12 (April 2019), 31 pages. https://doi.org/10.1145/3301426
+
+Iman Azimi, Arman Anzanpour, Amir M. Rahmani, Tapio Pahikkala, Marco Levorato, Pasi Liljeberg, and Nikil Dutt. 2017. HiCH: Hierarchical Fog-Assisted Computing Architecture for Healthcare IoT. ACM Trans. Embed. Comput. Syst. 16, 5s, Article 174 (October 2017), 20 pages. https://doi.org/10.1145/3126501
+
+Michael Vögler, Johannes M. Schleicher, Christian Inzinger, and Schahram Dustdar. 2016. A Scalable Framework for Provisioning Large-Scale IoT Deployments. ACM Trans. Internet Technol. 16, 2, Article 11 (April 2016), 20 pages. https://doi.org/10.1145/2850416
+
+Meiyi Ma, Sarah M. Preum, Mohsin Y. Ahmed, William Tärneberg, Abdeltawab Hendawi, and John A. Stankovic. 2019. Data Sets, Modeling, and Decision Making in Smart Cities: A Survey. ACM Trans. Cyber-Phys. Syst. 4, 2, Article 14 (April 2020), 28 pages. https://doi.org/10.1145/3355283
+
+Evangelos Pournaras, Peter Pilgerstorfer, and Thomas Asikis. 2018. Decentralized Collective Learning for Self-managed Sharing Economies. ACM Trans. Auton. Adapt. Syst. 13, 2, Article 10 (June 2018), 33 pages. https://doi.org/10.1145/3277668
+
+Amel Bennaceur, Thein Than Tun, Arosha K. Bandara, Yijun Yu, and Bashar Nuseibeh. 2018. Feature-Driven Mediator Synthesis: Supporting Collaborative Security in the Internet of Things. ACM Trans. Cyber-Phys. Syst. 2, 3, Article 21 (July 2018), 25 pages. https://doi.org/10.1145/3134843
+
+Simone Silvestri, Rahul Urgaonkar, Murtaza Zafer, and Bong Jun Ko. 2018. A Framework for the Inference of Sensing Measurements Based on Correlation. ACM Trans. Sen. Netw. 15, 1, Article 4 (February 2019), 28 pages. https://doi.org/10.1145/3272035
+
+Daniel Gooch, Matthew Barker, Lorraine Hudson, Ryan Kelly, Gerd Kortuem, Janet Van Der Linden, Marian Petre, Rebecca Brown, Anna Klis-Davies, Hannah Forbes, Jessica Mackinnon, Robbie Macpherson, and Clare Walton. 2018. Amplifying Quiet Voices: Challenges and Opportunities for Participatory Design at an Urban Scale. ACM Trans. Comput.-Hum. Interact. 25, 1, Article 2 (February 2018), 34 pages. https://doi.org/10.1145/3139398
+
+Shachar Siboni, Asaf Shabtai, Nils O. Tippenhauer, Jemin Lee, and Yuval Elovici. 2016. Advanced Security Testbed Framework for Wearable IoT Devices. ACM Trans. Internet Technol. 16, 4, Article 26 (December 2016), 25 pages. https://doi.org/10.1145/2981546
+
+Nicolas Ferry, Franck Chauvel, Hui Song, Alessandro Rossini, Maksym Lushpenko, and Arnor Solberg. 2018. CloudMF: Model-Driven Management of Multi-Cloud Applications. ACM Trans. Internet Technol. 18, 2, Article 16 (May 2018), 24 pages. https://doi.org/10.1145/3125621
+
+Timofei Istomin, Oana Iova, Gian Pietro Picco, and Csaba Kiraly. 2019. Route or Flood? Reliable and Efficient Support for Downward Traffic in RPL. ACM Trans. Sen. Netw. 16, 1, Article 1 (February 2020), 41 pages. https://doi.org/10.1145/3355997
+
+Souleiman Hasan and Edward Curry. 2014. Approximate Semantic Matching of Events for the Internet of Things. ACM Trans. Internet Technol. 14, 1, Article 2 (July 2014), 23 pages. https://doi.org/10.1145/2633684
+
+Daniele Midi, Salmin Sultana, and Elisa Bertino. 2016. A System for Response and Prevention of Security Incidents in Wireless Sensor Networks. ACM Trans. Sen. Netw. 13, 1, Article 1 (February 2017), 38 pages. https://doi.org/10.1145/2996195
+
+Amitangshu Pal and Krishna Kant. 2019. Water Flow Driven Sensor Networks for Leakage and Contamination Monitoring in Distribution Pipelines. ACM Trans. Sen. Netw. 15, 4, Article 37 (November 2019), 43 pages. https://doi.org/10.1145/3342513
+
+Matteo Mordacchini, Andrea Passarella, Marco Conti, Stuart M. Allen, Martin J. Chorley, Gualtiero B. Colombo, Vlad Tanasescu, and Roger M. Whitaker. 2015. Crowdsourcing through Cognitive Opportunistic Networks. ACM Trans. Auton. Adapt. Syst. 10, 2, Article 13 (June 2015), 29 pages. https://doi.org/10.1145/2733379
+
+M. Mazhar Rathore, Anand Paul, Awais Ahmad, Marco Anisetti, and Gwanggil Jeon. 2017. Hadoop-Based Intelligent Care System (HICS): Analytical Approach for Big Data in IoT. ACM Trans. Internet Technol. 18, 1, Article 8 (February 2018), 24 pages. https://doi.org/10.1145/3108936
+
+Junhao Zhou, Hong-Ning Dai, and Hao Wang. 2019. Lightweight Convolution Neural Networks for Mobile Edge Computing in Transportation Cyber Physical Systems. ACM Trans. Intell. Syst. Technol. 10, 6, Article 67 (November 2019), 20 pages. https://doi.org/10.1145/3339308
+
+Ankur Sarker, Haiying Shen, and John A. Stankovic. 2018. MORP: Data-Driven Multi-Objective Route Planning and Optimization for Electric Vehicles. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 1, 4, Article 162 (December 2017), 35 pages. https://doi.org/10.1145/3161408
+
+Antonella Longo, Marco Zappatore, Mario Bochicchio, and Shamkant B. Navathe. 2017. Crowd-Sourced Data Collection for Urban Monitoring via Mobile Sensors. ACM Trans. Internet Technol. 18, 1, Article 5 (February 2018), 21 pages. https://doi.org/10.1145/3093895
+
+Abhimanyu Chopra, Hakan Aydin, Setareh Rafatirad, and Houman Homayoun. 2018. Optimal Allocation of Computation and Communication in an IoT Network. ACM Trans. Des. Autom. Electron. Syst. 23, 6, Article 78 (November 2018), 22 pages. https://doi.org/10.1145/3236623
+
+Zipei Fan, Xuan Song, Tianqi Xia, Renhe Jiang, Ryosuke Shibasaki, and Ritsu Sakuramachi. 2018. Online Deep Ensemble Learning for Predicting Citywide Human Mobility. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 3, Article 105 (September 2018), 21 pages. https://doi.org/10.1145/3264915
+
+Carlo Puliafito, Enzo Mingozzi, Francesco Longo, Antonio Puliafito, and Omer Rana. 2019. Fog Computing for the Internet of Things: A Survey. ACM Trans. Internet Technol. 19, 2, Article 18 (May 2019), 41 pages. https://doi.org/10.1145/3301443
+
+Benjamin Billet and Valérie Issarny. 2017. Spinel: An Opportunistic Proxy for Connecting Sensors to the Internet of Things. ACM Trans. Internet Technol. 17, 2, Article 21 (May 2017), 21 pages. https://doi.org/10.1145/3041025
+
+Payam Barnaghi, Maria Bermudez-Edo, and Ralf Tönjes. 2015. Challenges for Quality of Data in Smart Cities. J. Data and Information Quality 6, 2–3, Article 6 (July 2015), 4 pages. https://doi.org/10.1145/2747881
+
+Fabian R. Wirth, Sonja Stüdli, Jia Yuan Yu, Martin Corless, and Robert Shorten. 2019. Nonhomogeneous Place-dependent Markov Chains, Unsynchronised AIMD, and Optimisation. J. ACM 66, 4, Article 24 (August 2019), 37 pages. https://doi.org/10.1145/3312741
+
+Federico Concone, Giuseppe Lo Re, and Marco Morana. 2019. A Fog-Based Application for Human Activity Recognition Using Personal Smart Devices. ACM Trans. Internet Technol. 19, 2, Article 20 (May 2019), 20 pages. https://doi.org/10.1145/3266142
+
+Cristyan Manta-Caro and Juan M. Fernández-Luna. 2017. Modeling and Simulating the Web of Things from an Information Retrieval Perspective. ACM Trans. Web 12, 1, Article 6 (February 2018), 27 pages. https://doi.org/10.1145/3132732
+
+Giovanni Merlino, Rustem Dautov, Salvatore Distefano, and Dario Bruneo. 2019. Enabling Workload Engineering in Edge, Fog, and Cloud Computing through OpenStack-based Middleware. ACM Trans. Internet Technol. 19, 2, Article 28 (May 2019), 22 pages. https://doi.org/10.1145/3309705
+
+Shuochao Yao, Yiran Zhao, Huajie Shao, Aston Zhang, Chao Zhang, Shen Li, and Tarek Abdelzaher. 2018. RDeepSense: Reliable Deep Mobile Computing Models with Uncertainty Estimations. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 1, 4, Article 173 (December 2017), 26 pages. https://doi.org/10.1145/3161181
+
+Xiaoyu Ji, Xinyan Zhou, Miao Xu, Wenyuan Xu, and Yabo Dong. 2020. OPCIO: Optimizing Power Consumption for Embedded Devices via GPIO Configuration. ACM Trans. Sen. Netw. 16, 2, Article 16 (May 2020), 28 pages. https://doi.org/10.1145/3373417
+
+Antonino Rullo, Daniele Midi, Edoardo Serra, and Elisa Bertino. 2017. Pareto Optimal Security Resource Allocation for Internet of Things. ACM Trans. Priv. Secur. 20, 4, Article 15 (November 2017), 30 pages. https://doi.org/10.1145/3139293
+
+Tao Guan, Yuesong Wang, Liya Duan, and Rongrong Ji. 2015. On-Device Mobile Landmark Recognition Using Binarized Descriptor with Multifeature Fusion. ACM Trans. Intell. Syst. Technol. 7, 1, Article 12 (October 2015), 29 pages. https://doi.org/10.1145/2795234
+
+Punit Rathore, Dheeraj Kumar, Sutharshan Rajasegarar, and Marimuthu Palaniswami. 2017. Maximum Entropy-Based Auto Drift Correction Using High- and Low-Precision Sensors. ACM Trans. Sen. Netw. 13, 3, Article 24 (August 2017), 41 pages. https://doi.org/10.1145/3085579
+
+Emanuele Bellini, Paolo Ceravolo, and Paolo Nesi. 2017. Quantify Resilience Enhancement of UTS through Exploiting Connected Community and Internet of Everything Emerging Technologies. ACM Trans. Internet Technol. 18, 1, Article 7 (February 2018), 34 pages. https://doi.org/10.1145/3137572
+
+Pengfei Wang, Guannan Liu, Yanjie Fu, Yuanchun Zhou, and Jianhui Li. 2017. Spotting Trip Purposes from Taxi Trajectories: A General Probabilistic Model. ACM Trans. Intell. Syst. Technol. 9, 3, Article 29 (May 2018), 26 pages. https://doi.org/10.1145/3078849
+
+Pramod Anantharam, Payam Barnaghi, Krishnaprasad Thirunarayan, and Amit Sheth. 2015. Extracting City Traffic Events from Social Streams. ACM Trans. Intell. Syst. Technol. 6, 4, Article 43 (August 2015), 27 pages. https://doi.org/10.1145/2717317
+
+Farzad Samie, Vasileios Tsoutsouras, Lars Bauer, Sotirios Xydis, Dimitrios Soudris, and Jörg Henkel. 2018. Distributed Trade-Based Edge Device Management in Multi-Gateway IoT. ACM Trans. Cyber-Phys. Syst. 2, 3, Article 17 (July 2018), 25 pages. https://doi.org/10.1145/3134842
+
+Pablo Samuel Castro, Daqing Zhang, Chao Chen, Shijian Li, and Gang Pan. 2013. From taxi GPS traces to social and community dynamics: A survey. ACM Comput. Surv. 46, 2, Article 17 (November 2013), 34 pages. https://doi.org/10.1145/2543581.2543584
+
+Gerry Siegemund and Volker Turau. 2018. A Self-Stabilizing Publish/Subscribe Middleware for IoT Applications. ACM Trans. Cyber-Phys. Syst. 2, 2, Article 12 (April 2018), 26 pages. https://doi.org/10.1145/3185509
+
+Min Kyung Lee, Anuraag Jain, Hea Jin Cha, Shashank Ojha, and Daniel Kusbit. 2019. Procedural Justice in Algorithmic Fairness: Leveraging Transparency and Outcome Control for Fair Algorithmic Mediation. Proc. ACM Hum.-Comput. Interact. 3, CSCW, Article 182 (November 2019), 26 pages. https://doi.org/10.1145/3359284
+
+Ruilin Liu, Yu Yang, Daehan Kwak, Desheng Zhang, Liviu Iftode, and Badri Nath. 2017. Your Search Path Tells Others Where to Park: Towards Fine-Grained Parking Availability Crowdsourcing Using Parking Decision Models. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 1, 3, Article 78 (September 2017), 27 pages. https://doi.org/10.1145/3130942
+
+Jianting Guo, Peijia Zheng, and Jiwu Huang. 2017. An Efficient Motion Detection and Tracking Scheme for Encrypted Surveillance Videos. ACM Trans. Multimedia Comput. Commun. Appl. 13, 4, Article 61 (November 2017), 23 pages. https://doi.org/10.1145/3131342
+
+Amanda Meng, Carl DiSalvo, and Ellen Zegura. 2019. Collaborative Data Work Towards a Caring Democracy. Proc. ACM Hum.-Comput. Interact. 3, CSCW, Article 42 (November 2019), 23 pages. https://doi.org/10.1145/3359144
+
+Christina Harrington, Sheena Erete, and Anne Marie Piper. 2019. Deconstructing Community-Based Collaborative Design: Towards More Equitable Participatory Design Engagements. Proc. ACM Hum.-Comput. Interact. 3, CSCW, Article 216 (November 2019), 25 pages. https://doi.org/10.1145/3359318
+
+Fang-Jing Wu, Hsiu-Chi Hsu, Chien-Chung Shen, and Yu-Chee Tseng. 2016. Range-Free Mobile Actor Relocation in a Two-Tiered Wireless Sensor and Actor Network. ACM Trans. Sen. Netw. 12, 2, Article 15 (May 2016), 40 pages. https://doi.org/10.1145/2903145

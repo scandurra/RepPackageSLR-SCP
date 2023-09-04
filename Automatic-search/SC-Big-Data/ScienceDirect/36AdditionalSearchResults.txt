@@ -1,0 +1,299 @@
+Parjanay Sharma, Siddhant Jain, Shashank Gupta, Vinay Chamola,
+Role of machine learning and deep learning in securing 5G-driven industrial IoT applications,
+Ad Hoc Networks,
+Volume 123,
+2021,
+102685,
+ISSN 1570-8705,
+https://doi.org/10.1016/j.adhoc.2021.102685.
+(https://www.sciencedirect.com/science/article/pii/S1570870521001906)
+Abstract: The Internet of Things (IoT) connects millions of computing devices and has set a stage for future technology where industrial use cases like smart cities and smart houses will operate with minimal human intervention. IoT’s cross-domain amalgamations with emergent technologies like 5G and blockchain affects human life. Hence, increase in reliance over IoT necessitates focus on its privacy and security concerns. Implementing security through encryption, authentication, access control and communication security is the need of the hour. These needs can be best catered with the use of machine learning (ML) and deep learning (DL) that can help in realizing secure intelligent systems. In this work, the authors present a comprehensive review for securing Industrial-IoT (I-IoT) devices to contribute to the development of security methods for I-IoT deployed over 5G and blockchain. The survey provides a general analysis of the state-of-the-art security implementation and further assesses the product life cycle of IoT devices. The authors present numerous virtues as well as faults in the machine learning and deep learning algorithms deployed over the fog architecture in context with the security solutions. The potential security algorithms can help overcome many challenges in the IoT security and pave way for implementation with emerging technologies like 5G, blockchain, edge computing, fog computing and their use cases for creating smart environments.
+Keywords: Industrial internet of things; Security; Machine learning; Deep learning; Artificial intelligence; Block chain; Smart city
+
+Hind Bangui, Barbora Buhnova,
+Recent Advances in Machine-Learning Driven Intrusion Detection in Transportation: Survey,
+Procedia Computer Science,
+Volume 184,
+2021,
+Pages 877-886,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2021.04.014.
+(https://www.sciencedirect.com/science/article/pii/S1877050921007894)
+Abstract: Rapid developments in Intelligent Transportation Systems (ITSs) have emerged as a new research field for building sustainable smart cities. VANET (vehicular ad hoc network) is one of the emergent transportation technologies that has a great impact on ensuring mainly traffic management and road safety in urban areas by effciently using data sharing among vehicles. To further increase the security and safety of passengers and drivers, ITSs are continually striving to make the fusion of emergent network technologies to provide more reliable and effcient services. Relating VANET to UAV (unmanned aerial vehicle) is an example of this fusion, where UAVs act as an assistant to vehicles aiming to extend the network connectivity while effciently avoiding obstacles (e.g., Buildings) and providing high data delivery ratios. However, VANET and UAV are still critical security subjects that must be addressed. Advanced Machine Learning (e.g., Deep Learning) techniques have recently been used to protect VANET and UAV communications against various cyber attacks that deteriorate the integrity, confidentiality, and availability of vehicular data. Thus, in this paper, we focus on reviewing related work on machine learning techniques for intrusion detection systems in VANET- and UAV-aided networks. We also highlight the main open research challenges in literature and provide hints for improving security in ITSs.
+Keywords: Machine learning; VANET; UAV; Intrusion Detection Systems; Trust; Security
+
+Nuno Prazeres, Rogério Luís de C. Costa, Leonel Santos, Carlos Rabadão,
+Engineering the application of machine learning in an IDS based on IoT traffic flow,
+Intelligent Systems with Applications,
+Volume 17,
+2023,
+200189,
+ISSN 2667-3053,
+https://doi.org/10.1016/j.iswa.2023.200189.
+(https://www.sciencedirect.com/science/article/pii/S2667305323000145)
+Abstract: Internet of Things (IoT) devices are now widely used, enabling intelligent services that, in association with new communication technologies like the 5G and broadband internet, boost smart-city environments. Despite their limited resources, IoT devices collect and share large amounts of data and are connected to the internet, becoming an attractive target for malicious actors. This work uses machine learning combined with an Intrusion Detection System (IDS) to detect possible attacks. Due to the limitations of IoT devices and low latency services, the IDS must have a specialized architecture. Furthermore, although machine learning-based solutions have high potential, there are still challenges related to training and generalization, which may impose constraints on the architecture. Our proposal is an IDS with a distributed architecture that relies on Fog computing to run specialized modules and use deep neural networks to identify malicious traffic inside IoT data flows. We compare our IoT-Flow IDS with three other architectures. We assess model generalization using test data from different datasets and evaluate their performance in terms of Recall, Precision, and F1-Score. Results confirm the feasibility of flow-based anomaly detection and the importance of network traffic segmentation and specialized models in the AI-based IDS for IoT.
+Keywords: Intrusion detection systems; Internet of things; Machine learning; Smart city; Cybersecurity
+
+Essamlali Ismail, Bahnasse Ayoub, Khiat Azeddine, Ouajji Hassan,
+Machine learning in the service of a clean city,
+Procedia Computer Science,
+Volume 198,
+2022,
+Pages 530-535,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2021.12.281.
+(https://www.sciencedirect.com/science/article/pii/S1877050921025205)
+Abstract: Clean city, green city and sustainable city are slogans describing our hope to live in areas free of pollution. Pollution is an issue that is becoming more and more worrying to the world’s population, climate change is affecting our globe at all levels, and cities are undergoing the worst consequences. Combining the useful with the pleasant, the combat against pollution becomes intelligent and efficient in a smart city where artificial intelligence is widely used as an implement. In this paper we discuss the use of artificial intelligence, especially machine learning methods to predict and alert about pollution in urban areas. Supervised learning as well as unsupervised learning is utilized. We focus in this study on four fields: Air pollution; Water quality; urban noise and traffic and waste management.
+Keywords: Artificial intelligence; smart city; pollution; machine learning
+
+Julio Aráuz,
+Supporting Mobility Planning in Small Cities and Communities with Low-power, Machine Learning Based Sensing,
+Procedia Computer Science,
+Volume 185,
+2021,
+Pages 109-118,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2021.05.012.
+(https://www.sciencedirect.com/science/article/pii/S1877050921010929)
+Abstract: Cities and communities around the country have very limited resources to invest in projects that go beyond supporting their traditional operational needs. Unfortunately, it is not uncommon to encounter cases where these limited resources are employed in large "smart city" projects that have little or no impact on the social good of the community. On the other hand, the work in this article considers specific needs and financial limitations of suburban or rural communities in the mobility sector. This article presents the work in the design, test and performance evaluation of a low-cost, machine learning based, solution for distributed monitoring of the use of public transit in small communities. The proposed solution utilizes a low-resolution infrared array, that provides non-personally identifiable information coupled with a low-power deep learning module. We also compare the machine-based solution to a traditional algorithmic approach. We believe the solution allows small communities, with limited resources, to collect near real-time data that can be employed for evidence-based decisions of coverage and frequency in public transit. The successful collection of this kind of mobility data is vital for small communities as this is needed to support grant applications that are increasingly commonly used to improve public transit or other mobility modes.
+Keywords: IoT; Machine learning; social good; distributed sensing
+
+Fadi Muheidat, Dhaval Patel, Spandana Tammisetty, Lo’ai A. Tawalbeh, Mais Tawalbeh,
+Emerging Concepts Using Blockchain and Big Data,
+Procedia Computer Science,
+Volume 198,
+2022,
+Pages 15-22,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2021.12.206.
+(https://www.sciencedirect.com/science/article/pii/S1877050921024455)
+Abstract: Blockchain and big data are the emerging technologies that are on the highest agendas of the firms. These are significantly expected to transform the ways in which the business as well as the firm run. These are on the verge of increasing the expectation of the distributed ledgers, which would keep the firms away from struggling challenges. The concept of big data and Blockchain has been used up by various other concepts that would help secure and interpret the information. The ideal solutions offered by these technologies shall address the challenges of big data management as well as for analytics. In addition to that, Blockchain provides its own consensus method, which is the primary means to create an audit trail. This enables users to verify all transactions. The audit trail is a means of verifying the correctness and integrity of every transaction, regardless of who owns the asset. The Blockchain can also verify that different parties of a transaction are following an agreement and not breaking the agreement. Moreover, there have been continuous arguments in the concept of Blockchain at which the bitcoin is fundamental and there are several popular blockchain approaches developed which would deliver performance, security as well as privacy. Apart from this, the use of Blockchain plays a major role in adding an extra data layer for the big data analytics process. Big data is considered secure which cannot be further forged with the network architecture. The current paper shall be discussing the emerging concepts that are using Blockchain as well as big data.
+Keywords: Blockchain; Bigdata; Data analytics; Smart Cities applications; Healthcare
+
+Mariagrazia Fugini, Jacopo Finocchi, Paolo Locatelli,
+A Big Data Analytics Architecture for Smart Cities and Smart Companies,
+Big Data Research,
+Volume 24,
+2021,
+100192,
+ISSN 2214-5796,
+https://doi.org/10.1016/j.bdr.2021.100192.
+(https://www.sciencedirect.com/science/article/pii/S2214579621000095)
+Abstract: This paper presents the approach to Big Data Analytics (BDA) developed in the SIBDA (Sistema Innovativo Big Data Analytics) Project. The project aim is to study and develop innovative solutions in the field of BDA for three companies cooperating in a temporary association of enterprises. We discuss elements of Big Data tackled in the project, namely document processing, mass e-mail applications and Internet of Things sensor networks, to be integrated into a shared platform of common assets and services for the three cooperating companies. We comment about the “Big Data Journey” status in Italy reported by Osservatorio Politecnico di Milano. Then, the paper presents the SIBDA project approach and requirements, outlines the adopted architecture and provides implementation hints, along with some experiments and considerations on the use of the proposed architecture for Smart Cities and Smart Enterprises and Communities.
+Keywords: Big Data platforms; Unstructured data; Text analytics; Machine learning; Virtual enterprises; Smart communities
+
+Md. Mamunur Rashid, Joarder Kamruzzaman, Mohammad Mehedi Hassan, Tasadduq Imam, Santoso Wibowo, Steven Gordon, Giancarlo Fortino,
+Adversarial training for deep learning-based cyberattack detection in IoT-based smart city applications,
+Computers & Security,
+Volume 120,
+2022,
+102783,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2022.102783.
+(https://www.sciencedirect.com/science/article/pii/S016740482200178X)
+Abstract: Intrusion Detection Systems (IDS) based on deep learning models can identify and mitigate cyberattacks in IoT applications in a resilient and systematic manner. These models, which support the IDS’s decision, could be vulnerable to a cyberattack known as adversarial attack. In this type of attack, attackers create adversarial samples by introducing small perturbations to attack samples to trick a trained model into misclassifying them as benign applications. These attacks can cause substantial damage to IoT-based smart city models in terms of device malfunction, data leakage, operational outage and financial loss. To our knowledge, the impact of and defence against adversarial attacks on IDS models in relation to smart city applications have not been investigated yet. To address this research gap, in this work, we explore the effect of adversarial attacks on the deep learning and shallow machine learning models by using a recent IoT dataset and propose a method using adversarial retraining that can significantly improve IDS performance when confronting adversarial attacks. Simulation results demonstrate that the presence of adversarial samples deteriorates the detection accuracy significantly by above 70% while our proposed model can deliver detection accuracy above 99% against all types of attacks including adversarial attacks. This makes an IDS robust in protecting IoT-based smart city services.
+Keywords: Smart city; Internet of things; Cyberattacks; Deep learning; Machine learning; Retraining
+
+Saurabh Singh, Shailendra Rathore, Osama Alfarraj, Amr Tolba, Byungun Yoon,
+A framework for privacy-preservation of IoT healthcare data using Federated Learning and blockchain technology,
+Future Generation Computer Systems,
+Volume 129,
+2022,
+Pages 380-388,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2021.11.028.
+(https://www.sciencedirect.com/science/article/pii/S0167739X21004726)
+Abstract: With the dramatically increasing deployment of IoT (Internet-of-Things) and communication, data has always been a major priority to achieve intelligent healthcare in a smart city. For the modern environment, valuable assets are user IoT data. The privacy policy is even the biggest necessity to secure user’s data in a deep-rooted fundamental infrastructure of network and advanced applications, including smart healthcare. Federated learning acts as a special machine learning technique for privacy-preserving and offers to contextualize data in a smart city. This article proposes Blockchain and Federated Learning-enabled Secure Architecture for Privacy-Preserving in Smart Healthcare, where Blockchain-based IoT cloud platforms are used for security and privacy. Federated Learning technology is adopted for scalable machine learning applications like healthcare. Furthermore, users can obtain a well-trained machine learning model without sending personal data to the cloud. Moreover, it also discussed the applications of federated learning for a distributed secure environment in a smart city.
+Keywords: Federated Learning; Privacy-preserving; Blockchain; Internet-of-Things
+
+William Hurst, Bedir Tekinerdogan, Tarek Alskaif, Aaron Boddy, Nathan Shone,
+Securing electronic health records against insider-threats: A supervised machine learning approach,
+Smart Health,
+Volume 26,
+2022,
+100354,
+ISSN 2352-6483,
+https://doi.org/10.1016/j.smhl.2022.100354.
+(https://www.sciencedirect.com/science/article/pii/S2352648322000885)
+Abstract: The introduction of electronic health records (EHR) has created new opportunities for efficient patient data management. For example, preventative medical practice, rather than reactive, is possible through the integration of machine learning to mine digital patient record datasets. Furthermore, within the wider smart cities’ infrastructure, EHR has considerable environmental and cost-saving benefits for healthcare providers. Yet, there are inherent dangers to digitising patient records. Considering the sensitive nature of the data, EHR is equally at risk of both external threats and insider attacks, but security applications are predominantly facing the outer boundary of the network. Therefore, in this work, the focus is on insider data misuse detection. The approach involves the use of supervised classification (decision tree, random forest and support vector machine) based off pre-labelled real-world data collated from a UK-based hospital for the detection of EHR data misuse. The results demonstrate that by employing a machine learning approach to analyse EHR data access, anomaly detection can be achieved with a 0.9896 accuracy from a test set and 0.9908 from the validation set using a support vector machine classifier. The emphasis of this research is on the detection of EHR data misuse, through the detection of anomalous behavioural patterns. Based on the results, the recommendation is to adopt an SVM for data misuse/insider threat detection.
+Keywords: Electronic health record; Machine learning; Anomaly detection; Security
+
+Ciprian Cândea, Gabriela Cândea, Marius Staicu,
+Impact of IoT and SoS in Enabling Smart Applications: A Study on Interconnectivity, Interoperability and Quality of Service,
+Procedia Computer Science,
+Volume 221,
+2023,
+Pages 1226-1234,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2023.08.110.
+(https://www.sciencedirect.com/science/article/pii/S1877050923008682)
+Abstract: The authors of the paper have recently been involved in various projects related to the Internet of Things (IoT) and its practical application in several fields. These areas include Industry 4.0, smart cities, and healthcare - with a focus on behavior change. The projects used up to date technologies such as IoT, Machine Learning, Big Data, System of Systems (SoS) and Cloud Computing among others. The authors have specifically focused on specific IoT and SoS architectures, aiming to support and illustrate a variety of use cases. In this context, SoS expands the use of localized cloud, improving integration and communication technologies. It is essential that these SoS provide reliable quality of service (QoS), which includes management and monitoring of various QoS attributes. The performance of smart applications is highly dependent on the quality of the data they receive, requiring robust communication and sufficient bandwidth. To address the challenge of promoting interconnectivity and interoperability between different smart devices are protocols such as MQTT, CoAP, HTTP and WebSockets. They facilitate network-based device communication, ensuring data sharing and coordination. The paper explores a variety of use cases and these in relation to specific IoT and SoS architectures. The objective is to highlight the transformative impact these technologies have on global performance.
+Keywords: Internet of Things (IoT); Industry 4.0;System of Systems (SoS);Quality of Service (QoS);Interconnectivity;Interoperability;Smart cities
+
+Nan Zhang, Yu-an Tan, Chen Yang, Yuanzhang Li,
+Deep learning feature exploration for Android malware detection,
+Applied Soft Computing,
+Volume 102,
+2021,
+107069,
+ISSN 1568-4946,
+https://doi.org/10.1016/j.asoc.2020.107069.
+(https://www.sciencedirect.com/science/article/pii/S1568494620310073)
+Abstract: Android mobile devices and applications are widely deployed and used in industry and smart city. Malware detection is one of the most powerful and effective approaches to guarantee security of Android systems, especially for industrial platform and smart city. Recently, researches using machine learning-based techniques for Android malware detection increased rapidly. Nevertheless, most of the appeared approaches have to perform feature analysis and selection, so-called feature engineering, which is time-consuming and relies on artificial experience. To solve the inefficiency problem of feature engineering, we propose TC-Droid, an automatic framework for Android malware detection based on text classification method. The core idea of TC-Droid is derived from the field of text classification. TC-Droid feeds on the text sequence of APPs analysis reports generated by AndroPyTool, applies a convolutional neural network (CNN) to explore significant information (or knowledge) under original report text, instead of manual feature engineering. In an evaluation with different number of real-world samples, TC-Droid outperforms state-of-the-art model (Drebin) and several classic models (NB, LR, KNN, RF) as well. With multiple experimental settings and corresponding comparisons, TC-Droid achieves effective and flexible performance in Android malware detection task.
+Keywords: Malware detection; Android security; Text classification; Deep learning; Smart city
+
+Erukala Suresh Babu, SrinivasaRao BKN, Soumya Ranjan Nayak, Amit Verma, Fayez Alqahtani, Amr Tolba, Amrit Mukherjee,
+Blockchain-based Intrusion Detection System of IoT urban data with device authentication against DDoS attacks,
+Computers and Electrical Engineering,
+Volume 103,
+2022,
+108287,
+ISSN 0045-7906,
+https://doi.org/10.1016/j.compeleceng.2022.108287.
+(https://www.sciencedirect.com/science/article/pii/S0045790622005158)
+Abstract: The Internet of Things (IoT) is a technology enabler for enhancing the urban physical infrastructure and providing public services. However, public access to collected heterogeneous IoT urban data is more vulnerable to hackers invading intellectual property as all devices are connected to the internet. IoT security plays a vital role in the smart city. This IoT security is a real challenge as multiple goals and major inconveniences slow the rapid adaption of these smart devices. This paper presents a permissioned-based blockchain system that uses the arbiter PUF model to secure the key pairs of IoT devices using lightweight technology. A collaborative detection system is initially used to detect the DDoS on IoT devices using the machine learning-based ensemble technique, which provides a lower false-positive rate and better detection rate than the other classification technique. Next, we incorporated the blockchain system that securely shares the alarm alerts to all the nodes of the IoT network with adequately secured authentication.
+Keywords: Blockchain; IoT; DDoS attack; Intrusion detection system
+
+Abdallah H. Salem, Issam W. Damaj, Hussein T. Mouftah,
+Vehicle as a Computational Resource: Optimizing Quality of Experience for connected vehicles in a smart city,
+Vehicular Communications,
+Volume 33,
+2022,
+100432,
+ISSN 2214-2096,
+https://doi.org/10.1016/j.vehcom.2021.100432.
+(https://www.sciencedirect.com/science/article/pii/S2214209621001017)
+Abstract: Today, communication technologies enable smart cities to become more effective in terms of satisfactory provision of services. Connected and Autonomous Vehicles (CAVs) can be considered key elements for today's Intelligent Transportation Systems. A small number of research investigations is found to aim at exploiting the resources of CAVs for services provisioning within a smart city. Moreover, and to the best of our knowledge, no research investigations have yet investigated exploiting the computational capabilities of CAVs to become an added value to the computational power of smart cities. In this paper, we introduce the concept of Vehicle as a Computational Resource (VaCR) and develop a system that enables vehicles to share their computational resources within smart cities. Users rely on Service Provider (SP) to acquire the required services that meet their Quality of Experience (QoE) preferences. The device capabilities of VaCR are one of the main indicators in QoE preferences. To that end, evaluation models are developed based on aggregate statistics and Machine Learning (ML) techniques for the discovery and selection of the appropriate VaCRs to participate in the provisioning of services. The deployment is modeled using a multiagent system. Then, game theory is used to model the recruitment that aims at optimizing QoE for Connected Vehicles (CVs). Thorough simulations, analyses, and evaluations of the proposed VaCR system are carried out. The performed validations confirm the effectiveness of the proposed system in optimizing QoE and the successful VaCR system operation, while attaining appealing performance characteristics.
+Keywords: Quality of Experience; Smart cities; Connected vehicles; Service provisioning; Performance evaluation; Machine learning
+
+Xiaoming Li, Dan Zhang, Ye Zheng, Wuyang Hong, Weixi Wang, Jizhe Xia, Zhihan Lv,
+Evolutionary computation-based machine learning for Smart City high-dimensional Big Data Analytics,
+Applied Soft Computing,
+Volume 133,
+2023,
+109955,
+ISSN 1568-4946,
+https://doi.org/10.1016/j.asoc.2022.109955.
+(https://www.sciencedirect.com/science/article/pii/S1568494622010043)
+Abstract: Science and technology development promotes Smart City Construction (SCC) as a most imminent problem. This work aims to improve the comprehensive performance of the Smart City-oriented high-dimensional Big Data Management (BDM) platform and promote the far-reaching development of SCC. It comprehensively optimizes the calculation process of the BDM platform through Machine Learning (ML), reduces the dimension of the data, and improves the calculation effect. To this end, this work first introduces the concept of SCC and the BDM platform application design. Then, it discusses the design concept of using ML technology to optimize the calculation effect of the BDM platform. Finally, the Tensor Train Support Vector Machine (TT-SVM) model is designed based on dimension reduction data processing. The proposed model can comprehensively optimize the BDM platform, and the model is compared with other models and evaluated. The research results show that the accuracy of the reduced dimension classification of the TT-SVM model is more than 95. The lowest average processing time for the model’s reduced dimension classification is about 1ms. The model’s highest data processing accuracy is about 98%, and the average processing time is between 1.0–1.5ms. Compared with traditional models and BDM platforms, the proposed model has a breakthrough performance improvement, so it plays an important role in future SCC. This work has achieved a great breakthrough in big data processing, and innovatively improved the application mode of high-dimensional big data technology by integrating multiple technologies. Therefore, the finding provides targeted technical reference for algorithms in BDM platform and contributes to the construction and improvement of Smart City.
+Keywords: Smart City; Big Data Management platform; High-dimensional big data; Machine Learning; Dimension reduction for data classification
+
+Muhammad Saleem, Sagheer Abbas, Taher M. Ghazal, Muhammad Adnan Khan, Nizar Sahawneh, Munir Ahmad,
+Smart cities: Fusion-based intelligent traffic congestion control system for vehicular networks using machine learning techniques,
+Egyptian Informatics Journal,
+Volume 23, Issue 3,
+2022,
+Pages 417-426,
+ISSN 1110-8665,
+https://doi.org/10.1016/j.eij.2022.03.003.
+(https://www.sciencedirect.com/science/article/pii/S111086652200024X)
+Abstract: Smart cities have been developed over the past decade, and reducing traffic congestion has been the top concern in smart city development. Short delays in communication between vehicles and Roadside Units (RSUs), smooth traffic flow, and road safety are the key challenges of Intelligent Transportation Systems (ITSs). The rapid upsurge in the number of road vehicles has increased traffic congestion and the number of road accidents. To fix this issue, Vehicular Networks (VNs) have developed many new ideas, including vehicular communications, navigation, and traffic control. Machine Learning (ML) is an efficient approach to finding hidden insights into ITS without being programmed explicitly by learning from data. This research proposed a fusion-based intelligent traffic congestion control system for VNs (FITCCS-VN) using ML techniques that collect traffic data and route traffic on available routes to alleviate traffic congestion in smart cities. The proposed system provides innovative services to the drivers that enable a view of traffic flow and the volume of vehicles available on the road remotely, intending to avoid traffic jams. The proposed model improves traffic flow and decreases congestion. The proposed system provides an accuracy of 95% and a miss rate of 5%, which is better than previous approaches.
+Keywords: Vehicular networks; Smart city; Machine learning; Fusion
+
+Tarek Gaber, Amir El-Ghamry, Aboul Ella Hassanien,
+Injection attack detection using machine learning for smart IoT applications,
+Physical Communication,
+Volume 52,
+2022,
+101685,
+ISSN 1874-4907,
+https://doi.org/10.1016/j.phycom.2022.101685.
+(https://www.sciencedirect.com/science/article/pii/S1874490722000490)
+Abstract: Smart cities are a rapidly growing IoT application. These smart cities mainly rely on wireless sensors to connect their different components (smart devices) together. Smart cities rely on the integration of IoT and 5G technologies, and this has created a demand for a massive IoT network of connected devices. The data traffic coming from indoor wireless networks (e.g., smart homes, smart hospitals, smart factories , or smart school buildings) contributes to over 80% of the total data traffic of the current IoT network. As smart cities and their applications grow, security and privacy challenges have become a major concern for billions of IoT smart devices. One reason for this could be the oversight of handling security issues of IoT devices by their manufacturers, which enables attackers to exploit the vulnerabilities in these devices by performing different types of attacks, e.g., DDoS and injection attacks. Intrusion detection is one way to detect and mitigate the risk of such attacks. In this paper, an intrusion detection method was proposed to detect injection attacks in IoT applications (e.g. smart cities). In this method, two types of feature selection techniques (constant removal and recursive feature elimination) were used and tested by a number of machine learning classifiers (i.e., SVM, Random Forest, and Decision Tree). The T-Test was conducted to evaluate the quality of this proposed feature selection method. Using the public dataset, AWID, the evaluation results showed that the decision tree classifier can be used to detect injection attacks with an accuracy of 99% using only 8 features, which were selected using the proposed feature selection method. Also, the comparison with the most related work showed the advantages of the proposed intrusion detection method.
+Keywords: Intrusion detection; Injection attacks; Feature selection; Smart cities; In door wireless network; Machine learning; Internet of Things
+
+Leticia Lemus Cárdenas, Juan Pablo Astudillo León, Ahmad Mohamad Mezher,
+GraTree: A gradient boosting decision tree based multimetric routing protocol for vehicular ad hoc networks,
+Ad Hoc Networks,
+Volume 137,
+2022,
+102995,
+ISSN 1570-8705,
+https://doi.org/10.1016/j.adhoc.2022.102995.
+(https://www.sciencedirect.com/science/article/pii/S1570870522001676)
+Abstract: The Intelligent Transport System (ITS) is increasingly becoming a reality thanks to the incorporation of modern vehicles that, together with artificial intelligence techniques, can bring novel solutions to the smart city. Today, vehicles are embedded with different types of wireless devices that allow them to communicate with a wide range of telecommunication infrastructures located on streets, avenues, or roads. In this context, valuable data related to traffic management is transmitted and can be used for different purposes, such as assisting other vehicles on the road or improving the decisions made by traffic engineers. Vehicular Ad hoc NETworks (VANETs) enable wireless communications between vehicles, between vehicles and infrastructure, and also vehicles-to-everything, with the aim of generating smart mobility solutions and contributing to improve city services. However, routing information in VANETs is a challenging task, as vehicles are highly mobile, and their trajectories are uncertain and highly constrained by the city’s road map. In this regard, as the application of machine learning (ML) algorithms in wireless networks is increasing, the performance of vehicular networks can be improved by applying prediction-based techniques. In this work, we propose a multimetric ML-based routing protocol to select the best next-hop node for forwarding warning messages. For this purpose, we have considered the CatBoost framework, a gradient boosting algorithm on decision trees. Furthermore, we studied the importance of each routing metric and selected only the most relevant ones in our routing decisions. The performance evaluation shows the significant improvements obtained from our ML-based approach in terms of packet losses.
+Keywords: Vehicular networks; Machine learning; Feature importance; Multimetric routing protocol
+
+Ossama Embarak,
+A New Paradigm Through Machine Learning: A Learning Maximization Approach for Sustainable Education,
+Procedia Computer Science,
+Volume 191,
+2021,
+Pages 445-450,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2021.07.055.
+(https://www.sciencedirect.com/science/article/pii/S1877050921014551)
+Abstract: Machine learning algorithms have been used to predict student performance in academic institutions over the last decade. The developed prediction models classified students as either those who were likely to receive a distinctive or those who were likely to be at-risk or withdraw from the class. Although, the early prediction aid in the targeting of educational interventions and achieved a more efficient allocation of educational resources. All proposed solutions fell within the scope of predictions that result in active or proactive actions to support universities and learners. On the other hand, they fail to comprehend the various forms of education systems and whether it appropriate for the twenty-first century and future generations. The paper classifies education into five types based on the design mode, the scope of production, and the interaction between learners and educational systems (Push, Pull, coupling, Integrated, and Sustainable). The paper proposes a sustainable education paradigm that maximizes the knowledge and skill matrix accumulated for the desired program. The proposed theory implementation phases are modelled and demonstrated using 21st-century technologies, such as personalized and coaching education based on the learner’s learning style and remediation actions for strong learners with innovative competencies. The study emphasized various aspects of sustainable education systems that are required for smart city transition. The limitations and proposed solutions for dealing with anticipated issues were demonstrated, and the benefits of sustainable education are based on the proposed maximization theory rather than the current block-based learning of outcomes.
+Keywords: Theory of maximization model; machine learning in education; sustainable education system; education forms; sustainable education applications
+
+Jie Chen, L. Ramanathan, Mamoun Alazab,
+Holistic big data integrated artificial intelligent modeling to improve privacy and security in data management of smart cities,
+Microprocessors and Microsystems,
+Volume 81,
+2021,
+103722,
+ISSN 0141-9331,
+https://doi.org/10.1016/j.micpro.2020.103722.
+(https://www.sciencedirect.com/science/article/pii/S014193312030867X)
+Abstract: The smart city adopts information and communication technology (ICT), contributing to the growth, implementation, and advancement of sustainable development practices to address growing challenges to urbanization. The demanding factor in smart city applications is privacy, security, confidentiality, and authenticity, which are considered a prominent factor in smart city infrastructure's data management interface. Hence In this paper, to resolve such issues, Holistic Big Data Integrated Artificial Intelligent Modeling (HBDIAIM) has been proposed to improve the privacy and security aspects of data management interface in various smart city applications. In HBDIAIM, a differential evolutionary algorithm has been incorporated to build adequate security for the confidential data management interface in smart city applications. Furthermore, the Big Data analytics assisted decision privacy scheme has been used in the differential evolutionary algorithm, which improves the scalability and accessibility of the information in a data management interface based on their corresponding storage location. In addition, the Adaptable interference method is designed and developed to optimize the scalability and privacy issues data management interface of various smart city applications. The simulation analysis is performed based on security, accuracy, performance, and scalability proves the reliability of the proposed framework.
+Keywords: Smart city; Big data; Artificial intelligence; Security; Privacy
+
+Flora Amato, Luigi Coppolino, Giovanni Cozzolino, Giovanni Mazzeo, Francesco Moscato, Roberto Nardone,
+Enhancing random forest classification with NLP in DAMEH: A system for DAta Management in eHealth Domain,
+Neurocomputing,
+Volume 444,
+2021,
+Pages 79-91,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2020.08.091.
+(https://www.sciencedirect.com/science/article/pii/S0925231221001302)
+Abstract: The use of pervasive IoT devices in Smart Cities, have increased the Volume of data produced in many and many field. Interesting and very useful applications grow up in number in E-health domain, where smart devices are used in order to manage huge amount of data, in highly distributed environments, in order to provide smart services able to collect data to fill medical records of patients. The problem here is to gather data, to produce records and to analyze medical records depending on their contents. Since data gathering involve very different devices (not only wearable medical sensors, but also environmental smart devices, like weather, pollution and other sensors) it is very difficult to classify data depending their contents, in order to enable better management of patients. Data from smart devices couple with medical records written in natural language: we describe here an architecture that is able to determine best features for classification, depending on existent medical records. The architecture is based on pre-filtering phase based on Natural Language Processing, that is able to enhance Machine learning classification based on Random Forests. We carried on experiments on about 5000 medical records from real (anonymized) case studies from various health-care organizations in Italy. We show accuracy of the presented approach in terms of Accuracy-Rejection curves.
+Keywords: Big data processing; E-health; Machine learning; Random forests; Multi-classification schema
+
+Preeti Rani, Rohit Sharma,
+Intelligent transportation system for internet of vehicles based vehicular networks for smart cities,
+Computers and Electrical Engineering,
+Volume 105,
+2023,
+108543,
+ISSN 0045-7906,
+https://doi.org/10.1016/j.compeleceng.2022.108543.
+(https://www.sciencedirect.com/science/article/pii/S0045790622007583)
+Abstract: A popular research area is internet traffic analysis as it has many applications, mainly for classifying internet traffic. Innovative technologies have been developed for predicting and identifying traffic congestion in the intelligent Internet of vehicles (IOVs). In this paper, an intelligent transport system for the IOVs-based vehicular network traffic for smart city scenario is proposed based on tree-based Decision Tree (DT), Random Forest (RF), and Extra Tree (ET), and XGBoost machine learning (ML) models. Simulation results indicate that the proposed system can provide high detection accuracy and low computational costs thanks to ensemble learning and averaging important feature selection. The tree-based ML techniques with feature selection performed better than those without feature selection for IOV-based vehicular network traffic. The Stacking model shows higher classification accuracy, 99.05%, compared to the lowest KNN accuracy, 96.6%, and SVM accuracy, 98.01%.
+Keywords: Machine learning (ML); Network traffic; Quality of Service (QoS); Smart transportation system; Internet of Vehicles; Vehicular
+
+Aaisha Makkar, Jong Hyuk Park,
+SecureCPS: Cognitive inspired framework for detection of cyber attacks in cyber–physical systems,
+Information Processing & Management,
+Volume 59, Issue 3,
+2022,
+102914,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2022.102914.
+(https://www.sciencedirect.com/science/article/pii/S0306457322000401)
+Abstract: In the era of autonomous systems, the security is indispensable module for flexible computing environment. Due to increased computer power and network speed, a new computing paradigm, such as cognitive inspired computing, will emerge. Such a paradigm provides human-centered services that are convenient and enjoyable at any time, anywhere, and on any device. On the foundation of smart city environment, human computer interaction, intelligent services, and universal device connectivity, Cyber Physical Computing for Cyber Physical systems has recently been investigated. However, in this proposal, a cognitive inspired framework for securing CPS is scrutinized. The cognitive ability is conceded to the search engines by updating the PageRank ranking methodology. The proposed framework, named SecureCPS is trained with real time collective dataset for marking the relevancy of web page with the support the facial expressions. The eye regions are marked using Focal Point Detector algorithm. The framework is validated with machine learning models and resulted in achieving 98.51% accuracy and its outperforms the existing frameworks.
+Keywords: Cognitive-inspired; Cognitive sciences; Artificial intelligence; Machine learning; Cyber physical systems
+
+Asra Aslam, Edward Curry,
+A Survey on Object Detection for the Internet of Multimedia Things (IoMT) using Deep Learning and Event-based Middleware: Approaches, Challenges, and Future Directions,
+Image and Vision Computing,
+Volume 106,
+2021,
+104095,
+ISSN 0262-8856,
+https://doi.org/10.1016/j.imavis.2020.104095.
+(https://www.sciencedirect.com/science/article/pii/S0262885620302274)
+Abstract: An enormous amount of sensing devices (scalar or multimedia) collect and generate information (in the form of events) over the Internet of Things (IoT). Present research on IoT mainly focus on the processing of scalar sensor data events and barely considers the challenges posed by multimedia based events. In this paper, we systematically review the existing solutions available for the Internet of Multimedia Things (IoMT) by analyzing sensing, networking, service, and application-level services provided by IoT. We present state-of-the-art event-based middleware methods and their suitability for multimedia event processing methods. We observe that existing IoT event-based middleware solutions focus on structured (scalar) events and possess only domain-specific characteristics for unstructured (multimedia) events. A case study for object detection is also presented to demonstrate the requirements associated with the processing of multimedia events within smart cities, even with common image recognition based applications. In order to validate the existing issues in the detection of objects, we also presented an evaluation of object detection models using existing datasets. At the end of each section, we shed light on trends, gaps, and possible solutions based on our analysis, experiments, and review of the existing research. Finally, we summarize the challenges and future research directions for the generalized multimedia event processing (by taking detection of each and every object as an example) based on applications using IoMT. Our experiments demonstrate that existing models are very slow to respond to any unseen class, and existing rich datasets do not have a sufficient number of classes to meet the requirements of real-time applications of smart cities. We show that although there is a significantly large technical literature on IoT, and research on IoMT is also quite actively growing, there have not been much research efforts directed towards the processing of multimedia events. As an example, although deep learning techniques have been shown to achieve impressive performance in applications like image recognition, the methods are deficient in detecting new (previously unseen) objects for multimedia based applications in smart cities. In light of these facts, it becomes imperative to conduct research on bringing together the abilities of event-based middleware for IoMT, and low response-time based online training and adaptation techniques.
+Keywords: Internet of Multimedia Things; Event Processing; Multimedia Events; Object Detection; Smart Cities; Deep Neural Networks; Machine Learning
+
+Matteo Anedda, Mauro Fadda, Roberto Girau, Giovanni Pau, Daniele Giusto,
+A social smart city for public and private mobility: A real case study,
+Computer Networks,
+Volume 220,
+2023,
+109464,
+ISSN 1389-1286,
+https://doi.org/10.1016/j.comnet.2022.109464.
+(https://www.sciencedirect.com/science/article/pii/S1389128622004984)
+Abstract: Nowadays, smart city paradigm plays a primary role in the fulfillment of sustainable solutions in the field of urban mobility, both public and private. At the same time, the Internet of Things (IoT) is allowing the development of increasingly advanced solutions for real-time management of collected information related to the management and coexistence of vehicles (i.e., buses, cars, trains, bicycles, etc.) immersed in urban and sub-urban traffic. The Social IoT (SIoT) paradigm adds a relational connotation between objects typical of human relationships. Objects operate as equals and request/provide information among them in the perspective of providing IoT services to users while maintaining their individuality. Social object relationship enables the design of solutions aiming to improve the exchange of information among network nodes in terms of security from malicious attacks external to the so-called social network of objects. In this context, a new SIoT smart city solution is presented in this article: private and public vehicles together with pedestrians are involved in a real-time collection of data to improve the viability of the city in order to suggest new directions and information to citizens to better organize how to live the city. The developed architecture presented in this article is equipped with an artificial intelligence that process collected traffic data and, thanks to machine learning techniques, evaluate the directions and flows undertaken by vehicles and pedestrians on a daily basis. The authors are also presenting an application that allow both citizens to live the city in a better way and municipal authorities to promptly manage traffic flows. The proposed system was installed in a specific area of Cagliari (Italy) and the traffic flows have been compared with daily traffic data monitored before the installation, observing an average gain of up to 35 percent in daily traffic reduction.
+Keywords: Smart city; Social IoT; Heterogeneous networks; Devices tracking; Traffic monitoring; Data protection

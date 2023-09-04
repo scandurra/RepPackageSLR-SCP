@@ -1,0 +1,2 @@
+"query": {Fulltext:(("smart city") AND (platform OR software OR system OR framework) AND (adaptation OR adaptive OR "self-adaptation" OR "self-adaptive" OR "MAPE-K"))}	
+"filter": {Media Format: PDF},{Conference Collections: ACM Conferences},{Article Type: Research Article},{E-Publication Date: (01/01/2021 TO 08/31/2023)}

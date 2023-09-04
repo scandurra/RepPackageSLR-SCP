@@ -1,0 +1,252 @@
+125 Results for: [Full Text: "smart city"] AND [[Full Text: application] OR [Full Text: service]] AND [[Full Text: "urban data analytic"] OR [Full Text: "big data analytic"] OR [Full Text: "machine learning"]] AND [E-Publication Date: (02/01/2020 TO 08/31/2023)]
+
+Maggi Bansal, Inderveer Chana, and Siobhán Clarke. 2020. A Survey on IoT Big Data: Current Status, 13 V’s Challenges, and Future Directions. ACM Comput. Surv. 53, 6, Article 131 (November 2021), 59 pages. https://doi.org/10.1145/3419634
+
+Zhihan Lv, Dongliang Chen, and Haibin Lv. 2022. Smart City Construction and Management by Digital Twins and BIM Big Data in COVID-19 Scenario. ACM Trans. Multimedia Comput. Commun. Appl. 18, 2s, Article 117 (June 2022), 21 pages. https://doi.org/10.1145/3529395
+
+Francesco Piccialli, Fabio Giampaolo, Edoardo Prezioso, Danilo Crisci, and Salvatore Cuomo. 2021. Predictive Analytics for Smart Parking: A Deep Learning Approach in Forecasting of IoT Data. ACM Trans. Internet Technol. 21, 3, Article 68 (August 2021), 21 pages. https://doi.org/10.1145/3412842
+
+Liangtian Wan, Mingyue Zhang, Lu Sun, and Xianpeng Wang. 2021. Machine Learning Empowered IoT for Intelligent Vehicle Location in Smart Cities. ACM Trans. Internet Technol. 21, 3, Article 71 (August 2021), 25 pages. https://doi.org/10.1145/3448612
+
+Naeima Hamed, Andrea Gaglione, Alex Gluhak, Omer Rana, and Charith Perera. 2023. Query Interface for Smart City Internet of Things Data Marketplaces: A Case Study. ACM Trans. Internet Things Just Accepted (July 2023). https://doi.org/10.1145/3609336
+
+Zheng Dong, Yan Lu, Guangmo Tong, Yuanchao Shu, Shuai Wang, and Weisong Shi. 2023. WatchDog: Real-time Vehicle Tracking on Geo-distributed Edge Nodes. ACM Trans. Internet Things 4, 1, Article 2 (February 2023), 23 pages. https://doi.org/10.1145/3549551
+
+Paul-David Jarvis, Amalia Damianou, Cosmin Ciobanu, and Vasilis Katos. 2022. Vulnerability Exposure Driven Intelligence in Smart, Circular Cities. Digital Threats 3, 4, Article 40 (December 2022), 18 pages. https://doi.org/10.1145/3487059
+
+Zhihan Lv, Liang Qiao, Amit Kumar Singh, and Qingjun Wang. 2021. AI-empowered IoT Security for Smart Cities. ACM Trans. Internet Technol. 21, 4, Article 99 (November 2021), 21 pages. https://doi.org/10.1145/3406115
+
+Hani Attar. 2023. Joint IoT/ML Platforms for Smart Societies and Environments: A Review on Multimodal Information-Based Learning for Safety and Security. J. Data and Information Quality Just Accepted (June 2023). https://doi.org/10.1145/3603713
+
+Tahereh Arabghalizi and Alexandros Labrinidis. 2020. Data-driven Bus Crowding Prediction Models Using Context-specific Features. ACM/IMS Trans. Data Sci. 1, 3, Article 23 (August 2020), 33 pages. https://doi.org/10.1145/3406962
+
+Sowmya Myneni, Garima Agrawal, Yuli Deng, Ankur Chowdhary, Neha Vadnere, and Dijiang Huang. 2022. SCVS: On AI and Edge Clouds Enabled Privacy-preserved Smart-city Video Surveillance Services. ACM Trans. Internet Things 3, 4, Article 28 (November 2022), 26 pages. https://doi.org/10.1145/3542953
+
+Laha Ale, Ning Zhang, Scott A. King, and Jose Guardiola. 2021. Spatio-temporal Bayesian Learning for Mobile Edge Computing Resource Planning in Smart Cities. ACM Trans. Internet Technol. 21, 3, Article 72 (August 2021), 21 pages. https://doi.org/10.1145/3448613
+
+Meiyi Ma, John Stankovic, Ezio Bartocci, and Lu Feng. 2021. Predictive Monitoring with Logic-Calibrated Uncertainty for Cyber-Physical Systems. ACM Trans. Embed. Comput. Syst. 20, 5s, Article 101 (October 2021), 25 pages. https://doi.org/10.1145/3477032
+
+Asma Belhadi, Youcef Djenouri, Djamel Djenouri, Tomasz Michalak, and Jerry Chun-Wei Lin. 2021. Machine Learning for Identifying Group Trajectory Outliers. ACM Trans. Manage. Inf. Syst. 12, 2, Article 12 (June 2021), 25 pages. https://doi.org/10.1145/3430195
+
+Dhrubojyoti Roy, Sangeeta Srivastava, Aditya Kusupati, Pranshu Jain, Manik Varma, and Anish Arora. 2021. One Size Does Not Fit All: Multi-scale, Cascaded RNNs for Radar Classification. ACM Trans. Sen. Netw. 17, 2, Article 12 (May 2021), 27 pages. https://doi.org/10.1145/3439957
+
+Y. Supriya and Thippa Reddy Gadekallu. 2023. A Survey on Soft Computing Techniques for Federated Learning- Applications, Challenges and Future Directions. J. Data and Information Quality 15, 2, Article 22 (June 2023), 28 pages. https://doi.org/10.1145/3575810
+
+David K. Y. Chiu, Tao Xu, and Iker Gondra. 2021. Random Graph-based Multiple Instance Learning for Structured IoT Smart City Applications. ACM Trans. Internet Technol. 21, 3, Article 70 (August 2021), 17 pages. https://doi.org/10.1145/3448611
+
+Mohammad Shorfuzzaman and M. Shamim Hossain. 2021. Predictive Analytics of Energy Usage by IoT-Based Smart Home Appliances for Green Urban Development. ACM Trans. Internet Technol. 22, 2, Article 35 (May 2022), 26 pages. https://doi.org/10.1145/3426970
+
+Pedro Andrade, Ivanovitch Silva, Marianne Diniz, Thommas Flores, Daniel G. Costa, and Eduardo Soares. 2023. Online Processing of Vehicular Data on the Edge Through an Unsupervised TinyML Regression Technique. ACM Trans. Embed. Comput. Syst. Just Accepted (April 2023). https://doi.org/10.1145/3591356
+
+Huan Wang, Ruigang Liu, Chuanqi Shi, Junyang Chen, Lei Fang, Shun Liu, and Zhiguo Gong. 2023. Resisting the Edge-type Disturbance for Link Prediction in Heterogeneous Networks. ACM Trans. Knowl. Discov. Data Just Accepted (August 2023). https://doi.org/10.1145/3614099
+
+Thiago Pereira Da Silva, Thais Batista, Frederico Lopes, Aluizio Rocha Neto, Flávia C. Delicato, Paulo F. Pires, and Atslands R. Da Rocha. 2022. Fog Computing Platforms for Smart City Applications: A Survey. ACM Trans. Internet Technol. 22, 4, Article 96 (November 2022), 32 pages. https://doi.org/10.1145/3488585
+
+Le Sun, Zhaoyi Zhong, Chunjiong Zhang, Yanchun Zhang, and Di Wu. 2022. TESS: multivariate sensor time series prediction for building sustainable smart cities. ACM Trans. Sen. Netw. Just Accepted (December 2022). https://doi.org/10.1145/3573200
+
+Zipei Fan, Xuan Song, Renhe Jiang, Quanjun Chen, and Ryosuke Shibasaki. 2020. Decentralized Attention-based Personalized Human Mobility Prediction. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 3, 4, Article 133 (December 2019), 26 pages. https://doi.org/10.1145/3369830
+
+Qiang Yang. 2021. Toward Responsible AI: An Overview of Federated Learning for User-centered Privacy-preserving Computing. ACM Trans. Interact. Intell. Syst. 11, 3–4, Article 32 (December 2021), 22 pages. https://doi.org/10.1145/3485875
+
+Louise Axon, Katherine Fletcher, Arianna Schuler Scott, Marcel Stolz, Robert Hannigan, Ali El Kaafarani, Michael Goldsmith, and Sadie Creese. 2022. Emerging Cybersecurity Capability Gaps in the Industrial Internet of Things: Overview and Research Agenda. Digital Threats 3, 4, Article 34 (December 2022), 27 pages. https://doi.org/10.1145/3503920
+
+Ismaeel Al Ridhawi, Moayad Aloqaily, and Yaser Jararweh. 2021. An Incentive-based Mechanism for Volunteer Computing Using Blockchain. ACM Trans. Internet Technol. 21, 4, Article 87 (November 2021), 22 pages. https://doi.org/10.1145/3419104
+
+Maryam Ebrahimi, Mohammad Hesam Tadayon, Mohammad Sayad Haghighi, and Alireza Jolfaei. 2022. A Quantitative Comparative Study of Data-oriented Trust Management Schemes in Internet of Things. ACM Trans. Manage. Inf. Syst. 13, 3, Article 24 (September 2022), 30 pages. https://doi.org/10.1145/3476248
+
+Anbu Huang, Yang Liu, Tianjian Chen, Yongkai Zhou, Quan Sun, Hongfeng Chai, and Qiang Yang. 2021. StarFL: Hybrid Federated Learning Architecture for Smart Urban Computing. ACM Trans. Intell. Syst. Technol. 12, 4, Article 43 (August 2021), 23 pages. https://doi.org/10.1145/3467956
+
+Marcin Luckner, Maciej Grzenda, Robert Kunicki, and Jaroslaw Legierski. 2020. IoT Architecture for Urban Data-Centric Services and Applications. ACM Trans. Internet Technol. 20, 3, Article 29 (August 2020), 30 pages. https://doi.org/10.1145/3396850
+
+Huawei Huang, Wei Kong, Sicong Zhou, Zibin Zheng, and Song Guo. 2021. A Survey of State-of-the-Art on Blockchains: Theories, Modelings, and Tools. ACM Comput. Surv. 54, 2, Article 44 (March 2022), 42 pages. https://doi.org/10.1145/3441692
+
+Yang Zhang, Ruohan Zong, Lanyu Shang, Ziyi Kou, Huimin Zeng, and Dong Wang. 2022. CrowdOptim: A Crowd-driven Neural Network Hyperparameter Optimization Approach to AI-based Smart Urban Sensing. Proc. ACM Hum.-Comput. Interact. 6, CSCW2, Article 435 (November 2022), 27 pages. https://doi.org/10.1145/3555536
+
+Guimin Dong, Mingyue Tang, Zhiyuan Wang, Jiechao Gao, Sikun Guo, Lihua Cai, Robert Gutierrez, Bradford Campbel, Laura E. Barnes, and Mehdi Boukhechba. 2023. Graph Neural Networks in IoT: A Survey. ACM Trans. Sen. Netw. 19, 2, Article 47 (May 2023), 50 pages. https://doi.org/10.1145/3565973
+
+Afiya Ayman, Amutheezan Sivagnanam, Michael Wilbur, Philip Pugliese, Abhishek Dubey, and Aron Laszka. 2021. Data-Driven Prediction and Optimization of Energy Use for Transit Fleets of Electric and ICE Vehicles. ACM Trans. Internet Technol. 22, 1, Article 7 (February 2022), 29 pages. https://doi.org/10.1145/3433992
+
+Celestine Iwendi, Saif Ur Rehman, Abdul Rehman Javed, Suleman Khan, and Gautam Srivastava. 2021. Sustainable Security for the Internet of Things Using Artificial Intelligence Architectures. ACM Trans. Internet Technol. 21, 3, Article 73 (August 2021), 22 pages. https://doi.org/10.1145/3448614
+
+Jian Wang, Jiaxin Liu, and Guosheng Zhao. 2022. Two-phased Participant Selection Method Based on Partial Transfer Learning in Mobile Crowdsensing. ACM Trans. Sen. Netw. 19, 2, Article 42 (May 2023), 17 pages. https://doi.org/10.1145/3563776
+
+Morshed Chowdhury, Biplob Ray, Sujan Chowdhury, and Sutharshan Rajasegarar. 2021. A Novel Insider Attack and Machine Learning Based Detection for the Internet of Things. ACM Trans. Internet Things 2, 4, Article 26 (November 2021), 23 pages. https://doi.org/10.1145/3466721
+
+Tengsheng Jiang, Yuhui Chen, Shixuan Guan, Zhongtian Hu, Weizhong Lu, Qiming Fu, Yijie Ding, Haiou Li, and Hongjie Wu. 2021. G Protein-Coupled Receptor Interaction Prediction Based on Deep Transfer Learning. IEEE/ACM Trans. Comput. Biol. Bioinformatics 19, 6 (Nov.-Dec. 2022), 3126–3134. https://doi.org/10.1109/TCBB.2021.3128172
+
+Alessio Bechini, Alessandro Bondielli, José Luis Corcuera Bárcena, Pietro Ducange, Francesco Marcelloni, and Alessandro Renda. 2022. A News-Based Framework for Uncovering and Tracking City Area Profiles: Assessment in Covid-19 Setting. ACM Trans. Knowl. Discov. Data 16, 6, Article 125 (December 2022), 29 pages. https://doi.org/10.1145/3532186
+
+Claudio Savaglio and Giancarlo Fortino. 2021. A Simulation-driven Methodology for IoT Data Mining Based on Edge Computing. ACM Trans. Internet Technol. 21, 2, Article 30 (June 2021), 22 pages. https://doi.org/10.1145/3402444
+
+Tianzi Zang, Yanmin Zhu, Yanan Xu, and Jiadi Yu. 2021. Jointly Modeling Spatio–Temporal Dependencies and Daily Flow Correlations for Crowd Flow Prediction. ACM Trans. Knowl. Discov. Data 15, 4, Article 58 (August 2021), 20 pages. https://doi.org/10.1145/3439346
+
+Yirui Wu, Hao Cao, Guoqiang Yang, Tong Lu, and Shaohua Wan. 2022. Digital Twin of Intelligent Small Surface Defect Detection with Cyber-Manufacturing Systems. ACM Trans. Internet Technol. Just Accepted (November 2022). https://doi.org/10.1145/3571734
+
+Xuegang Fan, C.B. Sivaparthipan, and R.S. Aiswarya. 2022. Importance of Combination of Ecology and Literature. ACM Trans. Asian Low-Resour. Lang. Inf. Process. Just Accepted (March 2022). https://doi.org/10.1145/3519597
+
+Jie Zhang, Zhihao Qu, Chenxi Chen, Haozhao Wang, Yufeng Zhan, Baoliu Ye, and Song Guo. 2021. Edge Learning: The Enabling Technology for Distributed Big Data Analytics in the Edge. ACM Comput. Surv. 54, 7, Article 151 (September 2022), 36 pages. https://doi.org/10.1145/3464419
+
+Huniya Shahid, Munam Ali Shah, Ahmad Almogren, Hasan Ali Khattak, Ikram Ud Din, Neeraj Kumar, and Carsten Maple. 2021. Machine Learning-based Mist Computing Enabled Internet of Battlefield Things. ACM Trans. Internet Technol. 21, 4, Article 101 (November 2021), 26 pages. https://doi.org/10.1145/3418204
+
+Christos Tsigkanos, Martin Garriga, Luciano Baresi, and Carlo Ghezzi. 2020. Cloud Deployment Tradeoffs for the Analysis of Spatially Distributed Internet of Things Systems. ACM Trans. Internet Technol. 20, 2, Article 17 (May 2020), 23 pages. https://doi.org/10.1145/3381452
+
+Muhammad Okky Ibrohim, Cristina Bosco, and Valerio Basile. 2023. Sentiment Analysis for the Natural Environment: a Systematic Review. ACM Comput. Surv. Just Accepted (July 2023). https://doi.org/10.1145/3604605
+
+Shancang Li, Shanshan Zhao, Prosanta Gope, and Li Da Xu. 2022. Data Privacy Enhancing in the IoT User/Device Behavior Analytics. ACM Trans. Sen. Netw. 19, 2, Article 32 (May 2023), 13 pages. https://doi.org/10.1145/3534648
+
+Wei Wang, Feng Xia, Jian Wu, Zhiguo Gong, Hanghang Tong, and Brian D. Davison. 2021. Scholar2vec: Vector Representation of Scholars for Lifetime Collaborator Prediction. ACM Trans. Knowl. Discov. Data 15, 3, Article 40 (June 2021), 19 pages. https://doi.org/10.1145/3442199
+
+Youcef Djenouri, Djamel Djenouri, and Jerry Chun-Wei Lin. 2021. Trajectory Outlier Detection: New Problems and Solutions for Smart Cities. ACM Trans. Knowl. Discov. Data 15, 2, Article 20 (April 2021), 28 pages. https://doi.org/10.1145/3425867
+
+Hao Liu, Qingyu Guo, Hengshu Zhu, Yanjie Fu, Fuzhen Zhuang, Xiaojuan Ma, and Hui Xiong. 2023. Characterizing and Forecasting Urban Vibrancy Evolution: A Multi-View Graph Mining Perspective. ACM Trans. Knowl. Discov. Data 17, 5, Article 68 (June 2023), 24 pages. https://doi.org/10.1145/3568683
+
+Christian Meurisch and Max Mühlhäuser. 2021. Data Protection in AI Services: A Survey. ACM Comput. Surv. 54, 2, Article 40 (March 2022), 38 pages. https://doi.org/10.1145/3440754
+
+Xi Li, Zehua Wang, Victor C. M. Leung, Hong Ji, Yiming Liu, and Heli Zhang. 2021. Blockchain-empowered Data-driven Networks: A Survey and Outlook. ACM Comput. Surv. 54, 3, Article 58 (April 2022), 38 pages. https://doi.org/10.1145/3446373
+
+Zhenchang Xia, Jia Wu, Libing Wu, Yanjiao Chen, Jian Yang, and Philip S. Yu. 2021. A Comprehensive Survey of the Key Technologies and Challenges Surrounding Vehicular Ad Hoc Networks. ACM Trans. Intell. Syst. Technol. 12, 4, Article 37 (August 2021), 30 pages. https://doi.org/10.1145/3451984
+
+Yumeng Liu, Hongan Wang, Xu Zheng, and Ling Tian. 2023. An Efficient Framework for Unsupervised Anomaly Detection over Edge-Assisted Internet of Things. ACM Trans. Sen. Netw. Just Accepted (April 2023). https://doi.org/10.1145/3587935
+
+Xindi Ma, Jianfeng Ma, Saru Kumari, Fushan Wei, Mohammad Shojafar, and Mamoun Alazab. 2021. Privacy-Preserving Distributed Multi-Task Learning against Inference Attack in Cloud Computing. ACM Trans. Internet Technol. 22, 2, Article 45 (May 2022), 24 pages. https://doi.org/10.1145/3426969
+
+Chenghao Rong, Jessie Hui Wang, Juncai Liu, Jilong Wang, Fenghua Li, and Xiaolei Huang. 2021. Scheduling Massive Camera Streams to Optimize Large-Scale Live Video Analytics. IEEE/ACM Trans. Netw. 30, 2 (April 2022), 867–880. https://doi.org/10.1109/TNET.2021.3125359
+
+Igor Kadota, Dror Jacoby, Hagit Messer, Gil Zussman, and Jonatan Ostrometzky. 2022. Switching in the Rain: Predictive Wireless x-haul Network Reconfiguration. Proc. ACM Meas. Anal. Comput. Syst. 6, 3, Article 55 (December 2022), 26 pages. https://doi.org/10.1145/3570616
+
+Francesco Malandrino, Carla Fabiana Chiasserini, Nuria Molner, and Antonio de la Oliva. 2022. Network Support for High-Performance Distributed Machine Learning. IEEE/ACM Trans. Netw. 31, 1 (Feb. 2023), 264–278. https://doi.org/10.1109/TNET.2022.3189077
+
+Bowen Zhang, Xutao Li, Xiaofei Xu, Ka-Cheong Leung, Zhiyao Chen, and Yunming Ye. 2020. Knowledge Guided Capsule Attention Network for Aspect-Based Sentiment Analysis. IEEE/ACM Trans. Audio, Speech and Lang. Proc. 28 (2020), 2538–2551. https://doi.org/10.1109/TASLP.2020.3017093
+
+Chengwu Liao, Chao Chen, Suiming Guo, Zhu Wang, Yaxiao Liu, Ke Xu, and Daqing Zhang. 2022. Wheels Know Why You Travel: Predicting Trip Purpose via a Dual-Attention Graph Embedding Network. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 6, 1, Article 22 (March 2022), 22 pages. https://doi.org/10.1145/3517239
+
+Ning Chen, Tie Qiu, Zilong Lu, and Dapeng Oliver Wu. 2021. An Adaptive Robustness Evolution Algorithm With Self-Competition and its 3D Deployment for Internet of Things. IEEE/ACM Trans. Netw. 30, 1 (Feb. 2022), 368–381. https://doi.org/10.1109/TNET.2021.3113916
+
+Qinnan Zhang, Zehui Xiong, Jianming Zhu, Sheng Gao, and Wanting Yang. 2023. A Privacy-preserving Auction Mechanism for Learning Model as an NFT in Blockchain-Driven Metaverse. ACM Trans. Multimedia Comput. Commun. Appl. Just Accepted (June 2023). https://doi.org/10.1145/3599971
+
+Jonathan Fürst, Mauricio Fadel Argerich, and Bin Cheng. 2023. VersaMatch: Ontology Matching with Weak Supervision. Proc. VLDB Endow. 16, 6 (February 2023), 1305–1318. https://doi.org/10.14778/3583140.3583148
+
+Zhihong Tian, Chaochao Luo, Hui Lu, Shen Su, Yanbin Sun, and Man Zhang. 2020. User and Entity Behavior Analysis under Urban Big Data. ACM/IMS Trans. Data Sci. 1, 3, Article 16 (August 2020), 19 pages. https://doi.org/10.1145/3374749
+
+Wonik Seo, Sanghoon Cha, Yeonjae Kim, Jaehyuk Huh, and Jongse Park. 2021. SLO-Aware Inference Scheduler for Heterogeneous Processors in Edge Platforms. ACM Trans. Archit. Code Optim. 18, 4, Article 43 (December 2021), 26 pages. https://doi.org/10.1145/3460352
+
+Tatiana Babicheva, Matej Cebecauer, Dominique Barth, Wilco Burghout, and Leïla Kloul. 2021. Empty Vehicle Redistribution with Time Windows in Autonomous Taxi Systems. ACM/IMS Trans. Data Sci. 2, 1, Article 5 (February 2021), 22 pages. https://doi.org/10.1145/3416915
+
+Kafeng Wang, Haoyi Xiong, Jiang Bian, Zhanxing Zhu, Qian Gao, Zhishan Guo, Cheng-Zhong Xu, Jun Huan, and Dejing Dou. 2021. Sampling Sparse Representations with Randomized Measurement Langevin Dynamics. ACM Trans. Knowl. Discov. Data 15, 2, Article 21 (April 2021), 21 pages. https://doi.org/10.1145/3427585
+
+Jie Jiang, Riccardo Pozza, Nigel Gilbert, and Klaus Moessner. 2020. MakeSense: An IoT Testbed for Social Research of Indoor Activities. ACM Trans. Internet Things 1, 3, Article 17 (August 2020), 25 pages. https://doi.org/10.1145/3381914
+
+Munish Bhatia, Simranpreet Kaur, and Sandeep K. Sood. 2020. IoT-Inspired Smart Toilet System for Home-Based Urine Infection Prediction. ACM Trans. Comput. Healthcare 1, 3, Article 14 (July 2020), 25 pages. https://doi.org/10.1145/3379506
+
+Yiqun Xie and Shashi Shekhar. 2020. A Unified Framework for Robust and Efficient Hotspot Detection in Smart Cities. ACM/IMS Trans. Data Sci. 1, 3, Article 17 (August 2020), 29 pages. https://doi.org/10.1145/3379562
+
+Md Tahmid Rashid, Na Wei, and Dong Wang. 2023. A survey on social-physical sensing: An emerging sensing paradigm that explores the collective intelligence of humans and machines. Collective Intelligence 2, 2 (April-June 2023). https://doi.org/10.1177/26339137231170825
+
+Sophie Dramé-Maigné, Maryline Laurent, Laurent Castillo, and Hervé Ganem. 2021. Centralized, Distributed, and Everything in between: Reviewing Access Control Solutions for the IoT. ACM Comput. Surv. 54, 7, Article 138 (September 2022), 34 pages. https://doi.org/10.1145/3465170
+
+Tsz Nam Chan, Pak Lon Ip, Leong Hou U, Byron Choi, and Jianliang Xu. 2021. SAFE: a share-and-aggregate bandwidth exploration framework for kernel density visualization. Proc. VLDB Endow. 15, 3 (November 2021), 513–526. https://doi.org/10.14778/3494124.3494135
+
+Sudershan Boovaraghavan, Chen Chen, Anurag Maravi, Mike Czapik, Yang Zhang, Chris Harrison, and Yuvraj Agarwal. 2023. Mites: Design and Deployment of a General-Purpose Sensing Infrastructure for Buildings. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 7, 1, Article 2 (March 2023), 32 pages. https://doi.org/10.1145/3580865
+
+Wei Wang, Jiaying Liu, Tao Tang, Suppawong Tuarob, Feng Xia, Zhiguo Gong, and Irwin King. 2020. Attributed Collaboration Network Embedding for Academic Relationship Mining. ACM Trans. Web 15, 1, Article 4 (February 2021), 20 pages. https://doi.org/10.1145/3409736
+
+Bjarne Pfitzner, Nico Steckhan, and Bert Arnrich. 2021. Federated Learning in a Medical Context: A Systematic Literature Review. ACM Trans. Internet Technol. 21, 2, Article 50 (June 2021), 31 pages. https://doi.org/10.1145/3412357
+
+Christian Berger, Philipp Eichhammer, Hans P. Reiser, Jörg Domaschka, Franz J. Hauck, and Gerhard Habiger. 2021. A Survey on Resilience in the IoT: Taxonomy, Classification, and Discussion of Resilience Mechanisms. ACM Comput. Surv. 54, 7, Article 147 (September 2022), 39 pages. https://doi.org/10.1145/3462513
+
+Mahabub Hasan Mahalat, Suraj Mandal, Anindan Mondal, Bibhash Sen, and Rajat Subhra Chakraborty. 2021. Implementation, Characterization and Application of Path Changing Switch based Arbiter PUF on FPGA as a lightweight Security Primitive for IoT. ACM Trans. Des. Autom. Electron. Syst. 27, 3, Article 26 (May 2022), 26 pages. https://doi.org/10.1145/3491212
+
+Raed Abdel Sater and A. Ben Hamza. 2021. A Federated Learning Approach to Anomaly Detection in Smart Buildings. ACM Trans. Internet Things 2, 4, Article 28 (November 2021), 23 pages. https://doi.org/10.1145/3467981
+
+Utku Günay Acer, Marc van den Broeck, Chulhong Min, Mallesham Dasari, and Fahim Kawsar. 2022. The City as a Personal Assistant: Turning Urban Landmarks into Conversational Agents for Serving Hyper Local Information. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 6, 2, Article 40 (July 2022), 31 pages. https://doi.org/10.1145/3534573
+
+Ratna Mandal, Prasenjit Karmakar, Soumyajit Chatterjee, Debaleen Das Spandan, Shouvit Pradhan, Sujoy Saha, Sandip Chakraborty, and Subrata Nandi. 2023. Exploiting Multi-modal Contextual Sensing for City-bus’s Stay Location Characterization: Towards Sub-60 Seconds Accurate Arrival Time Prediction. ACM Trans. Internet Things 4, 1, Article 1 (February 2023), 24 pages. https://doi.org/10.1145/3549548
+
+Kai Lin, Jiayi Liu, and Guangjie Han. 2022. AI-Based Mean Field Game against Resource-Consuming Attacks in Edge Computing. ACM Trans. Sen. Netw. 18, 4, Article 52 (November 2022), 18 pages. https://doi.org/10.1145/3519303
+
+Ashima Anand and Amit Kumar Singh. 2022. A Comprehensive Study of Deep Learning-based Covert Communication. ACM Trans. Multimedia Comput. Commun. Appl. 18, 2s, Article 118 (June 2022), 19 pages. https://doi.org/10.1145/3508365
+
+Jun Feng, Laurence T. Yang, Yuxiang Zhu, Nicholaus J. Gati, and Yijun Mo. 2021. Blockchain-enabled Tensor-based Conditional Deep Convolutional GAN for Cyber-physical-Social Systems. ACM Trans. Internet Technol. 21, 2, Article 41 (June 2021), 17 pages. https://doi.org/10.1145/3404890
+
+Cosmin Avasalcai, Christos Tsigkanos, and Schahram Dustdar. 2021. Adaptive Management of Volatile Edge Systems at Runtime With Satisfiability. ACM Trans. Internet Technol. 22, 1, Article 26 (February 2022), 21 pages. https://doi.org/10.1145/3470658
+
+Tie Qiu, Lidi Zhang, Ning Chen, Songwei Zhang, Wenyuan Liu, and Dapeng Oliver Wu. 2022. Born This Way: A Self-Organizing Evolution Scheme With Motif for Internet of Things Robustness. IEEE/ACM Trans. Netw. 30, 6 (Dec. 2022), 2644–2657. https://doi.org/10.1109/TNET.2022.3178408
+
+Lucas Mentch and Siyu Zhou. 2022. Getting better from worse: augmented bagging and a cautionary tale of variable importance. J. Mach. Learn. Res. 23, 1, Article 224 (January 2022), 32 pages.
+
+Jinxin Liu, Murat Simsek, Burak Kantarci, Melike Erol-kantarci, Andrew Malton, and Andrew Walenstein. 2022. Risk-aware Fine-grained Access Control in Cyber-physical Contexts. Digital Threats 3, 4, Article 43 (December 2022), 29 pages. https://doi.org/10.1145/3480468
+
+Panagiotis Oikonomou, Anna Karanika, Christos Anagnostopoulos, and Kostas Kolomvatsos. 2021. On the Use of Intelligent Models towards Meeting the Challenges of the Edge Mesh. ACM Comput. Surv. 54, 6, Article 125 (July 2022), 42 pages. https://doi.org/10.1145/3456630
+
+Xi Huang, Simeng Bian, Xin Gao, Weijie Wu, Ziyu Shao, Yang Yang, and John C. S. Lui. 2021. Online VNF Chaining and Predictive Scheduling: Optimality and Trade-Offs. IEEE/ACM Trans. Netw. 29, 4 (Aug. 2021), 1867–1880. https://doi.org/10.1109/TNET.2021.3072423
+
+Xinjiang Lu, Zhiwen Yu, Chuanren Liu, Yanchi Liu, Hui Xiong, and Bin Guo. 2020. Inferring Lifetime Status of Point-of-Interest: A Multitask Multiclass Approach. ACM Trans. Knowl. Discov. Data 14, 1, Article 10 (February 2020), 27 pages. https://doi.org/10.1145/3369799
+
+Yu Yang, Zhihan Fang, Xiaoyang Xie, Fan Zhang, Yunhuai Liu, and Desheng Zhang. 2020. Extending Coverage of Stationary Sensing Systems with Mobile Sensing Systems for Human Mobility Modeling. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 4, 3, Article 100 (September 2020), 21 pages. https://doi.org/10.1145/3411827
+
+Federico Chiariotti, Chiara Pielli, Andrea Zanella, and Michele Zorzi. 2020. A Bike-sharing Optimization Framework Combining Dynamic Rebalancing and User Incentives. ACM Trans. Auton. Adapt. Syst. 14, 3, Article 11 (September 2019), 30 pages. https://doi.org/10.1145/3376923
+
+Ahmed M. Bedewy, Yin Sun, Rahul Singh, and Ness B. Shroff. 2021. Low-Power Status Updates via Sleep-Wake Scheduling. IEEE/ACM Trans. Netw. 29, 5 (Oct. 2021), 2129–2141. https://doi.org/10.1109/TNET.2021.3081102
+
+Asma Belhadi, Youcef Djenouri, Gautam Srivastava, and Jerry Chun-Wei Lin. 2023. Fast and Accurate Framework for Ontology Matching in Web of Things. ACM Trans. Asian Low-Resour. Lang. Inf. Process. 22, 5, Article 147 (May 2023), 19 pages. https://doi.org/10.1145/3578708
+
+Nilanjan Biswas, Goutam Das, and Priyadip Ray. 2022. Buffer-Aware User Selection and Resource Allocation for an Opportunistic Cognitive Radio Network: A Cross-Layer Approach. IEEE/ACM Trans. Netw. 30, 5 (Oct. 2022), 1940–1954. https://doi.org/10.1109/TNET.2022.3159819
+
+Guilherme Korol, Michael Guilherme Jordan, Mateus Beck Rutzig, and Antonio Carlos Schneider Beck. 2021. Synergistically Exploiting CNN Pruning and HLS Versioning for Adaptive Inference on Multi-FPGAs at the Edge. ACM Trans. Embed. Comput. Syst. 20, 5s, Article 59 (October 2021), 26 pages. https://doi.org/10.1145/3476990
+
+Xiaoyang Xie, Zhiqing Hong, Zhou Qin, Zhihan Fang, Yuan Tian, and Desheng Zhang. 2022. TransRisk: Mobility Privacy Risk Prediction based on Transferred Knowledge. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 6, 2, Article 82 (July 2022), 19 pages. https://doi.org/10.1145/3534581
+
+Javier Mendez, Kay Bierzynski, M. P. Cuéllar, and Diego P. Morales. 2022. Edge Intelligence: Concepts, Architectures, Applications, and Future Directions. ACM Trans. Embed. Comput. Syst. 21, 5, Article 48 (September 2022), 41 pages. https://doi.org/10.1145/3486674
+
+Pavlos Athanasios Apostolopoulos, Eirini Eleni Tsiropoulou, and Symeon Papavassiliou. 2020. Risk-Aware Data Offloading in Multi-Server Multi-Access Edge Computing Environment. IEEE/ACM Trans. Netw. 28, 3 (June 2020), 1405–1418. https://doi.org/10.1109/TNET.2020.2983119
+
+Alessandro Ricci, Angelo Croatti, Stefano Mariani, Sara Montagna, and Marco Picone. 2022. Web of Digital Twins. ACM Trans. Internet Technol. 22, 4, Article 101 (November 2022), 30 pages. https://doi.org/10.1145/3507909
+
+Meng-Xiang Wang, Wang-Chien Lee, Tao-Yang Fu, and Ge Yu. 2020. On Representation Learning for Road Networks. ACM Trans. Intell. Syst. Technol. 12, 1, Article 11 (February 2021), 27 pages. https://doi.org/10.1145/3424346
+
+Di Wu, He Xu, Zhongkai Jiang, Weiren Yu, Xuetao Wei, and Jiwu Lu. 2021. EdgeLSTM: Towards Deep and Sequential Edge Computing for IoT Applications. IEEE/ACM Trans. Netw. 29, 4 (Aug. 2021), 1895–1908. https://doi.org/10.1109/TNET.2021.3075468
+
+Elbruz Ozen and Alex Orailoglu. 2021. SNR: Squeezing Numerical Range Defuses Bit Error Vulnerability Surface in Deep Neural Networks. ACM Trans. Embed. Comput. Syst. 20, 5s, Article 76 (October 2021), 25 pages. https://doi.org/10.1145/3477007
+
+Klervie Toczé, Ali J. Fahs, Guillaume Pierre, and Simin Nadjm-Tehrani. 2023. VioLinn: Proximity-aware Edge Placementwith Dynamic and Elastic Resource Provisioning. ACM Trans. Internet Things 4, 1, Article 7 (February 2023), 31 pages. https://doi.org/10.1145/3573125
+
+Huiming Chen, Huandong Wang, Quanming Yao, Yong Li, Depeng Jin, and Qiang Yang. 2023. LoSAC: An Efficient Local Stochastic Average Control Method for Federated Optimization. ACM Trans. Knowl. Discov. Data 17, 4, Article 58 (May 2023), 28 pages. https://doi.org/10.1145/3566128
+
+Asif Iqbal Middya and Sarbani Roy. 2021. Spatial Interpolation Techniques on Participatory Sensing Data. ACM Trans. Spatial Algorithms Syst. 7, 3, Article 13 (September 2021), 32 pages. https://doi.org/10.1145/3457609
+
+Alexandru Nelus and Rainer Martin. 2021. Privacy-Preserving Audio Classification Using Variational Information Feature Extraction. IEEE/ACM Trans. Audio, Speech and Lang. Proc. 29 (2021), 2864–2877. https://doi.org/10.1109/TASLP.2021.3108063
+
+Graham Dove, Shiyu Chen, Daniel Fries, Vanessa Johnson, Charlie Mydlarz, Juan Pablo Bello, and Oded Nov. 2022. From Environmental Monitoring to Mitigation Action: Considerations, Challenges, and Opportunities for HCI. Proc. ACM Hum.-Comput. Interact. 6, CSCW2, Article 368 (November 2022), 31 pages. https://doi.org/10.1145/3555093
+
+Tinghuai Ma, Raeed Al-Sabri, Lejun Zhang, Bockarie Marah, and Najla Al-Nabhan. 2020. The Impact of Weighting Schemes and Stemming Process on Topic Modeling of Arabic Long and Short Texts. ACM Trans. Asian Low-Resour. Lang. Inf. Process. 19, 6, Article 81 (November 2020), 23 pages. https://doi.org/10.1145/3405843
+
+Mahabub Hasan Mahalat, Dipankar Karmakar, Anindan Mondal, and Bibhash Sen. 2021. PUF based Secure and Lightweight Authentication and Key-Sharing Scheme for Wireless Sensor Network. J. Emerg. Technol. Comput. Syst. 18, 1, Article 9 (January 2022), 23 pages. https://doi.org/10.1145/3466682
+
+Xingchang Huang, Tobias Ritschel, Hans-Peter Seidel, Pooran Memari, and Gurprit Singh. 2023. Patternshop: Editing Point Patterns by Image Manipulation. ACM Trans. Graph. 42, 4, Article 53 (August 2023), 14 pages. https://doi.org/10.1145/3592418
+
+Pan Lai, Rui Fan, Xiao Zhang, Wei Zhang, Fang Liu, and Joey Tianyi Zhou. 2021. Utility Optimal Thread Assignment and Resource Allocation in Multi-Server Systems. IEEE/ACM Trans. Netw. 30, 2 (April 2022), 735–748. https://doi.org/10.1109/TNET.2021.3123817
+
+Wenzhe Yang, Sheng Wang, Yuan Sun, and Zhiyong Peng. 2022. Fast dataset search with earth mover's distance. Proc. VLDB Endow. 15, 11 (July 2022), 2517–2529. https://doi.org/10.14778/3551793.3551811
+
+Jiancheng Ye, Ka-Cheong Leung, and Steven H. Low. 2021. Combating Bufferbloat in Multi-Bottleneck Networks: Theory and Algorithms. IEEE/ACM Trans. Netw. 29, 4 (Aug. 2021), 1477–1493. https://doi.org/10.1109/TNET.2021.3066505
+
+Zhou Qin, Fang Cao, Yu Yang, Shuai Wang, Yunhuai Liu, Chang Tan, and Desheng Zhang. 2020. CellPred: A Behavior-aware Scheme for Cellular Data Usage Prediction. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 4, 1, Article 40 (March 2020), 24 pages. https://doi.org/10.1145/3380982
+
+Yukun Yuan, Meiyi Ma, Songyang Han, Desheng Zhang, Fei Miao, John A. Stankovic, and Shan Lin. 2022. DeResolver: A Decentralized Conflict Resolution Framework with Autonomous Negotiation for Smart City Services. ACM Trans. Cyber-Phys. Syst. 6, 4, Article 29 (October 2022), 27 pages. https://doi.org/10.1145/3529096
+
+Vito Kortbeek, Abu Bakar, Stefany Cruz, Kasim Sinan Yildirim, Przemysław Pawełczak, and Josiah Hester. 2020. BFree: Enabling Battery-free Sensor Prototyping with Python. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 4, 4, Article 135 (December 2020), 39 pages. https://doi.org/10.1145/3432191
+
+Ran Xu, Rakesh Kumar, Pengcheng Wang, Peter Bai, Ganga Meghanath, Somali Chaterji, Subrata Mitra, and Saurabh Bagchi. 2021. ApproxNet: Content and Contention-Aware Video Object Classification System for Embedded Clients. ACM Trans. Sen. Netw. 18, 1, Article 11 (February 2022), 27 pages. https://doi.org/10.1145/3463530
+
+Enrico Daga, Luigi Asprino, Rossana Damiano, Marilena Daquino, Belen Diaz Agudo, Aldo Gangemi, Tsvi Kuflik, Antonio Lieto, Mark Maguire, Anna Maria Marras, Delfina Martinez Pandiani, Paul Mulholland, Silvio Peroni, Sofia Pescarin, and Alan Wecker. 2022. Integrating Citizen Experiences in Cultural Heritage Archives: Requirements, State of the Art, and Challenges. J. Comput. Cult. Herit. 15, 1, Article 11 (February 2022), 35 pages. https://doi.org/10.1145/3477599
+
+Rui Zhao, Malcolm Atkinson, Petros Papapanagiotou, Federica Magnoni, and Jacques Fleuriot. 2021. Dr.Aid: Supporting Data-governance Rule Compliance for Decentralized Collaboration in an Automated Way. Proc. ACM Hum.-Comput. Interact. 5, CSCW2, Article 460 (October 2021), 43 pages. https://doi.org/10.1145/3479604
+
+Weitao Xu, Junqing Zhang, Shunqi Huang, Chengwen Luo, and Wei Li. 2021. Key Generation for Internet of Things: A Contemporary Survey. ACM Comput. Surv. 54, 1, Article 14 (January 2022), 37 pages. https://doi.org/10.1145/3429740
+
+Asma Belhadi, Man Zhang, and Andrea Arcuri. 2023. Random Testing and Evolutionary Testing for Fuzzing GraphQL APIs. ACM Trans. Web Just Accepted (August 2023). https://doi.org/10.1145/3609427
+
+Steffen Haesler, Stefka Schmid, Annemike Sophia Vierneisel, and Christian Reuter. 2021. Stronger Together: How Neighborhood Groups Build up a Virtual Network during the COVID-19 Pandemic. Proc. ACM Hum.-Comput. Interact. 5, CSCW2, Article 304 (October 2021), 31 pages. https://doi.org/10.1145/3476045
+
+Lina Gong, Jingxuan Zhang, Mingqiang Wei, Haoxiang Zhang, and Zhiqiu Huang. 2023. What Is the Intended Usage Context of This Model? An Exploratory Study of Pre-Trained Models on Various Model Repositories. ACM Trans. Softw. Eng. Methodol. 32, 3, Article 69 (May 2023), 57 pages. https://doi.org/10.1145/3569934
+

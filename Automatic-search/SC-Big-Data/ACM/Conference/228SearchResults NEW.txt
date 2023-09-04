@@ -1,0 +1,458 @@
+228 Results for: [Full Text: "smart city"] AND [[Full Text: application] OR [Full Text: service]] AND [[Full Text: "urban data analytic"] OR [Full Text: "big data analytic"] OR [Full Text: "machine learning"]] AND [E-Publication Date: (01/01/2010 TO 01/31/2020)]
+
+Gomotsegang Ntehelang, Bassey Isong, Francis Lugayizi, and Nosipho Dladlu. 2020. IoT-based big data analytics issues in healthcare. In Proceedings of the 3rd International Conference on Telecommunications and Communication Engineering (ICTCE '19). Association for Computing Machinery, New York, NY, USA, 16–21. https://doi.org/10.1145/3369555.3369573
+
+Hicham Abbad and Radi Bouchaib. 2017. Towards a big data analytics framework for smart cities. In Proceedings of the Mediterranean Symposium on Smart City Application (SCAMS '17). Association for Computing Machinery, New York, NY, USA, Article 17, 1–5. https://doi.org/10.1145/3175628.3175647
+
+Mama Nsangou Mouchili, Shadi Aljawarneh, and Wette Tchouati. 2018. Smart city data analysis. In Proceedings of the First International Conference on Data Science, E-learning and Information Systems (DATA '18). Association for Computing Machinery, New York, NY, USA, Article 33, 1–6. https://doi.org/10.1145/3279996.3280029
+
+Debopriya Ghosh, Soon Ae Chun, Basit Shafiq, and Nabil R. Adam. 2016. Big Data-based Smart City Platform: Real-Time Crime Analysis. In Proceedings of the 17th International Digital Government Research Conference on Digital Government Research (dg.o '16). Association for Computing Machinery, New York, NY, USA, 58–66. https://doi.org/10.1145/2912160.2912205
+
+Jameela Al-Jaroodi and Nader Mohamed. 2018. Service-oriented architecture for big data analytics in smart cities. In Proceedings of the 18th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid '18). IEEE Press, 633–640. https://doi.org/10.1109/CCGRID.2018.00052
+
+Workneh Yilma Ayele and Gustaf Juell-Skielse. 2017. Social media analytics and internet of things: survey. In Proceedings of the 1st International Conference on Internet of Things and Machine Learning (IML '17). Association for Computing Machinery, New York, NY, USA, Article 53, 1–11. https://doi.org/10.1145/3109761.3158379
+
+Amelie Gyrard, Martin Serrano, Joao Bosco Jares, Soumya Kanti Datta, and Muhammad Intizar Ali. 2017. Sensor-based Linked Open Rules (S-LOR): An Automated Rule Discovery Approach for IoT Applications and its use in Smart Cities. In Proceedings of the 26th International Conference on World Wide Web Companion (WWW '17 Companion). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, CHE, 1153–1159. https://doi.org/10.1145/3041021.3054716
+
+William H. Money and Stephen Cohen. 2019. Leveraging AI and Sensor Fabrics to Evolve Smart City Solution Designs. In Companion Proceedings of The 2019 World Wide Web Conference (WWW '19). Association for Computing Machinery, New York, NY, USA, 117–122. https://doi.org/10.1145/3308560.3317049
+
+Joe Hoffert, Douglas Schmidt, and Aniruddha Gokhale. 2010. Adapting and evaluating distributed real-time and embedded systems in dynamic environments. In Proceedings of the First International Workshop on Data Dissemination for Large Scale Complex Critical Infrastructures (DD4LCCI '10). Association for Computing Machinery, New York, NY, USA, 23–28. https://doi.org/10.1145/1862821.1862825
+
+Morito Matsuoka, Naonori Ueda, Hideyuki Tokuda, Rodger Lea, and Luis Muñoz. 2015. SmartCities'15: international workshop on smart cities: people, technology and data. In Adjunct Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers (UbiComp/ISWC'15 Adjunct). Association for Computing Machinery, New York, NY, USA, 1509–1513. https://doi.org/10.1145/2800835.2816941
+
+The Danh Phan. 2019. Smart Mobility Improvement: Classifying Commuter Satisfaction in Sydney, Australia. In Proceedings of the 3rd International Conference on Machine Learning and Soft Computing (ICMLSC '19). Association for Computing Machinery, New York, NY, USA, 16–20. https://doi.org/10.1145/3310986.3311021
+
+Bo Tang, Zhen Chen, Gerald Hefferman, Tao Wei, Haibo He, and Qing Yang. 2015. A Hierarchical Distributed Fog Computing Architecture for Big Data Analysis in Smart Cities. In Proceedings of the ASE BigData &amp; SocialInformatics 2015 (ASE BD&amp;SI '15). Association for Computing Machinery, New York, NY, USA, Article 28, 1–6. https://doi.org/10.1145/2818869.2818898
+
+Amal Ben Rjab and Sehl Mellouli. 2019. Artificial Intelligence in Smart Cities: Systematic Literature Network Analysis. In Proceedings of the 12th International Conference on Theory and Practice of Electronic Governance (ICEGOV '19). Association for Computing Machinery, New York, NY, USA, 259–269. https://doi.org/10.1145/3326365.3326400
+
+Robert Seeliger, Christopher Krauss, Annette Wilson, Miggi Zwicklbauer, and Stefan Arbanowski. 2015. Towards Personalized Smart City Guide Services in Future Internet Environments. In Proceedings of the 24th International Conference on World Wide Web (WWW '15 Companion). Association for Computing Machinery, New York, NY, USA, 563–568. https://doi.org/10.1145/2740908.2743905
+
+Rahul Pandey and Hemant Purohit. 2018. Generic architecture of a social media-driven intervention support system for smart cities. In Proceedings of the Workshop Program of the 19th International Conference on Distributed Computing and Networking (Workshops ICDCN '18). Association for Computing Machinery, New York, NY, USA, Article 7, 1–6. https://doi.org/10.1145/3170521.3170528
+
+Manish Puri, Xu Du, Aparna S. Varde, and Gerard de Melo. 2018. Mapping Ordinances and Tweets using Smart City Characteristics to Aid Opinion Mining. In Companion Proceedings of the The Web Conference 2018 (WWW '18). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, CHE, 1721–1728. https://doi.org/10.1145/3184558.3191632
+
+F. Fathi, N. Abghour, and M. Ouzzif. 2017. From Big data platforms to smarter solution, with intelligent learning: [PAV] 4 - Pave the way for Intelligence. In Proceedings of the 2017 International Conference on Cloud and Big Data Computing (ICCBDC 2017). Association for Computing Machinery, New York, NY, USA, 11–16. https://doi.org/10.1145/3141128.3141143
+
+Roberto Rodrigues Filho, Marcio Pereira de Sá, Barry Porter, and Fábio M. Costa. 2018. Towards emergent microservices for client-tailored design. In Proceedings of the 19th Workshop on Adaptive and Reflexive Middleware (ARM '18). Association for Computing Machinery, New York, NY, USA, Article 2, 1–6. https://doi.org/10.1145/3289175.3289177
+
+Monir Dahbi, Rachid Saadane, and Samir Mbarki. 2019. Social media sentiment monitoring in smart cities: an application to Moroccan dialects. In Proceedings of the 4th International Conference on Smart City Applications (SCA '19). Association for Computing Machinery, New York, NY, USA, Article 22, 1–6. https://doi.org/10.1145/3368756.3368997
+
+Chian-Hsueng Chao, Chia-Pei Lin, Te-Hsin Peng, Chia-Hsiang Yu, and Yi-Ching Lo. 2018. The Open Data and Voices of Social Communities: Case of Kaohsiung. In Proceedings of the 5th Multidisciplinary International Social Networks Conference (MISNC '18). Association for Computing Machinery, New York, NY, USA, Article 26, 1–8. https://doi.org/10.1145/3227696.3227726
+
+Muhammad Usman, Muhammad Rizwan Asghar, Fabrizio Granelli, and Khalid Qaraqe. 2018. Integrating smart city applications in 5G networks. In Proceedings of the 2nd International Conference on Future Networks and Distributed Systems (ICFNDS '18). Association for Computing Machinery, New York, NY, USA, Article 2, 1–5. https://doi.org/10.1145/3231053.3231055
+
+Lei Zheng, Wai-Min Kwok, Vincenzo Aquaro, and Xinyu Qi. 2019. Digital Government, Smart Cities and Sustainable Development. In Proceedings of the 12th International Conference on Theory and Practice of Electronic Governance (ICEGOV '19). Association for Computing Machinery, New York, NY, USA, 291–301. https://doi.org/10.1145/3326365.3326403
+
+Snehasis Banerjee, Debnath Mukherjee, and Prateep Misra. 2013.  'What affects me?': a smart public alert system based on stream reasoning. In Proceedings of the 7th International Conference on Ubiquitous Information Management and Communication (ICUIMC '13). Association for Computing Machinery, New York, NY, USA, Article 22, 1–10. https://doi.org/10.1145/2448556.2448578
+
+Driss Benhaddou. 2017. Living building: a building block of smart cities. In Proceedings of the 2017 International Conference on Smart Digital Environment (ICSDE '17). Association for Computing Machinery, New York, NY, USA, 182–188. https://doi.org/10.1145/3128128.3128156
+
+Maria Grammatopoulou, Aris Kanellopoulos, and Kyriakos G. Vamvoudakis. 2018. A multi-step and resilient predictive Q-learning algorithm for IoT: a case study in water supply networks. In Proceedings of the 8th International Conference on the Internet of Things (IOT '18). Association for Computing Machinery, New York, NY, USA, Article 18, 1–8. https://doi.org/10.1145/3277593.3277605
+
+Ouidad Akhrif, Younès El bouzekri el idrissi, and Nabil Hmina. 2019. Enabling Smart Collaboration with Smart University Services. In Proceedings of the 3rd International Conference on Computer Science and Application Engineering (CSAE '19). Association for Computing Machinery, New York, NY, USA, Article 42, 1–6. https://doi.org/10.1145/3331453.3361311
+
+Eswaran Subrahmanian, Ramesh Jain, and Ram Sriram. 2017. Towards a platform for community-centric smart connected services. In Proceedings of the 2nd International Workshop on Science of Smart City Operations and Platforms Engineering (SCOPE '17). Association for Computing Machinery, New York, NY, USA, 40–45. https://doi.org/10.1145/3063386.3063769
+
+Stephen Cohen, William Money, and Michele Quick. 2014. Improving Integration and Insight in Smart Cities with Policy and Trust. In Proceedings of the 4th International Conference on Web Intelligence, Mining and Semantics (WIMS14) (WIMS '14). Association for Computing Machinery, New York, NY, USA, Article 57, 1–9. https://doi.org/10.1145/2611040.2611091
+
+Mengfan Tang. 2016. Geospatial Multimedia Data for Situation Recognition. In Proceedings of the 24th ACM international conference on Multimedia (MM '16). Association for Computing Machinery, New York, NY, USA, 1430–1434. https://doi.org/10.1145/2964284.2971472
+
+Rajendra Akerkar, Nick Bassiliades, John Davies, and Vadim Ermolayev. 2014. Research and Applications in Web Intelligence, Mining, and Semantics. In Proceedings of the 4th International Conference on Web Intelligence, Mining and Semantics (WIMS14) (WIMS '14). Association for Computing Machinery, New York, NY, USA, Article 0, 1–6. https://doi.org/10.1145/2611040.2611045
+
+Supadchaya Puangpontip and Rattikorn Hewett. 2020. Assessing Reliability of Big Data Stream for Smart City. In Proceedings of the 3rd International Conference on Big Data Research (ICBDR '19). Association for Computing Machinery, New York, NY, USA, 18–23. https://doi.org/10.1145/3372454.3372478
+
+Mohamed Yacine Gheraibia and Charles Gouin-Vallerand. 2019. Intelligent Mobile-Based Recommender System Framework for Smart Freight Transport. In Proceedings of the 5th EAI International Conference on Smart Objects and Technologies for Social Good (GoodTechs '19). Association for Computing Machinery, New York, NY, USA, 219–222. https://doi.org/10.1145/3342428.3342697
+
+Hector Dominguez, Judith Mowry, Elisabeth Perez, Christine Kendrick, and Kevin Martin. 2019. Privacy and information protection for a new generation of city services. In Proceedings of the 2nd ACM/EIGSCC Symposium on Smart Cities and Communities (SCC '19). Association for Computing Machinery, New York, NY, USA, Article 5, 1–6. https://doi.org/10.1145/3357492.3358628
+
+Lara-Britt Zomer, Elhabib Moustaid, and Sebastiaan Meijer. 2015. A meta-model for including social behavior and data into smart city management simulations. In Proceedings of the 2015 Winter Simulation Conference (WSC '15). IEEE Press, 1705–1716.
+
+Nastaran Hajiheydari, Mojtaba Talafidaryani, and SeyedHossein Khabiri. 2019. IoT Big Data Value Map: How to Generate Value from IoT Data. In Proceedings of the 5th International Conference on e-Society, e-Learning and e-Technologies (ICSLT '19). Association for Computing Machinery, New York, NY, USA, 98–103. https://doi.org/10.1145/3312714.3312728
+
+Peter Wlodarczak, Mustafa Ally, and Jeffrey Soar. 2017. Data mining in IoT: data analysis for a new paradigm on the internet. In Proceedings of the International Conference on Web Intelligence (WI '17). Association for Computing Machinery, New York, NY, USA, 1100–1103. https://doi.org/10.1145/3106426.3115866
+
+Lama Zakzak. 2019. Citizen-centric Smart City Development: The Case of Smart Dubai's “Happiness Agenda” In Proceedings of the 20th Annual International Conference on Digital Government Research (dg.o 2019). Association for Computing Machinery, New York, NY, USA, 141–147. https://doi.org/10.1145/3325112.3325236
+
+Dhrubojyoti Roy, Sangeeta Srivastava, Aditya Kusupati, Pranshu Jain, Manik Varma, and Anish Arora. 2019. One Size Does Not Fit All: Multi-Scale, Cascaded RNNs for Radar Classification. In Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '19). Association for Computing Machinery, New York, NY, USA, 1–10. https://doi.org/10.1145/3360322.3360860
+
+Ye Wen, Xiaokang Yang, and Yi Xu. 2010. Cloud-computing-based framework for multi-camera topology inference in smart city sensing system. In Proceedings of the 2010 ACM multimedia workshop on Mobile cloud media computing (MCMC '10). Association for Computing Machinery, New York, NY, USA, 65–70. https://doi.org/10.1145/1877953.1877971
+
+T T Dhivyaprabha, M Manjutha, and P Subashini. 2017. Survey on nature inspired algorithm for smart city applications. In Proceedings of the Mediterranean Symposium on Smart City Application (SCAMS '17). Association for Computing Machinery, New York, NY, USA, Article 22, 1–13. https://doi.org/10.1145/3175628.3175642
+
+Kurian Karyakulam Sajan, Gowri Sankar Ramachandran, and Bhaskar Krishnamachari. 2019. Enhancing Support for Machine Learning and Edge Computing on an IoT Data Marketplace. In Proceedings of the First International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT'19). Association for Computing Machinery, New York, NY, USA, 19–24. https://doi.org/10.1145/3363347.3363364
+
+Sumathi Balakrishnan, Hemalata Vasudavan, and Raja Kumar Murugesan. 2018. Smart Home Technologies: A Preliminary Review. In Proceedings of the 6th International Conference on Information Technology: IoT and Smart City (ICIT '18). Association for Computing Machinery, New York, NY, USA, 120–127. https://doi.org/10.1145/3301551.3301575
+
+Sheng Zhang, Shenglin Zhao, Mingxuan Yuan, Jia Zeng, Jianguo Yao, Michael R. Lyu, and Irwin King. 2017. Traffic Prediction Based Power Saving in Cellular Networks: A Machine Learning Method. In Proceedings of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL '17). Association for Computing Machinery, New York, NY, USA, Article 29, 1–10. https://doi.org/10.1145/3139958.3140053
+
+Zilong Zhao, Hogeun Yoo, Jounggi Jo, Seongryong Hong, Sunghyun Ryu, and Sanghyun Choi. 2015. The Research Trends and Comparing about the Big Data between Korea and China Using Text Mining. In Proceedings of the 2015 International Conference on Big Data Applications and Services (BigDAS '15). Association for Computing Machinery, New York, NY, USA, 121–127. https://doi.org/10.1145/2837060.2837078
+
+Ouidad Akhrif, Chaymae Benfares, Younès El bouzekri el idrissi, and Nabil Hmina. 2019. Collaborative learning services in the smart university environment. In Proceedings of the 4th International Conference on Smart City Applications (SCA '19). Association for Computing Machinery, New York, NY, USA, Article 42, 1–6. https://doi.org/10.1145/3368756.3369020
+
+Nihal El Khalidi, Faouzia Benabbou, Nawal Sael, and Khadija Sabiri. 2018. Toward Distributed Smart Parking Management System. In Proceedings of the 12th International Conference on Intelligent Systems: Theories and Applications (SITA'18). Association for Computing Machinery, New York, NY, USA, Article 9, 1–5. https://doi.org/10.1145/3289402.3289509
+
+Gerson V. A. Neto, Johnattan D. F. Viana, Reinaldo B. Braga, and Carina T. Oliveira. 2018. Surfaces categorization based on data collected by bike sensors. In Proceedings of the Euro American Conference on Telematics and Information Systems (EATIS '18). Association for Computing Machinery, New York, NY, USA, Article 32, 1–7. https://doi.org/10.1145/3293614.3293625
+
+Robert Roppestad, Per-Gunnar Fyhn, and Ricardo Colomo-Palacios. 2014. A test bed for smart energy education in the field of computer engineering. In Proceedings of the Second International Conference on Technological Ecosystems for Enhancing Multiculturality (TEEM '14). Association for Computing Machinery, New York, NY, USA, 101–105. https://doi.org/10.1145/2669711.2669886
+
+Federica Cena and Assunta Matassa. 2015. Adopting a user modeling approach to quantify the city. In Adjunct Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers (UbiComp/ISWC'15 Adjunct). Association for Computing Machinery, New York, NY, USA, 1027–1032. https://doi.org/10.1145/2800835.2800955
+
+Hamza Hanafi, Badr Dine Rossi Hassani, and M'hamed Aït Kbir. 2019. Biological networks analysis, analytical approaches and use case on protein-protein network interactions. In Proceedings of the 4th International Conference on Smart City Applications (SCA '19). Association for Computing Machinery, New York, NY, USA, Article 21, 1–5. https://doi.org/10.1145/3368756.3368996
+
+Hamza Hanafi, Fadoua Rafii, Badr Dine Rossi Hassani, and M'hamed Aït Kbir. 2018. A graph based model for multiple biological data sources integration. In Proceedings of the 3rd International Conference on Smart City Applications (SCA '18). Association for Computing Machinery, New York, NY, USA, Article 49, 1–5. https://doi.org/10.1145/3286606.3286826
+
+Yan Liu, Zhenhui Li, Wei Ai, and Lingyu Zhang. 2018. SIGIR 2018 Workshop on Intelligent Transportation Informatics. In The 41st International ACM SIGIR Conference on Research &amp; Development in Information Retrieval (SIGIR '18). Association for Computing Machinery, New York, NY, USA, 1441–1443. https://doi.org/10.1145/3209978.3210201
+
+Nisha Pahal, Anupama Mallik, and Santanu Chaudhury. 2018. An Ontology-based Context-aware IoT Framework for Smart Surveillance. In Proceedings of the 3rd International Conference on Smart City Applications (SCA '18). Association for Computing Machinery, New York, NY, USA, Article 69, 1–7. https://doi.org/10.1145/3286606.3286846
+
+Jin Nakazawa. 2016. Solving City Problems with Sensorized Everything A Case Study in Fujisawa. In Adjunct Proceedings of the 13th International Conference on Mobile and Ubiquitous Systems: Computing Networking and Services (MOBIQUITOUS 2016). Association for Computing Machinery, New York, NY, USA, 29–34. https://doi.org/10.1145/3004010.3004011
+
+Shehenaz Shaik and Sanjeev Baskiyar. 2018. Hierarchical and Autonomous Fog Architecture. In Workshop Proceedings of the 47th International Conference on Parallel Processing (ICPP Workshops '18). Association for Computing Machinery, New York, NY, USA, Article 18, 1–8. https://doi.org/10.1145/3229710.3229740
+
+Dali Ismail, Mahbubur Rahman, and Abusayeed Saifullah. 2018. Low-power wide-area networks: opportunities, challenges, and directions. In Proceedings of the Workshop Program of the 19th International Conference on Distributed Computing and Networking (Workshops ICDCN '18). Association for Computing Machinery, New York, NY, USA, Article 8, 1–6. https://doi.org/10.1145/3170521.3170529
+
+Swarnava Dey, Arijit Mukherjee, Arpan Pal, and P. Balamuralidhar. 2018. Partitioning of CNN Models for Execution on Fog Devices. In Proceedings of the 1st ACM International Workshop on Smart Cities and Fog Computing (CitiFog'18). Association for Computing Machinery, New York, NY, USA, 19–24. https://doi.org/10.1145/3277893.3277899
+
+Filippo Malandra, Steven Rochefort, Pascal Potvin, and Brunilde Sansò. 2017. A case study for M2M traffic characterization in a smart city environment. In Proceedings of the 1st International Conference on Internet of Things and Machine Learning (IML '17). Association for Computing Machinery, New York, NY, USA, Article 48, 1–9. https://doi.org/10.1145/3109761.3109809
+
+Nicolas Tempelmeier, Yannick Rietz, Iryna Lishchuk, Tina Kruegel, Olaf Mumm, Vanessa Miriam Carlow, Stefan Dietze, and Elena Demidova. 2019. Data4UrbanMobility: Towards Holistic Data Analytics for Mobility Applications in Urban Regions. In Companion Proceedings of The 2019 World Wide Web Conference (WWW '19). Association for Computing Machinery, New York, NY, USA, 137–145. https://doi.org/10.1145/3308560.3317055
+
+Carl DiSalvo and Tom Jenkins. 2017. Fruit Are Heavy: A Prototype Public IoT System to Support Urban Foraging. In Proceedings of the 2017 Conference on Designing Interactive Systems (DIS '17). Association for Computing Machinery, New York, NY, USA, 541–553. https://doi.org/10.1145/3064663.3064748
+
+Daniel Kuemper, Thorben Iggena, Ralf Toenjes, and Elke Pulvermueller. 2018. Valid.IoT: a framework for sensor data quality analysis and interpolation. In Proceedings of the 9th ACM Multimedia Systems Conference (MMSys '18). Association for Computing Machinery, New York, NY, USA, 294–303. https://doi.org/10.1145/3204949.3204972
+
+Benjamin Guthier, Rajwa Alharthi, Rana Abaalkhail, and Abdulmotaleb El Saddik. 2014. Detection and Visualization of Emotions in an Affect-Aware City. In Proceedings of the 1st International Workshop on Emerging Multimedia Applications and Services for Smart Cities (EMASC '14). Association for Computing Machinery, New York, NY, USA, 23–28. https://doi.org/10.1145/2661704.2661708
+
+Bipin C. Desai. 2015. Technological Singularities. In Proceedings of the 19th International Database Engineering &amp; Applications Symposium (IDEAS '15). Association for Computing Machinery, New York, NY, USA, 10–22. https://doi.org/10.1145/2790755.2790769
+
+Mama Nsangou Mouchili, John William Atwood, and Shadi Aljawarneh. 2019. Call data record based big data analytics for smart cities. In Proceedings of the Second International Conference on Data Science, E-Learning and Information Systems (DATA '19). Association for Computing Machinery, New York, NY, USA, Article 22, 1–7. https://doi.org/10.1145/3368691.3368713
+
+Amin Ghafouri, Aron Laszka, Abhishek Dubey, and Xenofon Koutsoukos. 2017. Optimal detection of faulty traffic sensors used in route planning. In Proceedings of the 2nd International Workshop on Science of Smart City Operations and Platforms Engineering (SCOPE '17). Association for Computing Machinery, New York, NY, USA, 1–6. https://doi.org/10.1145/3063386.3063767
+
+Fatna Elmendili, Anas Moustir, and Younes El Bouzekri El Idrissi. 2018. Privacy preserving on social networks: new Policies and approaches. In Proceedings of the 3rd International Conference on Smart City Applications (SCA '18). Association for Computing Machinery, New York, NY, USA, Article 45, 1–9. https://doi.org/10.1145/3286606.3286822
+
+Ramine Tinati, Aastha Madaan, and Wendy Hall. 2017. The Role of Crowdsourcing in the Emerging Internet-Of-Things. In Proceedings of the 26th International Conference on World Wide Web Companion (WWW '17 Companion). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, CHE, 1669–1672. https://doi.org/10.1145/3041021.3051693
+
+Frank Gouineau, Tom Landry, and Thomas Triplet. 2016. PatchWork, a scalable density-grid clustering algorithm. In Proceedings of the 31st Annual ACM Symposium on Applied Computing (SAC '16). Association for Computing Machinery, New York, NY, USA, 824–831. https://doi.org/10.1145/2851613.2851643
+
+Massimiliano Dal Mas. 2013. Intelligent interactive multimedia system: layered ontological video contexts in a folksonomy driven environment. In Proceedings of the 3rd International Conference on Web Intelligence, Mining and Semantics (WIMS '13). Association for Computing Machinery, New York, NY, USA, Article 42, 1–9. https://doi.org/10.1145/2479787.2479829
+
+Sara Diamond, Mark Fox, Megan Katsumi, Ajaz Hussain, Jeremy Bowes, Marcus Gordon, Baher Abdulhai, Amad Aqra, Amer Shalaby, Ehab Diab, Matt Roorda, Dena Kasraian, David Kossowsky, Esri Canada, Michael Luubert, Brent Hall, Judy Farvolen, Elyse Parker, and Jesse Coleman. 2018. ICity: big data and visualization urban transportation strategies. In Proceedings of the 28th Annual International Conference on Computer Science and Software Engineering (CASCON '18). IBM Corp., USA, 401–402.
+
+Ofelia Cervantes, Francisco Gutiérrez, Ernesto Gutiérrez, Esteban Castillo, J. Alfredo Sánchez, and Wanggen Wan. 2015. Expression: Visualizing Affective Content from Social Streams. In Proceedings of the Latin American Conference on Human Computer Interaction (CLIHC '15). Association for Computing Machinery, New York, NY, USA, Article 10, 1–8. https://doi.org/10.1145/2824893.2824903
+
+Alexander Ronzhyn, Vera Spitzer, and Maria Wimmer. 2019. Scenario Technique to Elicit Research and Training Needs in Digital Government Employing Disruptive Technologies. In Proceedings of the 20th Annual International Conference on Digital Government Research (dg.o 2019). Association for Computing Machinery, New York, NY, USA, 41–47. https://doi.org/10.1145/3325112.3325231
+
+Evagelia Anagnostopoulou, Babis Magoutas, Efthimios Bothos, and Gregoris Mentzas. 2019. Persuasive Technologies for Sustainable Smart Cities: The Case of Urban Mobility. In Companion Proceedings of The 2019 World Wide Web Conference (WWW '19). Association for Computing Machinery, New York, NY, USA, 73–82. https://doi.org/10.1145/3308560.3317058
+
+Chia-Chi Teng and Barry Lunt. 2018. IoT-enabled Capstone. In Proceedings of the 19th Annual SIG Conference on Information Technology Education (SIGITE '18). Association for Computing Machinery, New York, NY, USA, 104–109. https://doi.org/10.1145/3241815.3241856
+
+Isha Pradhan, Katerina Potika, Magdalini Eirinaki, and Petros Potikas. 2019. Exploratory data analysis and crime prediction for smart cities. In Proceedings of the 23rd International Database Applications &amp; Engineering Symposium (IDEAS '19). Association for Computing Machinery, New York, NY, USA, Article 4, 1–9. https://doi.org/10.1145/3331076.3331114
+
+F. Fathi, N. Abghour, and M. Ouzzif. 2018. From Big Data to Better Behavior in Self-Driving Cars. In Proceedings of the 2018 2nd International Conference on Cloud and Big Data Computing (ICCBDC'18). Association for Computing Machinery, New York, NY, USA, 42–46. https://doi.org/10.1145/3264560.3264572
+
+Stefan Daniel Dumitrescu, Stefan Trausan-Matu, Mihaela Brut, and Florence Sedes. 2013. Ontology-based flexible topic classification of crowdsourcing textual resources. In Proceedings of the Fifth International Conference on Management of Emergent Digital EcoSystems (MEDES '13). Association for Computing Machinery, New York, NY, USA, 145–151. https://doi.org/10.1145/2536146.2536172
+
+Shu Su, Hui Yan, and Ning Ding. 2018. Machine Learning-Based Charging Network Operation Service Platform Reservation Charging Service System. In Proceedings of the 2018 International Conference on Signal Processing and Machine Learning (SPML '18). Association for Computing Machinery, New York, NY, USA, 1–5. https://doi.org/10.1145/3297067.3297078
+
+Ravil I. Muhamedyev, Maksat N. Kalimoldaev, and Raisa K. Uskenbayeva. 2014. Semantic network of ICT domains and applications. In Proceedings of the 2014 Conference on Electronic Governance and Open Society: Challenges in Eurasia (EGOSE '14). Association for Computing Machinery, New York, NY, USA, 178–186. https://doi.org/10.1145/2729104.2729112
+
+Sven Wohlgemuth. 2014. Is Privacy Supportive for Adaptive ICT Systems? In Proceedings of the 16th International Conference on Information Integration and Web-based Applications &amp; Services (iiWAS '14). Association for Computing Machinery, New York, NY, USA, 559–570. https://doi.org/10.1145/2684200.2684363
+
+C. Mloza-Banda and B. Scholtz. 2018. Crowdsensing for successful water resource monitoring: an analysis of citizens' intentions and motivations. In Proceedings of the Annual Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT '18). Association for Computing Machinery, New York, NY, USA, 55–64. https://doi.org/10.1145/3278681.3278688
+
+John Soldatos, Moez Draief, Craig Macdonald, and Iadh Ounis. 2012. Multimedia search over integrated social and sensor networks. In Proceedings of the 21st International Conference on World Wide Web (WWW '12 Companion). Association for Computing Machinery, New York, NY, USA, 283–286. https://doi.org/10.1145/2187980.2188029
+
+Kimheng Sok, Jean Noël Colin, and Kimtho Po. 2018. Blockchain and Internet of Things Opportunities and Challenges. In Proceedings of the 9th International Symposium on Information and Communication Technology (SoICT '18). Association for Computing Machinery, New York, NY, USA, 150–154. https://doi.org/10.1145/3287921.3287933
+
+Minh-Tri Ho, Trong-Tung Nguyen, Hieu Dao, and Minh-Triet Tran. 2019. Visual Assistant for Crowdsourced Anomaly Event Recognition in Smart City. In Proceedings of the 10th International Symposium on Information and Communication Technology (SoICT '19). Association for Computing Machinery, New York, NY, USA, 494–501. https://doi.org/10.1145/3368926.3369734
+
+Kun Yu, Peng Xu, Shuaifei Song, Huabin Feng, Shiyang Qiu, and Hengchang Liu. 2019. Location Traceability of Social Media Analysis in Urban Complex. In Proceedings of the 2019 2nd International Conference on Data Science and Information Technology (DSIT 2019). Association for Computing Machinery, New York, NY, USA, 210–218. https://doi.org/10.1145/3352411.3352444
+
+Mohammed Saleh, Thair Khdour, and Mahmoud Qasaymeh. 2019. Analysis of AMI, Smart Metering Deployment and Big Data Management Challenges. In Proceedings of the 3rd International Conference on Big Data and Internet of Things (BDIOT 2019). Association for Computing Machinery, New York, NY, USA, 3–7. https://doi.org/10.1145/3361758.3361759
+
+Dadmehr Rahbari, Mohsen Nickray, and Gholamreza Heydari. 2018. A Two-Stage Technique for Quick and Low Power Offloading in IoT. In Proceedings of the international conference on smart cities and internet of things (SCIOT '18). Association for Computing Machinery, New York, NY, USA, Article 4, 1–8. https://doi.org/10.1145/3269961.3269972
+
+Zineb Nassr, Nawal Sael, and Faouzia Benabbou. 2019. A comparative study of sentiment analysis approaches. In Proceedings of the 4th International Conference on Smart City Applications (SCA '19). Association for Computing Machinery, New York, NY, USA, Article 91, 1–8. https://doi.org/10.1145/3368756.3369078
+
+Deepti Goel, Santanu Chaudhury, and Hiranmay Ghosh. 2017. An IoT approach for context-aware smart traffic management using ontology. In Proceedings of the International Conference on Web Intelligence (WI '17). Association for Computing Machinery, New York, NY, USA, 42–49. https://doi.org/10.1145/3106426.3106499
+
+Yibo Wang, Wei Xu, Yiqun Zhang, Yu Qin, Wenping Zhang, and Xue Wu. 2017. Machine Learning Methods for Driving Risk Prediction. In Proceedings of the 3rd ACM SIGSPATIAL Workshop on Emergency Management using (EM-GIS'17). Association for Computing Machinery, New York, NY, USA, Article 10, 1–6. https://doi.org/10.1145/3152465.3152476
+
+Ben van Berkel, Filippo Lodi, and Wael Sami Batal. 2018. Responsive Technologies of Social Health. In Proceedings of the 4th Media Architecture Biennale Conference (MAB18). Association for Computing Machinery, New York, NY, USA, 45–54. https://doi.org/10.1145/3284389.3284489
+
+Tongnan Xia, Mengyao Shu, Hongtao Fan, Lei Ma, and Yaojie Sun. 2020. The Development and Trend of ECG Diagnosis Assisted by Artificial Intelligence. In Proceedings of the 2019 2nd International Conference on Signal Processing and Machine Learning (SPML '19). Association for Computing Machinery, New York, NY, USA, 103–107. https://doi.org/10.1145/3372806.3372807
+
+Tarek M. Ahmed, Farhana H. Zulkernine, and James R. Cordy. 2016. Proactive auto-scaling of resources for stream processing engines in the cloud. In Proceedings of the 26th Annual International Conference on Computer Science and Software Engineering (CASCON '16). IBM Corp., USA, 226–231.
+
+Rongye Shi, Peter Steenkiste, and Manuela Veloso. 2017. Second-Order Destination Inference using Semi-Supervised Self-Training for Entry-Only Passenger Data. In Proceedings of the Fourth IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT '17). Association for Computing Machinery, New York, NY, USA, 255–264. https://doi.org/10.1145/3148055.3148069
+
+Mauricio Barcelos, Flávia Bernardini, André Barcelos, and Guido Vaz Silva. 2017. City Ranking Based on Financial Flux Indicator Clustering. In Proceedings of the 18th Annual International Conference on Digital Government Research (dg.o '17). Association for Computing Machinery, New York, NY, USA, 452–460. https://doi.org/10.1145/3085228.3085288
+
+Mourad Azhari, Altaf Alaoui, Zakia Achraoui, Badia Ettaki, and Jamal Zerouaoui. 2019. Adaptation of the random forest method: solving the problem of pulsar search. In Proceedings of the 4th International Conference on Smart City Applications (SCA '19). Association for Computing Machinery, New York, NY, USA, Article 28, 1–6. https://doi.org/10.1145/3368756.3369004
+
+Kathy Jang, Eugene Vinitsky, Behdad Chalaki, Ben Remer, Logan Beaver, Andreas A. Malikopoulos, and Alexandre Bayen. 2019. Simulation to scaled city: zero-shot policy transfer for traffic control via autonomous vehicles. In Proceedings of the 10th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS '19). Association for Computing Machinery, New York, NY, USA, 291–300. https://doi.org/10.1145/3302509.3313784
+
+Madisson Whitman, Chien-yi Hsiang, and Kendall Roark. 2018. Potential for participatory big data ethics and algorithm design: a scoping mapping review. In Proceedings of the 15th Participatory Design Conference: Short Papers, Situated Actions, Workshops and Tutorial - Volume 2 (PDC '18). Association for Computing Machinery, New York, NY, USA, Article 5, 1–6. https://doi.org/10.1145/3210604.3210644
+
+Sachin Bhardwaj, Keon Myung Lee, and Jee-Hyong Lee. 2019. An adaptive framework for applying machine learning in smart spaces. In Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing (SAC '19). Association for Computing Machinery, New York, NY, USA, 1263–1270. https://doi.org/10.1145/3297280.3297405
+
+Selena He, Aiju Zhang, and Mingyuan Yan. 2019. Voice and Motion-based Control System: Proof-of-Concept Implementation on Robotics via Internet-of-Things Technologies. In Proceedings of the 2019 ACM Southeast Conference (ACM SE '19). Association for Computing Machinery, New York, NY, USA, 102–108. https://doi.org/10.1145/3299815.3314440
+
+Surin Ahn, Maria Gorlatova, Parinaz Naghizadeh, and Mung Chiang. 2019. Personalized augmented reality via fog-based imitation learning. In Proceedings of the Workshop on Fog Computing and the IoT (IoT-Fog '19). Association for Computing Machinery, New York, NY, USA, 11–15. https://doi.org/10.1145/3313150.3313219
+
+Aveek K. Das, Parth H. Pathak, Josiah Jee, Chen-Nee Chuah, and Prasant Mohapatra. 2017. Non-Intrusive Multi-Modal Estimation of Building Occupancy. In Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems (SenSys '17). Association for Computing Machinery, New York, NY, USA, Article 14, 1–14. https://doi.org/10.1145/3131672.3131680
+
+Wenmian Yang, Weijia Jia, Wenyuan Gao, Xiaojie Zhou, and Yutao Luo. 2019. Interactive Variance Attention based Online Spoiler Detection for Time-Sync Comments. In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM '19). Association for Computing Machinery, New York, NY, USA, 1241–1250. https://doi.org/10.1145/3357384.3357872
+
+Tengyue Li, Simon Fong, and Lili Yang. 2018. Counting Passengers in Public Buses by Sensing Carbon Dioxide Concentration: Data Collection and Machine Learning. In Proceedings of the 2018 2nd International Conference on Big Data and Internet of Things (BDIOT 2018). Association for Computing Machinery, New York, NY, USA, 43–48. https://doi.org/10.1145/3289430.3289461
+
+Philipp Eichmann, Franco Solleza, Nesime Tatbul, and Stan Zdonik. 2019. Visual Exploration of Time Series Anomalies with Metro-Viz. In Proceedings of the 2019 International Conference on Management of Data (SIGMOD '19). Association for Computing Machinery, New York, NY, USA, 1901–1904. https://doi.org/10.1145/3299869.3320247
+
+Meng Wu, Xiangqian Ding, and Ruichun Hou. 2019. Design and Implementation of B2B E-commerce Platform Based on Microservices Architecture. In Proceedings of the 2nd International Conference on Computer Science and Software Engineering (CSSE '19). Association for Computing Machinery, New York, NY, USA, 30–34. https://doi.org/10.1145/3339363.3339369
+
+Constantine E. Kontokosta. 2017. Urban informatics for social good: definitions, tensions, and challenges. In Proceedings of the 2nd International Workshop on Science of Smart City Operations and Platforms Engineering (SCOPE '17). Association for Computing Machinery, New York, NY, USA, 52–56. https://doi.org/10.1145/3063386.3064888
+
+Ayan Mukhopadhyay. 2018. Incident Prediction and Response Optimization. In Proceedings of the 17th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS '18). International Foundation for Autonomous Agents and Multiagent Systems, Richland, SC, 1758–1760.
+
+Ariyam Das, Sahil M. Gandhi, and Carlo Zaniolo. 2018. ASTRO: A Datalog System for Advanced Stream Reasoning. In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM '18). Association for Computing Machinery, New York, NY, USA, 1863–1866. https://doi.org/10.1145/3269206.3269223
+
+Xiaodong Ning, Lina Yao, Xianzhi Wang, Boualem Benatallah, Flora Salim, and Pari Delir Haghighi. 2018. Predicting Citywide Passenger Demand via Reinforcement Learning from Spatio-Temporal Dynamics. In Proceedings of the 15th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous '18). Association for Computing Machinery, New York, NY, USA, 19–28. https://doi.org/10.1145/3286978.3286991
+
+Enrico Daga, Mathieu d'Aquin, and Enrico Motta. 2017. Propagating Data Policies: a User Study. In Proceedings of the Knowledge Capture Conference (K-CAP 2017). Association for Computing Machinery, New York, NY, USA, Article 3, 1–8. https://doi.org/10.1145/3148011.3148022
+
+Jeremiah Roland, Peter Way, and Mina Sartipi. 2019. Studying the effects of weather and roadway geometrics on daily accident occurrence using a multilayer perceptron model. In Proceedings of the Fourth Workshop on International Science of Smart City Operations and Platforms Engineering (SCOPE '19). Association for Computing Machinery, New York, NY, USA, 49–53. https://doi.org/10.1145/3313237.3313304
+
+Ben Abdel Ouahab Ikram, Boudhir Anouar Abdelhakim, Astito Abdelali, Bassam Zafar, and Bouhorma Mohammed. 2019. Deep Learning architecture for temperature forecasting in an IoT LoRa based system. In Proceedings of the 2nd International Conference on Networking, Information Systems &amp; Security (NISS19). Association for Computing Machinery, New York, NY, USA, Article 43, 1–6. https://doi.org/10.1145/3320326.3320375
+
+Santi Phithakkitnukoon, Teerayut Horanont, Sourav Bhattacharya, and Yoshihide Sekimoto. 2017. PURBA 2017: the 6th workshop on pervasive urban applications. In Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (UbiComp '17). Association for Computing Machinery, New York, NY, USA, 376–379. https://doi.org/10.1145/3123024.3124453
+
+D. W. Russell. 2017. Faults and flaws in the internet of things in manufacturing systems in small to medium enterprises: Panel discussion. In Proceedings of the 1st International Conference on Internet of Things and Machine Learning (IML '17). Association for Computing Machinery, New York, NY, USA, Article 17, 1–4. https://doi.org/10.1145/3109761.3109778
+
+Mateus S. H. Cruz, Toshiyuki Amagasa, Chiemi Watanabe, Wenjie Lu, and Hiroyuki Kitagawa. 2017. Secure similarity joins using fully homomorphic encryption. In Proceedings of the 19th International Conference on Information Integration and Web-based Applications &amp; Services (iiWAS '17). Association for Computing Machinery, New York, NY, USA, 224–233. https://doi.org/10.1145/3151759.3151788
+
+Eloutouate Lamiae, Elouaai Fatiha, Bouhorma Mohammed, and Gibet Tani Hicham. 2019. A study on smart home for medical surveillance: contribution to smart healthcare paradigm. In Proceedings of the 4th International Conference on Smart City Applications (SCA '19). Association for Computing Machinery, New York, NY, USA, Article 18, 1–6. https://doi.org/10.1145/3368756.3368994
+
+Steve Mann, Diego Defaz, John Xu, and Daryl Chua. 2019. Making Sensors Tangible with Long-exposure Photography. In The 5th ACM Workshop on Wearable Systems and Applications (WearSys '19). Association for Computing Machinery, New York, NY, USA, 65–70. https://doi.org/10.1145/3325424.3329668
+
+Hongzhi Wang, Hong Gao, Shenjun Yin, and Jie Zhu. 2017. The design of course architecture for big data. In Proceedings of the ACM Turing 50th Celebration Conference - China (ACM TURC '17). Association for Computing Machinery, New York, NY, USA, Article 13, 1–6. https://doi.org/10.1145/3063955.3063968
+
+Xiaoli Zhao, Shaofu Lin, and Zhisheng Huang. 2018. Text Classification of Micro-blog's "Tree Hole" Based on Convolutional Neural Network. In Proceedings of the 2018 International Conference on Algorithms, Computing and Artificial Intelligence (ACAI '18). Association for Computing Machinery, New York, NY, USA, Article 61, 1–5. https://doi.org/10.1145/3302425.3302501
+
+David Camacho, Maria D. R-Moreno, and Rajendra Akerkar. 2013. Challenges and issues of web intelligence research. In Proceedings of the 3rd International Conference on Web Intelligence, Mining and Semantics (WIMS '13). Association for Computing Machinery, New York, NY, USA, Article 0, 1–4. https://doi.org/10.1145/2479787.2479868
+
+Arvind Narayanan, Saurabh Verma, and Zhi-Li Zhang. 2016. Mining Spatial-Temporal geoMobile Data via Feature Distributional Similarity Graph. In Proceedings of the First Workshop on Mobile Data (MobiData '16). Association for Computing Machinery, New York, NY, USA, 13–18. https://doi.org/10.1145/2935755.2935760
+
+Amon Rapp, Federica Cena, Judy Kay, Bob Kummerfeld, Frank Hopfgartner, Till Plumbaum, Jakob Eg Larsen, Daniel A. Epstein, and Rúben Gouveia. 2017. New frontiers of quantified self 3: exploring understudied categories of users. In Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (UbiComp '17). Association for Computing Machinery, New York, NY, USA, 861–864. https://doi.org/10.1145/3123024.3124456
+
+Meng-xiang Wang, Wang-Chien Lee, Tao-yang Fu, and Ge Yu. 2019. Learning Embeddings of Intersections on Road Networks. In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL '19). Association for Computing Machinery, New York, NY, USA, 309–318. https://doi.org/10.1145/3347146.3359075
+
+Dinesh Verma, Seraphin Calo, and Greg Cirincione. 2018. Distributed AI and security issues in federated environments. In Proceedings of the Workshop Program of the 19th International Conference on Distributed Computing and Networking (Workshops ICDCN '18). Association for Computing Machinery, New York, NY, USA, Article 4, 1–6. https://doi.org/10.1145/3170521.3170525
+
+Yuichi Nakamura, Hideyuki Shimonishi, Kozo Satoda, Dai Kanetomo, Yuki Kobayashi, and Yashuhiro Matsunaga. 2017. Novel heterogeneous computing platforms and 5G communications for IoT applications. In Proceedings of the 36th International Conference on Computer-Aided Design (ICCAD '17). IEEE Press, 874–879.
+
+Dessislava Petrova-Antonova, Iva Krasteva, Sylvia Ilieva, and Irena Pavlova. 2019. Conceptual Architecture of GATE Big Data Platform. In Proceedings of the 20th International Conference on Computer Systems and Technologies (CompSysTech '19). Association for Computing Machinery, New York, NY, USA, 261–268. https://doi.org/10.1145/3345252.3345282
+
+Nawsher Khan, Arshi Naim, Mohammad Rashid Hussain, Quadri Noorulhasan Naveed, Naim Ahmad, and Shamimul Qamar. 2019. The 51 V's Of Big Data: Survey, Technologies, Characteristics, Opportunities, Issues and Challenges. In Proceedings of the International Conference on Omni-Layer Intelligent Systems (COINS '19). Association for Computing Machinery, New York, NY, USA, 19–24. https://doi.org/10.1145/3312614.3312623
+
+Michael Moski and Pradeep K. Atrey. 2014. An Intuitive Touch Screen Interface for Car Remote Control. In Proceedings of the 1st International Workshop on Emerging Multimedia Applications and Services for Smart Cities (EMASC '14). Association for Computing Machinery, New York, NY, USA, 35–40. https://doi.org/10.1145/2661704.2661710
+
+Xiaochen Fan, Chaocan Xiang, Liangyi Gong, Xiangjian He, Chao Chen, and Xiang Huang. 2019. UrbanEdge: deep learning empowered edge computing for urban IoT time series prediction. In Proceedings of the ACM Turing Celebration Conference - China (ACM TURC '19). Association for Computing Machinery, New York, NY, USA, Article 12, 1–6. https://doi.org/10.1145/3321408.3323089
+
+Andrei Ionita, André Pomp, Michael Cochez, Tobias Meisen, and Stefan Decker. 2018. Where to Park? Predicting Free Parking Spots in Unmonitored City Areas. In Proceedings of the 8th International Conference on Web Intelligence, Mining and Semantics (WIMS '18). Association for Computing Machinery, New York, NY, USA, Article 22, 1–12. https://doi.org/10.1145/3227609.3227648
+
+Tianhang Luo, Wanggen Wan, Yue Gao, Yuepeng Zhao, and Yumei Li. 2019. A Novel Fire Rescue System with Fog Computing. In Proceedings of the 2019 4th International Conference on Cloud Computing and Internet of Things (CCIOT '19). Association for Computing Machinery, New York, NY, USA, 90–96. https://doi.org/10.1145/3361821.3361832
+
+Yibo Wang, Xuyan Pan, Wenping Zhang, and Wei Xu. 2018. FRESH: A Multi-Dimensional Factors Method for PAYD with Deep Ensemble Learning. In Proceedings of the 4th ACM SIGSPATIAL International Workshop on Safety and Resilience (Safety and Resilience'18). Association for Computing Machinery, New York, NY, USA, Article 14, 1–6. https://doi.org/10.1145/3284103.3284120
+
+Mikio Obuchi, Wataru Sasaki, Tadashi Okoshi, Jin Nakazawa, and Hideyuki Tokuda. 2016. Investigating interruptibility at activity breakpoints using smartphone activity recognition API. In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct (UbiComp '16). Association for Computing Machinery, New York, NY, USA, 1602–1607. https://doi.org/10.1145/2968219.2968556
+
+Charles Gouin-Vallerand and J. Alberto-Montero De La Cruz. 2013. Analysis of a context-aware recommender system model for smart urban environment. In Proceedings of International Conference on Advances in Mobile Computing &amp; Multimedia (MoMM '13). Association for Computing Machinery, New York, NY, USA, 13–17. https://doi.org/10.1145/2536853.2536931
+
+Guihuang Jiang and Chenguang Li. 2019. A Scientometric Review of Research Evolution in Digital Forensics. In Proceedings of the 3rd International Conference on Computer Science and Application Engineering (CSAE '19). Association for Computing Machinery, New York, NY, USA, Article 117, 1–11. https://doi.org/10.1145/3331453.3362055
+
+Soumi Chattopadhyay and Ansuman Banerjee. 2015. Algorithmic strategies for sensing-as-a-service in the internet-of-things era. In Proceedings of the 8th International Conference on Utility and Cloud Computing (UCC '15). IEEE Press, 387–390.
+
+Shanu Kumar, Shubham Atreja, Anjali Singh, and Mohit Jain. 2019. Adversarial Adaptation of Scene Graph Models for Understanding Civic Issues. In The World Wide Web Conference (WWW '19). Association for Computing Machinery, New York, NY, USA, 2943–2949. https://doi.org/10.1145/3308558.3313681
+
+Duha Shubair, Imtiaz Ahmed, and Maytham Safar. 2018. A survey on IoT contribution in smart goods ordering cycle: Amazon buttons. In Proceedings of the 2nd International Conference on Future Networks and Distributed Systems (ICFNDS '18). Association for Computing Machinery, New York, NY, USA, Article 14, 1–8. https://doi.org/10.1145/3231053.3231067
+
+Hossein Chegini and Aniket Mahanti. 2019. A Framework of Automation on Context-Aware Internet of Things (IoT) Systems. In Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing Companion (UCC '19 Companion). Association for Computing Machinery, New York, NY, USA, 157–162. https://doi.org/10.1145/3368235.3368848
+
+Hassane Essafi and Patrick Hède. 2017. FRAMSTIM: framework for large scale multimedia content feature extraction based on MPI one-sided communication. In Proceedings of the Second International Conference on Internet of things, Data and Cloud Computing (ICC '17). Association for Computing Machinery, New York, NY, USA, Article 41, 1–6. https://doi.org/10.1145/3018896.3018936
+
+Aly Metwaly, Jorge Peña Queralta, Victor Kathan Sarker, Tuan Nguyen Gia, Omar Nasir, and Tomi Westerlund. 2020. Edge Computing with Embedded AI: Thermal Image Analysis for Occupancy Estimation in Intelligent Buildings. In Proceedings of the INTelligent Embedded Systems Architectures and Applications Workshop 2019 (INTESA2019). Association for Computing Machinery, New York, NY, USA, 1–6. https://doi.org/10.1145/3372394.3372397
+
+Niaz Chowdhury. 2019. An IoT and blockchain-based approach for ensuring transparency and accountability in regulatory compliance. In Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers (UbiComp/ISWC '19 Adjunct). Association for Computing Machinery, New York, NY, USA, 957–962. https://doi.org/10.1145/3341162.3349320
+
+Yuan Fang, Yan Yan, Hanzi Wang, Si Chen, and Xinbo Gao. 2016. Adaptive Metric Learning with the Low Rank Constraint. In Proceedings of the International Conference on Internet Multimedia Computing and Service (ICIMCS'16). Association for Computing Machinery, New York, NY, USA, 61–65. https://doi.org/10.1145/3007669.3007672
+
+Amin Anjomshoaa, Simone Mora, Philip Schmitt, and Carlo Ratti. 2018. Challenges of Drive-By IoT Sensing for Smart Cities: City Scanner Case Study. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (UbiComp '18). Association for Computing Machinery, New York, NY, USA, 1112–1120. https://doi.org/10.1145/3267305.3274167
+
+Ralf Klischewski. 2019. Will the Government Machine Turn into a Monster? In Proceedings of the 20th Annual International Conference on Digital Government Research (dg.o 2019). Association for Computing Machinery, New York, NY, USA, 306–313. https://doi.org/10.1145/3325112.3325221
+
+Kobkiat Saraubon, Nuttapisit Kongsanit, and Nattapol Santawesuk. 2018. IoT &amp; Mobile-based System for Business: Quick Service Restaurant. In Proceedings of the 2018 2nd International Conference on Software and e-Business (ICSEB '18). Association for Computing Machinery, New York, NY, USA, 54–58. https://doi.org/10.1145/3301761.3301768
+
+Sohail jabbar, Kaleem Razzaq Malik, and Mudassar Ahmad. 2018. Real-time RDF adaptation model for smart human-care querying in IoT based mobile applications. In Proceedings of the 2nd International Conference on Future Networks and Distributed Systems (ICFNDS '18). Association for Computing Machinery, New York, NY, USA, Article 61, 1–5. https://doi.org/10.1145/3231053.3231128
+
+Albert Fleischmann and Christian Stary. 2019. Dependable data sharing in dynamic IoT-systems: subject-oriented process design, complex event processing, and blockchains. In Proceedings of the 11th International Conference on Subject-Oriented Business Process Management (S-BPM ONE '19). Association for Computing Machinery, New York, NY, USA, Article 1, 1–11. https://doi.org/10.1145/3329007.3329009
+
+Jörg Bremer and Sebastian Lehnhoff. 2020. Encrypted Decentralized Optimization for Data Masking in Energy Scheduling. In Proceedings of the 3rd International Conference on Big Data Research (ICBDR '19). Association for Computing Machinery, New York, NY, USA, 103–109. https://doi.org/10.1145/3372454.3372487
+
+Christian Berger, Birgit Penzenstadler, and Olaf Drögehorn. 2018. On using blockchains for safety-critical systems. In Proceedings of the 4th International Workshop on Software Engineering for Smart Cyber-Physical Systems (SEsCPS '18). Association for Computing Machinery, New York, NY, USA, 30–36. https://doi.org/10.1145/3196478.3196480
+
+Alexandros Kostopoulos, Ioannis Chochliouros, Ioanna Papafili, and Andreas Drakos. 2017. Enhancing Privacy Using Crowdsourcing Mechanisms. In Proceedings of the 21st Pan-Hellenic Conference on Informatics (PCI '17). Association for Computing Machinery, New York, NY, USA, Article 28, 1–5. https://doi.org/10.1145/3139367.3139405
+
+Shugo Kajita, Tatsuya Amano, Hirozumi Yamaguchi, Teruo Higashino, and Mineo Takai. 2016. Wi-Fi Channel Selection Based on Urban Interference Measurement. In Proceedings of the 13th International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MOBIQUITOUS 2016). Association for Computing Machinery, New York, NY, USA, 143–150. https://doi.org/10.1145/2994374.2994402
+
+Tran Nghi Phu, Le Huy Hoang, Nguyen Ngoc Toan, Nguyen Dai Tho, and Nguyen Ngoc Binh. 2019. CFDVex: A Novel Feature Extraction Method for Detecting Cross-Architecture IoT Malware. In Proceedings of the 10th International Symposium on Information and Communication Technology (SoICT '19). Association for Computing Machinery, New York, NY, USA, 248–254. https://doi.org/10.1145/3368926.3369702
+
+Abdelkhalek Hadrani, Karim Guennoun, Rachid Saadane, and Mohammed Wahbi. 2019. Comparative study of decision rule induction approaches involving rough sets for meningitis categories' discrimination. In Proceedings of the 4th International Conference on Smart City Applications (SCA '19). Association for Computing Machinery, New York, NY, USA, Article 80, 1–8. https://doi.org/10.1145/3368756.3369066
+
+Yuanyuan Bao and Wai Chen. 2019. RC2: Resource-efficient Collaborative Cognition Method for Internet-of-Things Devices. In Proceedings of the First International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT'19). Association for Computing Machinery, New York, NY, USA, 43–48. https://doi.org/10.1145/3363347.3363359
+
+Allach Samir, Ben Ahmed Mohamed, and Boudhir Anouar Abdelhakim. 2017. Detection of driver drowsiness based on the Viola &amp; Jones method and logistic regression analysis. In Proceedings of the Mediterranean Symposium on Smart City Application (SCAMS '17). Association for Computing Machinery, New York, NY, USA, Article 23, 1–6. https://doi.org/10.1145/3175628.3175650
+
+Paul Harvey, Konstantin Bakanov, Ivor Spence, and Dimitrios S. Nikolopoulos. 2016. A Scalable Runtime for the ECOSCALE Heterogeneous Exascale Hardware Platform. In Proceedings of the 6th International Workshop on Runtime and Operating Systems for Supercomputers (ROSS '16). Association for Computing Machinery, New York, NY, USA, Article 7, 1–8. https://doi.org/10.1145/2931088.2931090
+
+Yuxuan Liang, Kun Ouyang, Lin Jing, Sijie Ruan, Ye Liu, Junbo Zhang, David S. Rosenblum, and Yu Zheng. 2019. UrbanFM: Inferring Fine-Grained Urban Flows. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining (KDD '19). Association for Computing Machinery, New York, NY, USA, 3132–3142. https://doi.org/10.1145/3292500.3330646
+
+Snehasis Banerjee and Mariswamy Girish Chandra. 2019. A software framework for procedural knowledge based collaborative data analytics for IoT. In Proceedings of the 1st International Workshop on Software Engineering Research &amp; Practices for the Internet of Things (SERP4IoT '19). IEEE Press, 41–48. https://doi.org/10.1109/SERP4IoT.2019.00014
+
+Liangkai Liu, Xingzhou Zhang, Qingyang Zhang, Andrew Weinert, Yifan Wang, and Weisong Shi. 2019. AutoVAPS: an IoT-enabled public safety service on vehicles. In Proceedings of the Fourth Workshop on International Science of Smart City Operations and Platforms Engineering (SCOPE '19). Association for Computing Machinery, New York, NY, USA, 41–47. https://doi.org/10.1145/3313237.3313303
+
+Jay Danner, Linda Wills, Elbert M. Ruiz, and Lee W. Lerner. 2016. Rapid Precedent-Aware Pedestrian and Car Classification on Constrained IoT Platforms. In Proceedings of the 14th ACM/IEEE Symposium on Embedded Systems for Real-Time Multimedia (ESTIMedia'16). Association for Computing Machinery, New York, NY, USA, 29–36. https://doi.org/10.1145/2993452.2993562
+
+Roberta De Michele and Marco Furini. 2019. IoT Healthcare: Benefits, Issues and Challenges. In Proceedings of the 5th EAI International Conference on Smart Objects and Technologies for Social Good (GoodTechs '19). Association for Computing Machinery, New York, NY, USA, 160–164. https://doi.org/10.1145/3342428.3342693
+
+Pruthvish Rajput, Manish Chaturvedi, and Pankesh Patel. 2019. Advanced urban public transportation system for Indian scenarios. In Proceedings of the 20th International Conference on Distributed Computing and Networking (ICDCN '19). Association for Computing Machinery, New York, NY, USA, 327–336. https://doi.org/10.1145/3288599.3288624
+
+Yanjie Liang, Qiangqiang Wu, Yi Liu, Yan Yan, and Hanzi Wang. 2018. Robust Correlation Filter Tracking with Shepherded Instance-Aware Proposals. In Proceedings of the 26th ACM international conference on Multimedia (MM '18). Association for Computing Machinery, New York, NY, USA, 420–428. https://doi.org/10.1145/3240508.3240709
+
+Huaxiu Yao, Yiding Liu, Ying Wei, Xianfeng Tang, and Zhenhui Li. 2019. Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction. In The World Wide Web Conference (WWW '19). Association for Computing Machinery, New York, NY, USA, 2181–2191. https://doi.org/10.1145/3308558.3313577
+
+Ana Gabrielle Ramos Falcão, Cláudio de Souza Baptista, Maxwell Guimarães de Oliveira, Júlio Henrique Rocha, Tiago Henrique da Silva Leite, and José Eustáquio Rangel de Queiroz. 2018. Towards a reputation model applied to geosocial networks: a case study on crowd4city. In Proceedings of the 33rd Annual ACM Symposium on Applied Computing (SAC '18). Association for Computing Machinery, New York, NY, USA, 1756–1763. https://doi.org/10.1145/3167132.3167319
+
+Phuc Thinh Do and Ngoc Quoc Ly. 2018. A New Framework For Crowded Scene Counting Based On Weighted Sum Of Regressors and Human Classifier. In Proceedings of the 9th International Symposium on Information and Communication Technology (SoICT '18). Association for Computing Machinery, New York, NY, USA, 313–320. https://doi.org/10.1145/3287921.3287980
+
+César Batista, Pedro Victor Silva, Everton Cavalcante, Thais Batista, Tiago Barros, Claudio Takahashi, Thiago Cardoso, João Alexandre Neto, and Ramon Ribeiro. 2018. A Middleware Environment for Developing Internet of Things Applications. In Proceedings of the 5th Workshop on Middleware and Applications for the Internet of Things (M4IoT'18). Association for Computing Machinery, New York, NY, USA, 41–46. https://doi.org/10.1145/3286719.3286728
+
+Cristina Silvano, Gianluca Palermo, Giovanni Agosta, Amir H. Ashouri, Davide Gadioli, Stefano Cherubin, Emanuele Vitali, Luca Benini, Andrea Bartolini, Daniele Cesarini, Joao Cardoso, Joao Bispo, Pedro Pinto, Riccardo Nobre, Erven Rohou, Loïc Besnard, Imane Lasri, Nico Sanna, Carlo Cavazzoni, Radim Cmar, Jan Martinovič, Kateřina Slaninová, Martin Golasowski, Andrea R. Beccari, and Candida Manelfi. 2018. Autotuning and adaptivity in energy efficient HPC systems: the ANTAREX toolbox. In Proceedings of the 15th ACM International Conference on Computing Frontiers (CF '18). Association for Computing Machinery, New York, NY, USA, 270–275. https://doi.org/10.1145/3203217.3205338
+
+Haiba Somaya and Mazri Tomadar. 2019. Secure communication in E-health care system monitoring. In Proceedings of the 4th International Conference on Smart City Applications (SCA '19). Association for Computing Machinery, New York, NY, USA, Article 14, 1–9. https://doi.org/10.1145/3368756.3368980
+
+Christoph Doblander, Arash Khatayee, and Hans-Arno Jacobsen. 2018. PreDict: Predictive Dictionary Maintenance for Message Compression in Publish/Subscribe. In Proceedings of the 19th International Middleware Conference (Middleware '18). Association for Computing Machinery, New York, NY, USA, 174–186. https://doi.org/10.1145/3274808.3274822
+
+Emmanouil Alimpertis, Athina Markopoulou, Carter Butts, and Konstantinos Psounis. 2019. City-Wide Signal Strength Maps: Prediction with Random Forests. In The World Wide Web Conference (WWW '19). Association for Computing Machinery, New York, NY, USA, 2536–2542. https://doi.org/10.1145/3308558.3313726
+
+Youngjun Cho, Nadia Bianchi-Berthouze, Nicolai Marquardt, and Simon J. Julier. 2018. Deep Thermal Imaging: Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). Association for Computing Machinery, New York, NY, USA, Paper 2, 1–13. https://doi.org/10.1145/3173574.3173576
+
+Gérôme Bovet, Gautier Briard, and Jean Hennebert. 2014. A Scalable Cloud Storage for Sensor Networks. In Proceedings of the 5th International Workshop on Web of Things (WoT '14). Association for Computing Machinery, New York, NY, USA, 22–27. https://doi.org/10.1145/2684432.2684437
+
+Alessandro Di Stefano, Marialisa Scatà, Aurelio La Corte, Sajal K. Das, and Pietro Liò. 2019. Improving QoE in Multi-layer Social Sensing: A Cognitive Architecture and Game Theoretic Model. In Proceedings of the Fourth International Workshop on Social Sensing (SocialSense'19). Association for Computing Machinery, New York, NY, USA, 18–23. https://doi.org/10.1145/3313294.3313384
+
+Mathieu d'Aquin, Pinelopi Troullinou, Noel E. O'Connor, Aindrias Cullen, Gráinne Faller, and Louise Holden. 2018. Towards an "Ethics by Design" Methodology for AI Research Projects. In Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society (AIES '18). Association for Computing Machinery, New York, NY, USA, 54–59. https://doi.org/10.1145/3278721.3278765
+
+Dapeng Lan, Amir Taherkordi, Frank Eliassen, and Geir Horn. 2019. A Survey on Fog Programming: Concepts, State-of-the-Art, and Research Challenges. In Proceedings of the 2nd International Workshop on Distributed Fog Services Design (DFSD '19). Association for Computing Machinery, New York, NY, USA, 1–6. https://doi.org/10.1145/3366613.3368120
+
+Bin Xiao. 2017. Self-evolvable knowledge-enhanced IoT data mobility for smart environment. In Proceedings of the 1st International Conference on Internet of Things and Machine Learning (IML '17). Association for Computing Machinery, New York, NY, USA, Article 28, 1–14. https://doi.org/10.1145/3109761.3109789
+
+Eric Lin, Jinhyung D. Park, and Andreas Züfle. 2017. Real-Time Bayesian Micro-Analysis for Metro Traffic Prediction. In Proceedings of the 3rd ACM SIGSPATIAL Workshop on Smart Cities and Urban Analytics (UrbanGIS'17). Association for Computing Machinery, New York, NY, USA, Article 12, 1–4. https://doi.org/10.1145/3152178.3152190
+
+Piyush Yadav, Umair ul Hassan, Souleiman Hasan, and Edward Curry. 2017. The Event Crowd: A Novel Approach for Crowd-Enabled Event Processing. In Proceedings of the 11th ACM International Conference on Distributed and Event-based Systems (DEBS '17). Association for Computing Machinery, New York, NY, USA, 44–53. https://doi.org/10.1145/3093742.3093922
+
+Chenyuan He, Yan Wan, and Junfei Xie. 2019. Spatiotemporal scenario data-driven decision for the path planning of multiple UASs. In Proceedings of the Fourth Workshop on International Science of Smart City Operations and Platforms Engineering (SCOPE '19). Association for Computing Machinery, New York, NY, USA, 7–12. https://doi.org/10.1145/3313237.3313297
+
+Nicolas Gutowski, Tassadit Amghar, Olivier Camp, and Fabien Chhel. 2019. Global versus individual accuracy in contextual multi-armed bandit. In Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing (SAC '19). Association for Computing Machinery, New York, NY, USA, 1647–1654. https://doi.org/10.1145/3297280.3297440
+
+Christos Tsigkanos, Laura Nenzi, Michele Loreti, Martin Garriga, Schahram Dustdar, and Carlo Ghezzi. 2019. Inferring analyzable models from trajectories of spatially-distributed internet of things. In Proceedings of the 14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS '19). IEEE Press, 100–106. https://doi.org/10.1109/SEAMS.2019.00021
+
+Elisa Yumi Nakagawa, Ana Allian, Brauner Oliveira, Bruno Sena, Carlos Paes, Cristiane Lana, Daniel Feitosa, Daniel Santos, Dênis Zaniro, Diógenes Dias, Flávio Horita, Frank José Affonso, Gabriel Abdalla, Isabella Vicente, Leonardo Duarte, Katia Felizardo, Lina Garcés, Lucas Oliveira, Marcelo Gonçalves, Maria Gabriela Morais, Milena Guessi, Nilson Silva, Thiago Bianchi, Tiago Volpato, Valdemar V. Graciano Neto, Vinicius Zani, and Wallace Manzano. 2017. Software architecture and reference architecture of software-intensive systems and systems-of-systems: contributions to the state of the art. In Proceedings of the 11th European Conference on Software Architecture: Companion Proceedings (ECSA '17). Association for Computing Machinery, New York, NY, USA, 4–11. https://doi.org/10.1145/3129790.3129822
+
+Yu-Hsuan Kuo, Zhenhui Li, and Daniel Kifer. 2018. Detecting Outliers in Data with Correlated Measures. In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM '18). Association for Computing Machinery, New York, NY, USA, 287–296. https://doi.org/10.1145/3269206.3271798
+
+Asif Qumer Gill, Vahid Behbood, Rania Ramadan-Jradi, and Ghassan Beydoun. 2017. IoT architectural concerns: a systematic review. In Proceedings of the Second International Conference on Internet of things, Data and Cloud Computing (ICC '17). Association for Computing Machinery, New York, NY, USA, Article 117, 1–9. https://doi.org/10.1145/3018896.3025166
+
+Raffaele Montella, Diana Di Luccio, Livia Marcellino, Ardelio Galletti, Sokol Kosta, Alison Brizius, and Ian Foster. 2017. Processing of crowd-sourced data from an internet of floating things. In Proceedings of the 12th Workshop on Workflows in Support of Large-Scale Science (WORKS '17). Association for Computing Machinery, New York, NY, USA, Article 8, 1–11. https://doi.org/10.1145/3150994.3150997
+
+Ajay Pratap, Federico Concone, Venkata Sriram Siddhardh Nadendla, and Sajal K. Das. 2019. Three-Dimensional Matching based Resource Provisioning for the Design of Low-Latency Heterogeneous IoT Networks. In Proceedings of the 22nd International ACM Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWIM '19). Association for Computing Machinery, New York, NY, USA, 79–86. https://doi.org/10.1145/3345768.3355906
+
+Qingzhi Ma and Peter Triantafillou. 2019. DBEst: Revisiting Approximate Query Processing Engines with Machine Learning Models. In Proceedings of the 2019 International Conference on Management of Data (SIGMOD '19). Association for Computing Machinery, New York, NY, USA, 1553–1570. https://doi.org/10.1145/3299869.3324958
+
+Christine Kendrick, Devin Wilde, Kevin Martin, and Linda George. 2019. Developing Best Practices for Air Quality Sensor Deployments Through Testing. In Proceedings of the 2nd ACM/EIGSCC Symposium on Smart Cities and Communities (SCC '19). Association for Computing Machinery, New York, NY, USA, Article 3, 1–9. https://doi.org/10.1145/3357492.3358626
+
+Phan The Duy, Do Thi Thu Hien, Do Hoang Hien, and Van-Hau Pham. 2018. A survey on opportunities and challenges of Blockchain technology adoption for revolutionary innovation. In Proceedings of the 9th International Symposium on Information and Communication Technology (SoICT '18). Association for Computing Machinery, New York, NY, USA, 200–207. https://doi.org/10.1145/3287921.3287978
+
+Caleb Robinson, John Crittenden, Zhongming Lu, and Richard Fujimoto. 2018. Toward a common object model for integrated transportation and land use models. In Proceedings of the Annual Simulation Symposium (ANSS '18). Society for Computer Simulation International, San Diego, CA, USA, Article 5, 1–12.
+
+Barry Burd, Lecia Barker, Monica Divitini, Felix Armando Fermin Perez, Ingrid Russell, Bill Siever, and Liviana Tudor. 2018. Courses, Content, and Tools for Internet of Things in Computer Science Education. In Proceedings of the 2017 ITiCSE Conference on Working Group Reports (ITiCSE-WGR '17). Association for Computing Machinery, New York, NY, USA, 125–139. https://doi.org/10.1145/3174781.3174788
+
+Partha Maji, Daniel Bates, Alex Chadwick, and Robert Mullins. 2017. ADaPT: optimizing CNN inference on IoT and mobile devices using approximately separable 1-D kernels. In Proceedings of the 1st International Conference on Internet of Things and Machine Learning (IML '17). Association for Computing Machinery, New York, NY, USA, Article 43, 1–12. https://doi.org/10.1145/3109761.3109804
+
+James Pierce and Carl DiSalvo. 2018. Addressing Network Anxieties with Alternative Design Metaphors. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). Association for Computing Machinery, New York, NY, USA, Paper 549, 1–13. https://doi.org/10.1145/3173574.3174123
+
+Valerie Issarny, Vivien Mallet, Kinh Nguyen, Pierre-Guillaume Raverdy, Fadwa Rebhi, and Raphael Ventura. 2016. Dos and Don'ts in Mobile Phone Sensing Middleware: Learning from a Large-Scale Experiment. In Proceedings of the 17th International Middleware Conference (Middleware '16). Association for Computing Machinery, New York, NY, USA, Article 17, 1–13. https://doi.org/10.1145/2988336.2988353
+
+Xinjiang Lu, Zhiwen Yu, Leilei Sun, Chuanren Liu, Hui Xiong, and Chu Guan. 2016. Characterizing the life cycle of point of interests using human mobility patterns. In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '16). Association for Computing Machinery, New York, NY, USA, 1052–1063. https://doi.org/10.1145/2971648.2971749
+
+Sohini Roy, Abhijit Sharma, and Uma Bhattacharya. 2015. MoveFree: A ubiquitous system to provide women safety. In Proceedings of the Third International Symposium on Women in Computing and Informatics (WCI '15). Association for Computing Machinery, New York, NY, USA, 545–552. https://doi.org/10.1145/2791405.2791415
+
+Yun Zhou, Bertrand David, and René Chalon. 2012. PlayAllAround: Wearable One-hand Gesture Input and Scalable Projected Interfaces. In Proceedings of the 2012 Conference on Ergonomie et Interaction homme-machine (Ergo'IHM '12). Association for Computing Machinery, New York, NY, USA, 105–112. https://doi.org/10.1145/2652574.2653418
+
+Barry Burd, Lecia Barker, Félix Armando Fermín Pérez, Ingrid Russell, Bill Siever, Liviana Tudor, Michael McCarthy, and Ian Pollock. 2018. The internet of things in undergraduate computer and information science education: exploring curricula and pedagogy. In Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018 Companion). Association for Computing Machinery, New York, NY, USA, 200–216. https://doi.org/10.1145/3293881.3295784
+
+Joshua Tan, Christine Kendrick, Abhishek Dubey, and Sokwoo Rhee. 2017. Indicator frameworks. In Proceedings of the 2nd International Workshop on Science of Smart City Operations and Platforms Engineering (SCOPE '17). Association for Computing Machinery, New York, NY, USA, 19–25. https://doi.org/10.1145/3063386.3063762
+
+Vivek R. Shivaprabhu, Booma Sowkarthiga Balasubramani, and Isabel F. Cruz. 2017. Ontology-based Instance Matching for Geospatial Urban Data Integration. In Proceedings of the 3rd ACM SIGSPATIAL Workshop on Smart Cities and Urban Analytics (UrbanGIS'17). Association for Computing Machinery, New York, NY, USA, Article 8, 1–8. https://doi.org/10.1145/3152178.3152186
+
+Poonam Yadav, Qi Li, Richard Mortier, and Anthony Brown. 2019. Network service dependencies in commodity internet-of-things devices. In Proceedings of the International Conference on Internet of Things Design and Implementation (IoTDI '19). Association for Computing Machinery, New York, NY, USA, 202–212. https://doi.org/10.1145/3302505.3310082
+
+Chao Huang and Dong Wang. 2016. Exploiting spatial-temporal-social constraints for localness inference using online social media. In Proceedings of the 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM '16). IEEE Press, 287–294.
+
+Yingxiao Xu, Long Pan, Chun Du, Jun Li, Ning Jing, and Jiangjiang Wu. 2018. Vision-based UAVs Aerial Image Localization: A Survey. In Proceedings of the 2nd ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery (GeoAI'18). Association for Computing Machinery, New York, NY, USA, 9–18. https://doi.org/10.1145/3281548.3281556
+
+Amol Dumrewal, Anwesh Basu, Shubham Atreja, Prateeti Mohapatra, Pooja Aggarwal, and Gargi B. Dasgupta. 2018. Citicafe: conversation-based intelligent platform for citizen engagement. In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data (CODS-COMAD '18). Association for Computing Machinery, New York, NY, USA, 180–189. https://doi.org/10.1145/3152494.3152511
+
+Jonathan Liono, Zahraa S. Abdallah, A. K. Qin, and Flora D. Salim. 2018. Inferring Transportation Mode and Human Activity from Mobile Sensing in Daily Life. In Proceedings of the 15th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous '18). Association for Computing Machinery, New York, NY, USA, 342–351. https://doi.org/10.1145/3286978.3287006
+
+Xiang Su, Ekaterina Gilman, Peter Wetz, Jukka Riekki, Yifei Zuo, and Teemu Leppänen. 2016. Stream Reasoning for the Internet of Things: Challenges and Gap Analysis. In Proceedings of the 6th International Conference on Web Intelligence, Mining and Semantics (WIMS '16). Association for Computing Machinery, New York, NY, USA, Article 1, 1–10. https://doi.org/10.1145/2912845.2912853
+
+Brenda Leong and Evan Selinger. 2019. Robot Eyes Wide Shut: Understanding Dishonest Anthropomorphism. In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT* '19). Association for Computing Machinery, New York, NY, USA, 299–308. https://doi.org/10.1145/3287560.3287591
+
+Raphael Kim, Siobhan Thomas, Roland van Dierendonck, and Stefan Poslad. 2018. A new mould rush: designing for a slow bio-digital game driven by living micro-organisms. In Proceedings of the 13th International Conference on the Foundations of Digital Games (FDG '18). Association for Computing Machinery, New York, NY, USA, Article 10, 1–9. https://doi.org/10.1145/3235765.3235798
+
+James Pierce. 2019. Smart Home Security Cameras and Shifting Lines of Creepiness: A Design-Led Inquiry. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). Association for Computing Machinery, New York, NY, USA, Paper 45, 1–14. https://doi.org/10.1145/3290605.3300275
+
+Alberto Compagno, Mauro Conti, and Ralph Droms. 2016. OnboardICNg: a Secure Protocol for On-boarding IoT Devices in ICN. In Proceedings of the 3rd ACM Conference on Information-Centric Networking (ACM-ICN '16). Association for Computing Machinery, New York, NY, USA, 166–175. https://doi.org/10.1145/2984356.2984374
+
+Ziqian Chen, Shiqi Wang, Dapeng Oliver Wu, Tiejun Huang, and Ling-Yu Duan. 2018. From Data to Knowledge: Deep Learning Model Compression, Transmission and Communication. In Proceedings of the 26th ACM international conference on Multimedia (MM '18). Association for Computing Machinery, New York, NY, USA, 1625–1633. https://doi.org/10.1145/3240508.3240654
+
+Shubham Atreja, Pooja Aggarwal, Prateeti Mohapatra, Amol Dumrewal, Anwesh Basu, and Gargi B. Dasgupta. 2018. Citicafe: An Interactive Interface for Citizen Engagement. In 23rd International Conference on Intelligent User Interfaces (IUI '18). Association for Computing Machinery, New York, NY, USA, 617–628. https://doi.org/10.1145/3172944.3172955
+
+Özgü Alay, Andra Lutu, Miguel Peón-Quirós, Vincenzo Mancuso, Thomas Hirsch, Kristian Evensen, Audun Hansen, Stefan Alfredsson, Jonas Karlsson, Anna Brunstrom, Ali Safari Khatouni, Marco Mellia, and Marco Ajmone Marsan. 2017. Experience: An Open Platform for Experimentation with Commercial Mobile Broadband Networks. In Proceedings of the 23rd Annual International Conference on Mobile Computing and Networking (MobiCom '17). Association for Computing Machinery, New York, NY, USA, 70–78. https://doi.org/10.1145/3117811.3117812
+
+Anirban Sen, Priya Chhillar, Pooja Aggarwal, Sravan Verma, Debanjan Ghatak, Priya Kumari, Manpreet Singh Agandh, Aditya Guru, and Aaditeshwar Seth. 2019. An attempt at using mass media data to analyze the political economy around some key ICTD policies in India. In Proceedings of the Tenth International Conference on Information and Communication Technologies and Development (ICTD '19). Association for Computing Machinery, New York, NY, USA, Article 21, 1–11. https://doi.org/10.1145/3287098.3287108
+
+Changyu Li, Quanpu Cai, Juanru Li, Hui Liu, Yuanyuan Zhang, Dawu Gu, and Yu Yu. 2018. Passwords in the Air: Harvesting Wi-Fi Credentials from SmartCfg Provisioning. In Proceedings of the 11th ACM Conference on Security &amp; Privacy in Wireless and Mobile Networks (WiSec '18). Association for Computing Machinery, New York, NY, USA, 1–11. https://doi.org/10.1145/3212480.3212496
+
+Hiromi Arai, Keita Emura, and Takuya Hayashi. 2017. A Framework of Privacy Preserving Anomaly Detection: Providing Traceability without Big Brother. In Proceedings of the 2017 on Workshop on Privacy in the Electronic Society (WPES '17). Association for Computing Machinery, New York, NY, USA, 111–122. https://doi.org/10.1145/3139550.3139551
+
+Peter Pilgerstorfer and Evangelos Pournaras. 2017. Self-adaptive learning in decentralized combinatorial optimization: a design paradigm for sharing economies. In Proceedings of the 12th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS '17). IEEE Press, 54–64. https://doi.org/10.1109/SEAMS.2017.8
+
+Alok Ranjan, Prasant Misra, Arunchandar Vasan, Sunil Krishnakumar, and Anand Sivasubramaniam. 2019. City Scale Monitoring of On-Street Parking Violations with StreetHAWK. In Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '19). Association for Computing Machinery, New York, NY, USA, 31–40. https://doi.org/10.1145/3360322.3360841
+
+Jingbo Zhou and Anthony K.H. Tung. 2015. SMiLer: A Semi-Lazy Time Series Prediction System for Sensors. In Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data (SIGMOD '15). Association for Computing Machinery, New York, NY, USA, 1871–1886. https://doi.org/10.1145/2723372.2749429
+
+Harshit Gupta and Umakishore Ramachandran. 2018. FogStore: A Geo-Distributed Key-Value Store Guaranteeing Low Latency for Strongly Consistent Access. In Proceedings of the 12th ACM International Conference on Distributed and Event-based Systems (DEBS '18). Association for Computing Machinery, New York, NY, USA, 148–159. https://doi.org/10.1145/3210284.3210297
+
+Eric Corbett and Christopher A. Le Dantec. 2018. Exploring Trust in Digital Civics. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). Association for Computing Machinery, New York, NY, USA, 9–20. https://doi.org/10.1145/3196709.3196715
+
+Tsuyoshi Ichimura, Kohei Fujita, Takuma Yamaguchi, Akira Naruse, Jack C. Wells, Thomas C. Schulthess, Tjerk P. Straatsma, Christopher J. Zimmer, Maxime Martinasso, Kengo Nakajima, Muneo Hori, and Lalith Maddegedara. 2019. A fast scalable implicit solver for nonlinear time-evolution earthquake city problem on low-ordered unstructured finite elements with artificial intelligence and transprecision computing. In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC '18). IEEE Press, Article 49, 1–11. https://doi.org/10.1109/SC.2018.00052
+
+Tsuyoshi Ichimura, Kohei Fujita, Takuma Yamaguchi, Akira Naruse, Jack C. Wells, Thomas C. Schulthess, Tjerk P. Straatsma, Christopher J. Zimmer, Maxime Martinasso, Kengo Nakajima, Muneo Hori, and Lalith Maddegedara. 2018. A fast scalable implicit solver for nonlinear time-evolution earthquake city problem on low-ordered unstructured finite elements with artificial intelligence and transprecision computing. In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC '18). IEEE Press, Article 49, 1–11.
+
+Kasthuri Jayarajah, Rajesh Krishna Balan, Meera Radhakrishnan, Archan Misra, and Youngki Lee. 2016. LiveLabs: Building In-Situ Mobile Sensing &amp; Behavioural Experimentation TestBeds. In Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys '16). Association for Computing Machinery, New York, NY, USA, 1–15. https://doi.org/10.1145/2906388.2906400
+
+Dong Xie, Feifei Li, Bin Yao, Gefei Li, Liang Zhou, and Minyi Guo. 2016. Simba: Efficient In-Memory Spatial Analytics. In Proceedings of the 2016 International Conference on Management of Data (SIGMOD '16). Association for Computing Machinery, New York, NY, USA, 1071–1085. https://doi.org/10.1145/2882903.2915237
+
